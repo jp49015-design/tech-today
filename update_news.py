@@ -65,10 +65,20 @@ def fetch(source):
   age=(dt.datetime.now(dt.timezone.utc)-date).total_seconds()
   if age<0 or age>=21*86400:continue
   image=""
+  # Prefer media attachments, then images embedded in RSS article HTML.
   for node in item.iter():
    if node.tag.endswith(("thumbnail","enclosure","content")):
     candidate=node.attrib.get("url","")
-    if candidate.startswith("https://") and (node.tag.endswith("thumbnail") or "image" in node.attrib.get("type","")):image=candidate;break
+    if candidate.startswith("https://") and (node.tag.endswith("thumbnail") or "image" in node.attrib.get("type","")):
+     image=candidate;break
+  if not image:
+   for node in item.iter():
+    if node.tag.endswith(("description","encoded","summary","content")) and node.text:
+     match=re.search(r'<img[^>]+(?:src|data-src)=["\\'](https://[^"\\']+)',node.text,re.I)
+     if match:
+      image=html.unescape(match.group(1));break
+  # Preserve original publisher images without hotlinking unrelated stock art.
+   if node.tag.endswith(("thumbnail","enclosure","content")):
   results.append(dict(title=title,url=link,source=name,published=date.isoformat(),summary=summary,image=image,category=category(title,summary,default)))
  return results
 def main():
