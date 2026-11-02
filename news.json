@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:57:35.361062+00:00",
+  "updated_at": "2026-11-02T10:10:47.101172+00:00",
   "articles": [
     {
       "title": "Apple HomeView Could Double as a Security Camera",
@@ -227,15 +227,6 @@
       "category": "other"
     },
     {
-      "title": "Motorola is filling the gap OnePlus left behind, mostly",
-      "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
-      "source": "9to5Google",
-      "published": "2026-11-01T14:00:00+00:00",
-      "summary": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious difference between the two. 9to5Google Weekender by Ben Schoon is a ",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
       "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
       "source": "The Verge",
@@ -243,6 +234,15 @@
       "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff,",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0,6.1688463882248,80.59453125,89.629916092439",
       "category": "other"
+    },
+    {
+      "title": "Motorola is filling the gap OnePlus left behind, mostly",
+      "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
+      "source": "9to5Google",
+      "published": "2026-11-01T14:00:00+00:00",
+      "summary": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious difference between the two. 9to5Google Weekender by Ben Schoon is a ",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "New Zelda and GTA represent a games industry that no longer exists",
@@ -850,10 +850,10 @@
     {
       "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
       "url": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T17:27:24+00:00",
+      "source": "9to5Google",
+      "published": "2026-10-30T17:26:48+00:00",
       "summary": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Music-7-1.jpg?quality=82&strip=all&w=1600",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Apple-Music-7-1.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
     },
     {
