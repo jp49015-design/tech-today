@@ -32,8 +32,9 @@ def published(s):
  if x.tzinfo is None:x=x.replace(tzinfo=dt.timezone.utc)
  return x.astimezone(dt.timezone.utc)
 def category(title,summary,default):
- t=(title+" "+summary).lower()
- if "youtube" in t:return "youtube"
+ # Match YouTube in the headline, not incidental text in the description.
+ t=title.lower()
+ if re.search(r"\byou\s*tube\b|\byoutubers?\b",t) or default=="youtube":return "youtube"
  if any(w in t for w in ("artificial intelligence","chatgpt","gemini","copilot","openai")):return "ai"
  if any(w in t for w in ("apple","iphone","ipad","macbook")):return "apple"
  if any(w in t for w in ("google","android","pixel")):return "google"
@@ -76,7 +77,11 @@ def main():
  articles=[]
  with ThreadPoolExecutor(max_workers=6) as pool:
   for future in as_completed([pool.submit(fetch,s) for s in SOURCES]):articles.extend(future.result())
- articles.extend(old.get("articles",[]))
+ # Correct categories on previously collected articles too.
+ for a in old.get("articles",[]):
+  default=next((s[2] for s in SOURCES if s[0]==a.get("source")),"other")
+  a["category"]=category(a.get("title",""),a.get("summary",""),default)
+  articles.append(a)
  dedup={}
  for article in articles:
   key=re.sub(r"[^a-z0-9]","",article["title"].lower())[:110]
