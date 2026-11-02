@@ -43,7 +43,7 @@ def fetch(source):
  name,feed,default=source
  try:
   req=urllib.request.Request(feed,headers={"User-Agent":"TechToday/1.0 RSS reader","Accept":"application/rss+xml,application/atom+xml,application/xml"})
-  with urllib.request.urlopen(req,timeout=15) as response:root=ET.fromstring(response.read(4000000))
+  with urllib.request.urlopen(req,timeout=9) as response:root=ET.fromstring(response.read(4000000))
  except Exception as exc:
   print("WARN",name,exc);return []
  items=root.findall(".//item") or root.findall("{http://www.w3.org/2005/Atom}entry")
@@ -75,7 +75,7 @@ def main():
  path=Path(__file__).with_name("news.json")
  old=json.loads(path.read_text()) if path.exists() else {"articles":[]}
  articles=[]
- with ThreadPoolExecutor(max_workers=6) as pool:
+ with ThreadPoolExecutor(max_workers=9) as pool:
   for future in as_completed([pool.submit(fetch,s) for s in SOURCES]):articles.extend(future.result())
  # Correct categories on previously collected articles too.
  for a in old.get("articles",[]):
