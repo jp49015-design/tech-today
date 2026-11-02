@@ -20,7 +20,7 @@ jobs:
           file assets/apple-touch-icon.png
       - name: Commit iPhone icon
         run: |
-          if ! git diff --quiet -- assets/apple-touch-icon.png || [ ! -f "$(git rev-parse --show-toplevel)/assets/apple-touch-icon.png" ]; then
+          if true; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add assets/apple-touch-icon.png
