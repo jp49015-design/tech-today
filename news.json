@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T08:54:36.311790+00:00",
+  "updated_at": "2026-11-02T08:57:49.408780+00:00",
   "articles": [
     {
       "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
@@ -200,13 +200,13 @@
       "category": "other"
     },
     {
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source": "The Verge",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "source": "TechCrunch",
       "published": "2026-11-01T14:00:00+00:00",
-      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff,",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
       "image": "",
-      "category": "apple"
+      "category": "other"
     },
     {
       "title": "Motorola is filling the gap OnePlus left behind, mostly",
@@ -218,11 +218,11 @@
       "category": "google"
     },
     {
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "source": "TechCrunch",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge",
       "published": "2026-11-01T14:00:00+00:00",
-      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff,",
       "image": "",
       "category": "other"
     },
@@ -782,7 +782,7 @@
       "published": "2026-10-30T18:46:06+00:00",
       "summary": "It's been a week since the iPhone Duo was released, and MacRumors videographer Dan Barbera wanted to revisit his review since he's been able to use the Duo for a longer stretch of time. Subscribe to the MacRumors YouTube channel for more videos. You've probabl",
       "image": "",
-      "category": "youtube"
+      "category": "apple"
     },
     {
       "title": "Rare meteorite from Mars gives us a view into its ancient crust",
@@ -832,8 +832,8 @@
     {
       "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
       "url": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T17:27:24+00:00",
+      "source": "9to5Google",
+      "published": "2026-10-30T17:26:48+00:00",
       "summary": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…",
       "image": "",
       "category": "apple"
@@ -881,7 +881,7 @@
       "published": "2026-10-30T16:50:22+00:00",
       "summary": "On this week's episode of The MacRumors Show , we discuss Apple's newly announced OLED MacBook Pro , iPad mini with A20 Pro, and M6 versions of the iMac and entry-level 14-inch ‌MacBook Pro‌. Subscribe to The MacRumors Show YouTube channel for more videos The ",
       "image": "",
-      "category": "youtube"
+      "category": "apple"
     },
     {
       "title": "Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?",
