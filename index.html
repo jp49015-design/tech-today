@@ -2,5 +2,49 @@
 let articles=[],category='all',lastFetch=0,busy=false;const feed=document.querySelector('#feed'),status=document.querySelector('#status');const labels={all:'Latest headlines',youtube:'YouTube & Premium',ai:'AI',apple:'Apple',google:'Google',other:'More Tech'};const url=s=>{try{let u=new URL(s);return u.protocol==='https:'?u.href:null}catch{return null}};const fmt=s=>s?new Date(s).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'}):'Unknown';
 function render(){document.querySelector('#heading').textContent=labels[category];feed.replaceChildren();const rows=articles.filter(a=>category==='all'||a.category===category);if(!rows.length){const e=document.createElement('p');e.className='notice';e.textContent=articles.length?'No stories in this category yet.':'No headlines collected yet. Run the news collector after setup.';feed.append(e);return}for(const [i,a] of rows.entries()){if(!url(a.url))continue;const link=document.createElement('a');link.className='story'+(i===0&&url(a.image)?' featured':'');link.href=url(a.url);link.target='_blank';link.rel='noopener noreferrer';const body=document.createElement('div');body.className='story-copy';const meta=document.createElement('div');meta.className='meta';meta.textContent=(a.source||'Publisher')+' · '+fmt(a.published);const title=document.createElement('h3');title.textContent=a.title;const desc=document.createElement('p');desc.textContent=a.summary||'';const original=document.createElement('span');original.className='link';original.textContent='Read original publisher ↗';body.append(meta,title,desc,original);if(url(a.image)){const img=document.createElement('img');img.src=url(a.image);img.loading=i<3?'eager':'lazy';img.alt='';img.onerror=()=>{img.remove();link.classList.remove('featured')};if(i===0)link.append(img,body);else link.append(body,img)}else link.append(body);feed.append(link)}}
 async function refresh(){if(busy)return;busy=true;document.querySelectorAll('.refresh').forEach(b=>b.disabled=true);status.textContent='Checking for updates…';try{const response=await fetch('news.json?t='+Date.now(),{cache:'no-store'});if(!response.ok)throw Error('Feed unavailable');const data=await response.json();articles=(data.articles||[]).filter(a=>a.title&&url(a.url)).sort((a,b)=>new Date(b.published)-new Date(a.published));const stamp=fmt(data.updated_at);status.textContent=articles.length+' articles · Updated '+stamp;document.querySelector('#updated').textContent='Feed updated '+stamp;lastFetch=Date.now();render()}catch(e){status.textContent='Unable to refresh · Try again';if(!articles.length){feed.textContent='News unavailable. Try Refresh again.'}}finally{busy=false;document.querySelectorAll('.refresh').forEach(b=>b.disabled=false)}}
-document.querySelectorAll('.refresh').forEach(b=>b.addEventListener('click',refresh));document.querySelector('#category-select').addEventListener('change',e=>{category=e.target.value;render()});document.addEventListener('visibilitychange',()=>{if(!document.hidden&&Date.now()-lastFetch>15000)refresh()});window.addEventListener('pageshow',e=>{if(e.persisted)refresh()});refresh();
+// A short-lived, device-only GitHub token is held in memory, never in the public repository.
+let githubToken='';
+const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+async function collectNow(){
+ if(busy)return;
+ if(!githubToken){
+  const entered=window.prompt('To start a new news collection, paste a GitHub fine-grained personal access token with Actions: Read and write access for jp49015-design/tech-today. It stays in this browser tab memory and is not saved.');
+  if(!entered)return;
+  githubToken=entered.trim();
+ }
+ busy=true;
+ document.querySelectorAll('.refresh').forEach(b=>b.disabled=true);
+ const previous=document.querySelector('#updated').textContent;
+ status.textContent='Starting fresh collection…';
+ try{
+  const response=await fetch('https://api.github.com/repos/jp49015-design/tech-today/actions/workflows/update-news.yml/dispatches',{
+   method:'POST',
+   headers:{'Accept':'application/vnd.github+json','Authorization':'Bearer '+githubToken,'X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'},
+   body:JSON.stringify({ref:'main'})
+  });
+  if(!response.ok){
+   if(response.status===401||response.status===403)githubToken='';
+   throw Error(response.status===401||response.status===403?'GitHub authorization failed. Check token permissions.':'GitHub did not start collection (HTTP '+response.status+').');
+  }
+  status.textContent='Collection started · Waiting for new headlines…';
+  const before=previous;
+  // The collector runs asynchronously on GitHub Actions, then Pages deploys.
+  for(let i=0;i<16;i++){
+   await wait(10000);
+   const news=await fetch('news.json?t='+Date.now(),{cache:'no-store'});
+   if(!news.ok)continue;
+   const data=await news.json();
+   const stamp=fmt(data.updated_at);
+   if('Feed updated '+stamp!==before){
+    articles=(data.articles||[]).filter(a=>a.title&&url(a.url)).sort((a,b)=>new Date(b.published)-new Date(a.published));
+    status.textContent=articles.length+' articles · Updated '+stamp;
+    document.querySelector('#updated').textContent='Feed updated '+stamp;
+    lastFetch=Date.now();render();return;
+   }
+  }
+  status.textContent='Collection requested · Publication may still be processing';
+ }catch(e){status.textContent=e.message||'Unable to start collection';}
+ finally{busy=false;document.querySelectorAll('.refresh').forEach(b=>b.disabled=false)}
+}
+document.querySelectorAll('.refresh').forEach(b=>b.addEventListener('click',collectNow));document.querySelector('#category-select').addEventListener('change',e=>{category=e.target.value;render()});document.addEventListener('visibilitychange',()=>{if(!document.hidden&&Date.now()-lastFetch>15000)refresh()});window.addEventListener('pageshow',e=>{if(e.persisted)refresh()});refresh();
 </script></body></html>
