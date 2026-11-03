@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-03T02:16:00.848747+00:00",
+  "updated_at": "2026-11-03T09:41:34.487618+00:00",
   "articles": [
+    {
+      "title": "Apple Released the iPhone X Nine Years Ago Today",
+      "url": "https://www.macrumors.com/2026/11/03/apple-released-iphone-x-nine-years-ago-today/",
+      "source": "MacRumors",
+      "published": "2026-11-03T08:58:51+00:00",
+      "summary": "Apple's iPhone X went on sale nine years ago today, November 3, 2017. The 10th-anniversary iPhone was the first with an all-screen OLED display and no Home button, and its gesture navigation and Face ID authentication shaped the flagship iPhone models that fol",
+      "image": "https://images.macrumors.com/article-new/2025/04/iphone-x-front-back-feature-1.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T08:01:00+00:00",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T07:20:00+00:00",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Advancing research and partnering with universities in Singapore",
+      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "source": "Google Blog",
+      "published": "2026-11-03T04:30:00+00:00",
+      "summary": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_hero_owiy2Mr.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Android gaming is having a renaissance",
+      "url": "https://9to5google.com/2026/11/02/android-gaming-is-having-a-renaissance/",
+      "source": "9to5Google",
+      "published": "2026-11-03T03:33:40+00:00",
+      "summary": "Good morning! Today I’m mourning the loss of Patrick Stewart by rewatching First Contact , my favorite Trek movie; beginning a marathon listen of at least one great Star Trek podcast ; and replaying Elite Force and Armada , both wonderful Trek games released i",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-3.jpg?quality=82&strip=all&w=1200",
+      "category": "google"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T03:30:00+00:00",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "image": "",
+      "category": "google"
+    },
+    {
+      "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
+      "url": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case/",
+      "source": "9to5Mac",
+      "published": "2026-11-03T03:00:42+00:00",
+      "summary": "The U.S. Supreme Court has officially scheduled oral arguments in Apple’s appeal in its long-running legal battle with Epic Games. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple recently notified users in 99 countries of potential mercenary spyware attacks",
+      "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
+      "source": "9to5Mac",
+      "published": "2026-11-03T02:19:39+00:00",
+      "summary": "Apple reportedly sent notifications to users in 99 countries warning of potential mercenary spyware attacks, as German authorities investigate reports that lawmakers and government officials may have been targeted. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
       "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
@@ -68,7 +140,7 @@
       "title": "Apple's Q4 2026 Earnings Call Takeaways",
       "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
       "source": "MacRumors",
-      "published": "2026-11-03T00:27:08+00:00",
+      "published": "2026-11-03T00:26:58+00:00",
       "summary": "Apple held its earnings call for the fourth fiscal quarter of 2026 today, and it was Apple CEO John Ternus' first earnings call in his new role. He had Apple CFO Kevan Parekh on hand, and he brought in Chief Operating Officer Sabih Khan. The trio covered iPhon",
       "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg",
       "category": "apple"
@@ -959,8 +1031,8 @@
       "title": "iPhone Duo: Latest Buyer Wait Times",
       "url": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
       "source": "MacRumors",
-      "published": "2026-11-02T12:32:29+00:00",
-      "summary": "iPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of October 30. (Via Investing.com .) The USB Evidence Lab tracker covers iPhone availability across more than 30 markets, and puts the iPhone Duo b",
+      "published": "2026-11-02T12:32:23+00:00",
+      "summary": "Apple said this week that it has been unable to meet demand for the iPhone Duo and that there's no timeline for when the company will catch up. iPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of ",
       "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg",
       "category": "apple"
     },
@@ -1368,78 +1440,6 @@
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "image": "",
       "category": "ai"
-    },
-    {
-      "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-      "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
-      "source": "MacRumors",
-      "published": "2026-10-31T15:54:48+00:00",
-      "summary": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September. Note: MacRumors is an affiliate partner with some of these vendors. When you click a li",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "Reminder: Apple's Big Discount on Beats 360 Ear Cushions Ends Today",
-      "url": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
-      "source": "MacRumors",
-      "published": "2026-10-31T15:50:00+00:00",
-      "summary": "Until the end of today , Performance Knit and UltraPlush ear cushions with matching headbands for the Beats 360 are available on Apple's online store in the U.S. for $9.99 each, with customers limited to three kits per order. Lower pricing extends to other cou",
-      "image": "https://images.macrumors.com/article-new/2026/10/Beats-360-Halloween.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Here's a New Tour of Apple's HomeView Software",
-      "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
-      "source": "MacRumors",
-      "published": "2026-10-31T15:47:40+00:00",
-      "summary": "Broadcasts app developer Steve Troughton-Smith has shared a Halloween treat for us today: a tour of the software on Apple's upcoming HomeView smart home hub. Apple has already demoed the HomeView to selected tech reporters and content creators, but Troughton-S",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview-entertainment-feature-1.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
-      "url": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
-      "source": "9to5Mac",
-      "published": "2026-10-31T15:42:26+00:00",
-      "summary": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective. The product is incredible on many merits, but after seeing it, I’m not left feeling lik",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
-      "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
-      "source": "9to5Mac",
-      "published": "2026-10-31T15:42:14+00:00",
-      "summary": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun, you know? However, a recent change to Apple Maps now has some of those locations blurred from",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/CleanShot-2026-10-30-at-8.12.12-PM@2x-2.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "source": "TechCrunch",
-      "published": "2026-10-31T15:41:57+00:00",
-      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
-      "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
-      "source": "9to5Mac",
-      "published": "2026-10-31T15:19:00+00:00",
-      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Reveals New iPad Mini's Battery Capacity",
-      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
-      "source": "MacRumors",
-      "published": "2026-10-31T14:24:08+00:00",
-      "summary": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's battery. Apple's website lists identical battery life estimates ",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg",
-      "category": "apple"
     }
   ]
 }
