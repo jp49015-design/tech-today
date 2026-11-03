@@ -1,6 +1,303 @@
 {
-  "updated_at": "2026-11-02T20:07:13.424654+00:00",
+  "updated_at": "2026-11-03T02:16:00.848747+00:00",
   "articles": [
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:49:52+00:00",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Apple to require 18+ age ratings for dating apps and AI romantic companions",
+      "url": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/",
+      "source": "9to5Mac",
+      "published": "2026-11-03T01:28:51+00:00",
+      "summary": "Apple today announced new age rating requirements coming to the App Store , covering apps with location-sharing features, as well as dating and relationship features. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Google Home Speaker gets first discount since June launch",
+      "url": "https://9to5google.com/2026/11/02/google-home-speaker-discount/",
+      "source": "9to5Google",
+      "published": "2026-11-03T01:16:33+00:00",
+      "summary": "In addition to the Pixel deals that started last week , Google is discounting the Home Speaker for the first time. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-14.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T01:12:55+00:00",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
+      "url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
+      "source": "9to5Mac",
+      "published": "2026-11-03T01:07:40+00:00",
+      "summary": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps",
+      "url": "https://www.macrumors.com/2026/11/02/apple-developer-dating-app-requirement/",
+      "source": "MacRumors",
+      "published": "2026-11-03T00:43:57+00:00",
+      "summary": "Starting November 16, Apple will require developers to disclose whether their apps include real-world location sharing or dating features so age ratings can be assigned appropriately. Apple says the Dating and Relationships disclosure is required for apps that",
+      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T00:35:52+00:00",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple's Q4 2026 Earnings Call Takeaways",
+      "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
+      "source": "MacRumors",
+      "published": "2026-11-03T00:27:08+00:00",
+      "summary": "Apple held its earnings call for the fourth fiscal quarter of 2026 today, and it was Apple CEO John Ternus' first earnings call in his new role. He had Apple CFO Kevan Parekh on hand, and he brought in Chief Operating Officer Sabih Khan. The trio covered iPhon",
+      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T00:14:51+00:00",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple Dodges Question on More Price Hikes as Memory Costs Climb",
+      "url": "https://www.macrumors.com/2026/11/02/apple-memory-costs-increase-december/",
+      "source": "MacRumors",
+      "published": "2026-11-03T00:02:11+00:00",
+      "summary": "Apple expects memory costs to continue to increase in the December quarter and beyond, CEO John Ternus said during today's earnings call . Ternus, COO Sabih Khan, and CFO Kevan Parekh all commented on Apple's struggle with memory. \"What we're seeing with memor",
+      "image": "https://images.macrumors.com/article-new/2026/10/m6-macbook-pro-blue.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
+      "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T23:38:32+00:00",
+      "summary": "During today’s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter “to be the best quarter for revenue in the history of the company.” Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&strip=all&w=1500",
+      "category": "apple"
+    },
+    {
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "source": "Ars Technica",
+      "published": "2026-11-02T23:30:16+00:00",
+      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:25:32+00:00",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:13:53+00:00",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple says memory costs and Siri AI will weigh on holiday quarter profit margins",
+      "url": "https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T23:08:58+00:00",
+      "summary": "Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional pressure from Siri AI expenses during the holiday quarter. Here are t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:04:57+00:00",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "source": "The Verge",
+      "published": "2026-11-02T22:56:11+00:00",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not abl",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "Why large dogs age faster than small ones, and other October research highlights",
+      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+      "source": "Ars Technica",
+      "published": "2026-11-02T22:54:35+00:00",
+      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg",
+      "category": "other"
+    },
+    {
+      "title": "What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows",
+      "url": "https://9to5google.com/2026/11/02/november-2026-google-system-updates/",
+      "source": "9to5Google",
+      "published": "2026-11-02T22:48:58+00:00",
+      "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at de",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here’s what you need to know",
+      "url": "https://9to5google.com/2026/11/02/the-meta-quest-2-and-quest-pro-are-receiving-their-last-os-updates-soon-heres-what-you-need-to-know/",
+      "source": "9to5Google",
+      "published": "2026-11-02T22:41:05+00:00",
+      "summary": "The best-selling VR headset of all time (and its Pro-level cousin) will no longer receive OS updates after March 2027. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-2-with-quest-3-in-background.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "9to5Mac Daily: November 2, 2026 – What’s next for the Mac and iPad",
+      "url": "https://9to5mac.com/2026/11/02/daily-november-2-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T22:40:40+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple spent a record $45.77 billion on R&D in fiscal 2026, up 32%",
+      "url": "https://9to5mac.com/2026/11/02/apple-spent-a-record-45-77-billion-on-rd-in-fiscal-2026-up-32/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T22:16:51+00:00",
+      "summary": "Apple’s research and development expenses reached a new all-time high in fiscal 2026, climbing 32% year over year to $45.77 billion. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T22:14:50+00:00",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight",
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/",
+      "source": "MacRumors",
+      "published": "2026-11-02T22:03:23+00:00",
+      "summary": "Apple is unable to meet demand for the iPhone Duo and there's no timeline for when the company will catch up, CEO John Ternus told Reuters following today's earnings report . Duo is constrained as of today. The ramp is going well, and we're working hard to get",
+      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "source": "The Verge",
+      "published": "2026-11-02T22:02:36+00:00",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+      "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T21:47:30+00:00",
+      "summary": "Today Apple reported record Q4 earnings , which beat Wall Street expectations overall. And in an interview with Reuters , CEO John Ternus addressed current iPhone Duo supply constraints and also referenced units that have been returned for display issues. more",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+      "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+      "source": "MacRumors",
+      "published": "2026-11-02T21:38:09+00:00",
+      "summary": "Apple today announced financial results for the fourth fiscal quarter of 2026, which corresponds to the third calendar quarter of the year. The quarter included a number of August and September product releases from Apple, as well as the CEO transition from Ti",
+      "image": "https://images.macrumors.com/article-new/2026/11/aapl-4q26-line.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]",
+      "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T21:32:54+00:00",
+      "summary": "Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "source": "Ars Technica",
+      "published": "2026-11-02T21:21:43+00:00",
+      "summary": "The threat is still considered to be low, but the virus continues to spread.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "source": "The Verge",
+      "published": "2026-11-02T21:04:20+00:00",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and cri",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]",
+      "url": "https://9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T20:45:00+00:00",
+      "summary": "Ahead of the new Apple TV 4K’s November 13 launch , Apple today released an updated build of tvOS 27.2 exclusively for the fourth-generation model. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tvOS-27.2-hero.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "source": "The Verge",
+      "published": "2026-11-02T20:37:49+00:00",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostron",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
+    },
+    {
+      "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+      "source": "9to5Mac",
+      "published": "2026-11-02T20:07:21+00:00",
+      "summary": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired. Separately, OpenAI is also preparing to merge ChatGPT and Work into a single interface. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+      "category": "ai"
+    },
     {
       "title": "AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger",
       "url": "https://9to5google.com/2026/11/02/aawireless-charge-qi2/",
@@ -11,6 +308,15 @@
       "category": "google"
     },
     {
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "source": "The Verge",
+      "published": "2026-11-02T20:03:52+00:00",
+      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle o",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
       "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs",
       "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
       "source": "9to5Mac",
@@ -18,6 +324,15 @@
       "summary": "iOS 27.2 launched last week with a convenient new Messages feature called ‘Suggested Actions.’ Here’s how you can customize the feature to your liking. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "source": "Ars Technica",
+      "published": "2026-11-02T19:52:23+00:00",
+      "summary": "\"The flow of time is always cruel.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
+      "category": "other"
     },
     {
       "title": "MagSafe Monday: Pelican’s MagSafe Battery Pack is the battery built to go anywhere",
@@ -69,8 +384,17 @@
       "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "source": "TechCrunch",
       "published": "2026-11-02T19:19:17+00:00",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
       "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "source": "Ars Technica",
+      "published": "2026-11-02T19:13:26+00:00",
+      "summary": "A big study with very little beyond negative results still gets published.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg",
       "category": "other"
     },
     {
@@ -96,7 +420,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "source": "The Verge",
       "published": "2026-11-02T18:56:02+00:00",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while ",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
     },
@@ -204,7 +528,7 @@
       "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
       "source": "TechCrunch",
       "published": "2026-11-02T17:49:41+00:00",
-      "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
       "image": "",
       "category": "other"
     },
@@ -587,15 +911,6 @@
       "category": "apple"
     },
     {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T14:00:00+00:00",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "image": "",
-      "category": "other"
-    },
-    {
       "title": "Affinity for iPad all-in-one design app now available, free for individuals",
       "url": "https://9to5mac.com/2026/11/02/affinity-for-ipad-all-in-one-design-app-now-available-free-for-individuals/",
       "source": "9to5Mac",
@@ -603,6 +918,15 @@
       "summary": "Design app Affinity has long been popular with Mac users, and a long-awaited iPad version has launched today. Canva promises that Affinity for iPad offers “the same pro-level power” as the Mac app. It’s been a year since the company’s vector, photo, and layout",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Affinity-for-iPad-all-in-one-design-app-launches-today-free-for-individuals.jpeg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "image": "",
+      "category": "other"
     },
     {
       "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -1115,330 +1439,6 @@
       "published": "2026-10-31T14:24:08+00:00",
       "summary": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's battery. Apple's website lists identical battery life estimates ",
       "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
-      "url": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
-      "source": "9to5Mac",
-      "published": "2026-10-31T14:17:15+00:00",
-      "summary": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Ove",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-088.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "source": "TechCrunch",
-      "published": "2026-10-31T14:00:00+00:00",
-      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Top Stories: Apple's Big MacBook Pro, iPad mini and iMac Updates",
-      "url": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
-      "source": "MacRumors",
-      "published": "2026-10-31T13:00:12+00:00",
-      "summary": "One busy week after another for Apple has left our heads spinning, with this week seeing several Mac updates as well as a revamped iPad mini. All of this week's craziness comes right on the heels of last Friday's iPhone Duo launch, not to mention all of the ot",
-      "image": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-31.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
-      "url": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/",
-      "source": "9to5Google",
-      "published": "2026-10-31T12:00:00+00:00",
-      "summary": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "source": "Ars Technica",
-      "published": "2026-10-31T11:15:26+00:00",
-      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
-      "category": "other"
-    },
-    {
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "source": "Ars Technica",
-      "published": "2026-10-31T11:02:34+00:00",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
-      "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
-      "source": "MacRumors",
-      "published": "2026-10-31T06:41:45+00:00",
-      "summary": "Filming for the second season of Apple TV 's \"Pluribus\" is expected to start today in Albuquerque, New Mexico, according to a report from Production List . The acclaimed sci-fi drama stars Rhea Seehorn and was created by Vince Gilligan. Its first season debute",
-      "image": "https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
-      "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
-      "source": "MacRumors",
-      "published": "2026-10-31T05:55:35+00:00",
-      "summary": "China is doing much of the heavy lifting for Apple's iPhone 18 Pro launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to Counterpoint Research . Combined global sales of the ‌iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max rose 3",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "source": "TechCrunch",
-      "published": "2026-10-31T04:16:50+00:00",
-      "summary": "The money behind the money is thrilled, mostly.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch",
-      "published": "2026-10-31T01:20:05+00:00",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
-      "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/",
-      "source": "9to5Google",
-      "published": "2026-10-31T01:20:00+00:00",
-      "summary": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
-      "url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
-      "source": "9to5Mac",
-      "published": "2026-10-31T01:03:35+00:00",
-      "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "source": "Ars Technica",
-      "published": "2026-10-31T00:07:22+00:00",
-      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "WhatsApp announces four new features to make group chats easier to manage",
-      "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T23:36:34+00:00",
-      "summary": "In a blog post this week, WhatsApp confirmed that it is rolling out four new features designed to make it easier to manage group chats and keep track of what’s going on in each one. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
-      "url": "https://9to5mac.com/2026/10/30/daily-october-30-2026/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T23:25:16+00:00",
-      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T23:21:23+00:00",
-      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
-      "url": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
-      "source": "MacRumors",
-      "published": "2026-10-30T23:15:55+00:00",
-      "summary": "Apple today released HomeView Software 27.2, which is the software that runs on the upcoming HomeView device set to launch on November 13. The HomeView was announced earlier in October, but the early software release gives us a look at features like wallpapers",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T22:56:13+00:00",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
-      "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T22:37:36+00:00",
-      "summary": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-burgundy.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T22:36:41+00:00",
-      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T22:21:05+00:00",
-      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
-      "category": "other"
-    },
-    {
-      "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
-      "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
-      "source": "MacRumors",
-      "published": "2026-10-30T22:20:10+00:00",
-      "summary": "In a memo shared with Apple Stores and Apple Authorized Service Providers this week, and later obtained by MacRumors , Apple provided technicians with guidance on how to diagnose and address the iPhone Duo's inner display cracking issue. If a customer reports ",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Display-Cracking.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T21:54:34+00:00",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T21:52:03+00:00",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "iOS 27.3 Will Enable These Apple Intelligence Features in China",
-      "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china/",
-      "source": "MacRumors",
-      "published": "2026-10-30T21:46:00+00:00",
-      "summary": "Apple's website in China says iOS 27.3 will enable some Apple Intelligence features in China, such as Writing Tools, Genmoji, Clean Up, Notification Summaries, Priority Notifications, Visual Intelligence, and Live Translation with AirPods. Select features will",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Intelligence-China.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Says iOS 27.3 Beta Coming Next Week",
-      "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
-      "source": "MacRumors",
-      "published": "2026-10-30T21:45:09+00:00",
-      "summary": "Apple today announced that the first iOS 27.3 developer beta will be released next week and enable some Apple Intelligence features in China . In a press release shared on the Apple Newsroom website in China, Apple said the beta will be released on Wednesday, ",
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-      "url": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T21:44:44+00:00",
-      "summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/pluribus-s1-rhea-seehorn-dark.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T21:41:54+00:00",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T21:09:54+00:00",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "category": "other"
-    },
-    {
-      "title": "Pixelated 123: The primary value is the clock",
-      "url": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
-      "source": "9to5Google",
-      "published": "2026-10-30T21:00:00+00:00",
-      "summary": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google’s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After, the gang gets bleak ab",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "‘Knives Out’ director launches iPhone camera app that shoots like his movies",
-      "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/",
-      "source": "9to5Mac",
-      "published": "2026-10-30T20:44:08+00:00",
-      "summary": "Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘ films. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/rian-camera-app.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T20:40:13+00:00",
-      "summary": "People who love AI don't always love telling others they used it.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
-      "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
-      "source": "MacRumors",
-      "published": "2026-10-30T20:28:26+00:00",
-      "summary": "The Wall Street Journal 's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over the past year due to a severe memory chip shortage, which stems from AI companies building ou",
-      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T20:17:50+00:00",
-      "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Google Fitbit Edge: On shelves now",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
-      "source": "Google Blog",
-      "published": "2026-10-30T20:15:00+00:00",
-      "summary": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "14 New Things Your iPhone Can Do in iOS 27.2",
-      "url": "https://www.macrumors.com/2026/10/30/new-things-iphone-can-do-ios-27-2/",
-      "source": "MacRumors",
-      "published": "2026-10-30T19:42:54+00:00",
-      "summary": "Apple released iOS 27.2 on October 26, bringing enhancements to Siri AI, adding Suggestions in Messages, and sneaking in a string of smaller additions across Photos, Podcasts, Games, Apple TV, and FaceTime. iOS 27.2 is available to download to your device now ",
-      "image": "https://images.macrumors.com/article-new/2026/10/Everything-New-Your-iPhone-Can-Do-on-iOS-27.2-Feature-1.jpg",
       "category": "apple"
     }
   ]
