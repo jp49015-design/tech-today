@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-11-03T22:24:36.456036+00:00",
+  "updated_at": "2026-11-04T02:32:01.008558+00:00",
   "articles": [
+    {
+      "title": "‘Stick’ season 2 premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
+      "source": "9to5Mac",
+      "published": "2026-11-04T02:01:01+00:00",
+      "summary": "Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified ), among others. Watch the trailer below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "source": "The Verge",
+      "published": "2026-11-04T01:15:34+00:00",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next q",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "source": "The Verge",
+      "published": "2026-11-04T01:02:53+00:00",
+      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Everything New in the iOS 27.3 Beta",
+      "url": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
+      "source": "MacRumors",
+      "published": "2026-11-04T00:52:02+00:00",
+      "summary": "Apple today started testing iOS 27.3, the biggest update to iOS 27 since it launched in September. iOS 27.3 includes some features Apple showed off earlier this year, and it adds all-new capabilities. Subscribe to the MacRumors YouTube channel for more videos.",
+      "image": "https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge",
+      "published": "2026-11-04T00:42:10+00:00",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
+      "url": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+      "source": "MacRumors",
+      "published": "2026-11-04T00:05:45+00:00",
+      "summary": "iOS 27.3 adds a new \"Selfie Sing\" feature in Apple Music that lets users record themselves while singing a song. There's a dedicated Selfie Sing playlist and a selfie camera view that shows lyrics on the screen while also recording a video. Apple has a descrip",
+      "image": "https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Follow today’s midterm election results with the Apple News Live Activity",
+      "url": "https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/",
+      "source": "9to5Mac",
+      "published": "2026-11-04T00:01:02+00:00",
+      "summary": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time. Here’s how it works. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/midterms-live-activity.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Eney from MacPaw is an AI assistant with deep Apple integrations",
+      "url": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
+      "source": "9to5Mac",
+      "published": "2026-11-03T23:45:00+00:00",
+      "summary": "MacPaw, the makers of CleanMyMac and Setapp, have an AI assistant called Eney that’s designed for Apple users. Eney is available across Mac and iPhone and is built to integrate with core Apple services like Mail, Calendar, and Reminders, plus a lot more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Banners-AI-Assistant-Dark.png?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge",
+      "published": "2026-11-03T23:37:45+00:00",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
+      "url": "https://9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look/",
+      "source": "9to5Mac",
+      "published": "2026-11-03T23:11:22+00:00",
+      "summary": "Starting with macOS 27.3, users can preview Markdown files with proper formatting directly in Quick Look. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/markdown-quick-look.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "source": "The Verge",
+      "published": "2026-11-03T22:59:36+00:00",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perk",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T22:41:03+00:00",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "source": "Ars Technica",
+      "published": "2026-11-03T22:39:37+00:00",
+      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg",
+      "category": "other"
+    },
     {
       "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
       "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
@@ -24,7 +141,7 @@
       "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "source": "TechCrunch",
       "published": "2026-11-03T22:19:53+00:00",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
       "image": "",
       "category": "other"
     },
@@ -42,7 +159,7 @@
       "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
       "source": "The Verge",
       "published": "2026-11-03T22:04:02+00:00",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one developer downloading a tampered install",
+      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered inst",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
     },
@@ -60,7 +177,7 @@
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "source": "TechCrunch",
       "published": "2026-11-03T21:43:08+00:00",
-      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "image": "",
       "category": "other"
     },
@@ -146,7 +263,7 @@
       "category": "other"
     },
     {
-      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
       "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
       "source": "TechCrunch",
       "published": "2026-11-03T20:57:17+00:00",
@@ -992,6 +1109,15 @@
       "category": "google"
     },
     {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T14:30:00+00:00",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "image": "",
+      "category": "other"
+    },
+    {
       "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
       "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
       "source": "TechCrunch",
@@ -1073,6 +1199,15 @@
       "category": "other"
     },
     {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "image": "",
+      "category": "other"
+    },
+    {
       "title": "New research shows how Guided Learning supports students",
       "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
       "source": "Google Blog",
@@ -1125,15 +1260,6 @@
       "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp",
       "category": "google"
-    },
-    {
-      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T14:00:00+00:00",
-      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-      "image": "",
-      "category": "other"
     },
     {
       "title": "Google has fixed Android Auto issues on Samsung Galaxy phones running One UI 9 [U]",
@@ -1314,132 +1440,6 @@
       "summary": "In addition to the Pixel deals that started last week , Google is discounting the Home Speaker for the first time. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-14.jpg?quality=82&strip=all&w=1600",
       "category": "google"
-    },
-    {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T01:12:55+00:00",
-      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
-      "url": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T01:07:40+00:00",
-      "summary": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps",
-      "url": "https://www.macrumors.com/2026/11/02/apple-developer-dating-app-requirement/",
-      "source": "MacRumors",
-      "published": "2026-11-03T00:43:57+00:00",
-      "summary": "Starting November 16, Apple will require developers to disclose whether their apps include real-world location sharing or dating features so age ratings can be assigned appropriately. Apple says the Dating and Relationships disclosure is required for apps that",
-      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T00:35:52+00:00",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple's Q4 2026 Earnings Call Takeaways",
-      "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
-      "source": "MacRumors",
-      "published": "2026-11-03T00:26:58+00:00",
-      "summary": "Apple held its earnings call for the fourth fiscal quarter of 2026 today, and it was Apple CEO John Ternus' first earnings call in his new role. He had Apple CFO Kevan Parekh on hand, and he brought in Chief Operating Officer Sabih Khan. The trio covered iPhon",
-      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T00:14:51+00:00",
-      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple Dodges Question on More Price Hikes as Memory Costs Climb",
-      "url": "https://www.macrumors.com/2026/11/02/apple-memory-costs-increase-december/",
-      "source": "MacRumors",
-      "published": "2026-11-03T00:02:11+00:00",
-      "summary": "Apple expects memory costs to continue to increase in the December quarter and beyond, CEO John Ternus said during today's earnings call . Ternus, COO Sabih Khan, and CFO Kevan Parekh all commented on Apple's struggle with memory. \"What we're seeing with memor",
-      "image": "https://images.macrumors.com/article-new/2026/10/m6-macbook-pro-blue.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
-      "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
-      "source": "9to5Mac",
-      "published": "2026-11-02T23:38:32+00:00",
-      "summary": "During today’s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter “to be the best quarter for revenue in the history of the company.” Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&strip=all&w=1500",
-      "category": "apple"
-    },
-    {
-      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-      "source": "Ars Technica",
-      "published": "2026-11-02T23:30:16+00:00",
-      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T23:25:32+00:00",
-      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T23:13:53+00:00",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple says memory costs and Siri AI will weigh on holiday quarter profit margins",
-      "url": "https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins/",
-      "source": "9to5Mac",
-      "published": "2026-11-02T23:08:58+00:00",
-      "summary": "Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional pressure from Siri AI expenses during the holiday quarter. Here are t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "source": "TechCrunch",
-      "published": "2026-11-02T23:04:57+00:00",
-      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
-      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-      "source": "The Verge",
-      "published": "2026-11-02T22:56:11+00:00",
-      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not abl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "apple"
     }
   ]
 }
