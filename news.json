@@ -1,8 +1,107 @@
 {
-  "updated_at": "2026-11-04T22:52:04.987468+00:00",
+  "updated_at": "2026-11-05T02:58:12.352368+00:00",
   "articles": [
     {
-      "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+      "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
+      "source": "9to5Mac",
+      "published": "2026-11-05T02:00:00+00:00",
+      "summary": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre store in Downtown Los Angeles. Watch the livestream below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labirinth.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T01:26:22+00:00",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch",
+      "published": "2026-11-05T01:02:14+00:00",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "source": "The Verge",
+      "published": "2026-11-05T00:25:12+00:00",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
+      "source": "MacRumors",
+      "published": "2026-11-05T00:21:48+00:00",
+      "summary": "Apple today released a new update for Safari Technology Preview , the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S",
+      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
+      "url": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
+      "source": "9to5Mac",
+      "published": "2026-11-05T00:17:49+00:00",
+      "summary": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+      "url": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
+      "source": "9to5Mac",
+      "published": "2026-11-04T23:59:10+00:00",
+      "summary": "According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/a19-pro-apple-black.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
+      "url": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
+      "source": "MacRumors",
+      "published": "2026-11-04T23:58:24+00:00",
+      "summary": "Apple today added a new subscription retention feature for developers, allowing them to show retention messages when a subscriber goes to cancel. Apple says retention messages will appear in the subscription cancellation flow and can include text, images, or a",
+      "image": "https://images.macrumors.com/article-new/2026/11/app-store-subscription-retention.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available",
+      "url": "https://9to5mac.com/2026/11/04/daily-november-4-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-04T23:25:26+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
+      "url": "https://www.macrumors.com/2026/11/04/nintendo-games-apple-tv/",
+      "source": "MacRumors",
+      "published": "2026-11-04T23:20:15+00:00",
+      "summary": "A Reddit user was able to get Nintendo's \"Animal Crossing: New Horizons\" and \"Super Mario Odyssey\" to run natively on the Apple TV 4K , continuing a string of ports made possible with the use of AI (via Engadget ). TVPort , Reddit user FloatingFalafel's open-s",
+      "image": "https://images.macrumors.com/article-new/2026/11/super-mario-odyssey-apple-tv.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "Ars Technica",
+      "published": "2026-11-04T22:47:51+00:00",
+      "summary": "And what that could mean for physical Switch game costs.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "source": "TechCrunch",
       "published": "2026-11-04T22:45:09+00:00",
@@ -29,6 +128,15 @@
       "category": "apple"
     },
     {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "source": "Ars Technica",
+      "published": "2026-11-04T22:26:49+00:00",
+      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
+      "category": "google"
+    },
+    {
       "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
       "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
       "source": "TechCrunch",
@@ -47,6 +155,15 @@
       "category": "apple"
     },
     {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "Ars Technica",
+      "published": "2026-11-04T21:56:29+00:00",
+      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
+      "category": "other"
+    },
+    {
       "title": "Almost no one uses AI agents to book their Uber, company says",
       "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
       "source": "TechCrunch",
@@ -59,7 +176,7 @@
       "title": "HomePod Mini 2's Amount of RAM Confirmed",
       "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
       "source": "MacRumors",
-      "published": "2026-11-04T21:50:54+00:00",
+      "published": "2026-11-04T21:50:46+00:00",
       "summary": "MacRumors has confirmed that the HomePod mini 2 is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in the Apple Watch Series 10 also has 2GB of RAM, but Apple does not list this information in its tech specs for th",
       "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
       "category": "apple"
@@ -300,12 +417,12 @@
     },
     {
       "title": "Meet the 20 first-place apps from RevenueCat’s Shipaton 2026",
-      "url": "https://9to5google.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
-      "source": "9to5Google",
-      "published": "2026-11-04T18:53:22+00:00",
+      "url": "https://9to5mac.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-04T18:52:45+00:00",
       "summary": "A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore. RevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its wi",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/revenuecat-shipaton-2026.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/revenuecat-shipaton-2026.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
@@ -380,15 +497,6 @@
       "category": "other"
     },
     {
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "source": "The Verge",
-      "published": "2026-11-04T18:00:00+00:00",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
       "title": "‘Enough Phone’ is an Android phone roughly the size of iPhone 13 Mini, launching in 2027",
       "url": "https://9to5google.com/2026/11/04/enough-phone-small-android-phone-2027/",
       "source": "9to5Google",
@@ -405,6 +513,15 @@
       "summary": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp",
       "category": "google"
+    },
+    {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "source": "The Verge",
+      "published": "2026-11-04T18:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
     },
     {
       "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
@@ -1323,123 +1440,6 @@
       "summary": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3 , AirPods 4, AirPods 5 , and AirPods Max 2 . The firmware has a build number of 9B5045a and is rolling out for developers and public beta testers. There's no word on what's included in",
       "image": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
       "category": "apple"
-    },
-    {
-      "title": "Developers can now create advanced ‘app skills’ for Siri AI",
-      "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T19:25:48+00:00",
-      "summary": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations for the first time. The first versions of Siri AI were limited to a much smaller set of supported schemas. The new ‘app skills’ als",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-Beta-macOS-27-Top-Features.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "iOS 27.3 Beta Brings Apple Intelligence to China",
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-apple-intelligence-china-2/",
-      "source": "MacRumors",
-      "published": "2026-11-03T19:25:00+00:00",
-      "summary": "Select Apple Intelligence features are now available in China , with Apple testing the functionality in the iOS 27.3 beta. Developers in China can turn on ‌Apple Intelligence‌ after updating to the new software. ‌Apple Intelligence‌ first launched in the Unite",
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-intelligence-china.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T19:24:37+00:00",
-      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "iOS 27.3 expands Siri AI with many new capabilities across Apple apps",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T19:19:40+00:00",
-      "summary": "iOS 27.3 has just entered beta testing and includes major new features for Siri AI across iPhone, iPad and Mac. The company has unlocked many new capabilities across major Apple apps, like Music, Messages, Safari, Reminders and more. We are still digging into ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "iPhone Duo Gets Reachability in iOS 27.3 Beta",
-      "url": "https://www.macrumors.com/2026/11/03/iphone-duo-reachability-ios-27-3/",
-      "source": "MacRumors",
-      "published": "2026-11-03T19:19:02+00:00",
-      "summary": "With today's iOS 27.3 beta, Apple expanded Reachability to the iPhone Duo . Reachability lets ‌iPhone Duo‌ users shift the content on the left or right side of the outer screen to make it easier to reach with a thumb. Reachability can be turned on or off by go",
-      "image": "https://images.macrumors.com/article-new/2026/11/ios-27-3-reachability-duo.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "iOS 27.3 introduces new iPhone Duo feature for one-handed use",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-introduces-new-iphone-duo-feature-for-one-handed-use/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T19:09:11+00:00",
-      "summary": "iOS 27.3 beta 1 launched today with a variety of new features, including a big upgrade for one-handed iPhone Duo use thanks to Reachability. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Siri AI Gets More Capable in iOS 27.3",
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai/",
-      "source": "MacRumors",
-      "published": "2026-11-03T19:06:26+00:00",
-      "summary": "Apple is expanding what Siri AI can do in and across apps in iOS 27.3, which is available to developers as of today. ‌Siri‌ can complete more complex tasks across Calendar, Files, Finder, Journal, Mail, Maps, Messages, Music, Notes, Photos , Preview, Reminders",
-      "image": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Everything new in iOS 27.3 beta 1 so far",
-      "url": "https://9to5mac.com/2026/11/03/everything-new-in-ios-27-3-beta-1-so-far/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T19:05:31+00:00",
-      "summary": "iOS 27.3 beta 1 is here. Apple’s next iPhone software update brings a ton of changes including the redesigned Health app and much more. Below, we’re collecting the new features and changes discovered during testing. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-hero.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T19:04:52+00:00",
-      "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "watchOS 27.3 beta adds new Siri Recap and Live Rewind features for Apple Watch",
-      "url": "https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T18:56:25+00:00",
-      "summary": "Apple has released the first beta of watchOS 27.3 for developers, including two new Audio Intelligence features for Apple Watch Series 12 and Apple Watch Ultra 4: Siri Recap and Live Rewind. Apple first announced these features at its special event in Septembe",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-live-rewind-demo.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "iOS 27.3 and macOS 27.3 add Vertical Tabs, Adaptive Dark Mode, and more to Safari",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T18:51:53+00:00",
-      "summary": "Apple just released the first betas of iOS 27.3, iPadOS 27.3, and macOS 27.3, with some big changes to Safari. The updates add a new vertical tab layout, Adaptive Dark Mode, and Siri AI Custom Actions. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari",
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
-      "source": "MacRumors",
-      "published": "2026-11-03T18:51:37+00:00",
-      "summary": "With iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple is making major updates to Safari. The browser is getting a Vertical Tabs layout, which can be used instead of the standard horizontal tab bar. It's a change that pairs well with the iPhone Duo 's l",
-      "image": "https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
-      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T18:51:33+00:00",
-      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
