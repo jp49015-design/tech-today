@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-05T02:58:12.352368+00:00",
+  "updated_at": "2026-11-05T10:40:20.761829+00:00",
   "articles": [
+    {
+      "title": "Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It",
+      "url": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
+      "source": "MacRumors",
+      "published": "2026-11-05T10:32:51+00:00",
+      "summary": "If you bought an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, tomorrow could be your last chance to return it for a refund. Apple officially launched the iPhone Duo on Friday, October 23, so the standard ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+      "source": "Ars Technica",
+      "published": "2026-11-05T09:00:13+00:00",
+      "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Apple Launching Five New Products Tomorrow",
+      "url": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
+      "source": "MacRumors",
+      "published": "2026-11-05T08:59:18+00:00",
+      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week , including its first touchscreen MacBook Pro models. The following new products will be available from tomorrow: iPad mini with OLED display and A20 Pro c",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "source": "The Verge",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also ext",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
       "url": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
@@ -417,12 +453,12 @@
     },
     {
       "title": "Meet the 20 first-place apps from RevenueCat’s Shipaton 2026",
-      "url": "https://9to5mac.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
-      "source": "9to5Mac",
-      "published": "2026-11-04T18:52:45+00:00",
+      "url": "https://9to5google.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
+      "source": "9to5Google",
+      "published": "2026-11-04T18:53:22+00:00",
       "summary": "A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore. RevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its wi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/revenuecat-shipaton-2026.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/revenuecat-shipaton-2026.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
@@ -1403,42 +1439,6 @@
       "published": "2026-11-03T19:35:33+00:00",
       "summary": "With iOS 27.3, Apple is adding a new Gym Strength workout to Apple Fitness+. It's a custom fitness option that generates a four-week plan based on a user's goals, experience, schedule, and equipment. People of all experience levels can use the feature, selecti",
       "image": "https://images.macrumors.com/article-new/2026/11/apple-fitness-plus-strength.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch",
-      "published": "2026-11-03T19:34:43+00:00",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "iOS 27.3 brings Apple Intelligence features to China",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
-      "source": "9to5Mac",
-      "published": "2026-11-03T19:31:26+00:00",
-      "summary": "iOS 27.3 beta 1 is here , and it includes the first Apple Intelligence features in China. Siri AI isn’t available yet, but a lot of other capabilities are. Here’s what to expect. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer",
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-new-standby-features-on-more-iphones/",
-      "source": "MacRumors",
-      "published": "2026-11-03T19:31:13+00:00",
-      "summary": "iOS 27.3 will expand new StandBy features first introduced on the iPhone Duo to all iPhone models compatible with the update, according to Apple. StandBy mode makes it easier to view information at a glance while your iPhone is placed on a charger and in a lan",
-      "image": "https://images.macrumors.com/article-new/2023/06/StandBy-iOS-17.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Releases New AirPods Beta Firmware",
-      "url": "https://www.macrumors.com/2026/11/03/airpods-beta-firmware-9b5045a/",
-      "source": "MacRumors",
-      "published": "2026-11-03T19:29:37+00:00",
-      "summary": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3 , AirPods 4, AirPods 5 , and AirPods Max 2 . The firmware has a build number of 9B5045a and is rolling out for developers and public beta testers. There's no word on what's included in",
-      "image": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
       "category": "apple"
     }
   ]
