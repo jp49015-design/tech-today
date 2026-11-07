@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-07T15:56:39.929132+00:00",
+  "updated_at": "2026-11-07T19:59:17.505498+00:00",
   "articles": [
+    {
+      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
+      "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T19:11:00+00:00",
+      "summary": "Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T19:00:00+00:00",
+      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
+      "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T18:02:09+00:00",
+      "summary": "For the first time in a long time, I can say that iPhone cases are fun again! The introduction of the iPhone Duo has brought us a new era of cases in all shapes, sizes, functions, and form factors. We are still in the infancy of this new ecosystem of iPhone Du",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Cases-FI.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
+      "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T17:45:55+00:00",
+      "summary": "Next spring, Apple will take the stage to unveil the second-generation iPhone Air to the world, after taking a bit more time to go back to the drawing board and incorporate a second camera into the design. That said, iPhone Air is no longer the flashy cool pho",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T17:24:07+00:00",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T17:18:00+00:00",
+      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Remove your personal info from the web (and stop it coming back)",
+      "url": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T17:00:00+00:00",
+      "summary": "It seems incredible that anyone can legally create a business which involves scraping your personal data from the web and then selling it, yet here we are. There are literally hundreds of data brokers doing just this. They also buy data from app developers, wh",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2_1_Incogni_partnerships_generic_v3.png?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "The Verge",
+      "published": "2026-11-07T17:00:00+00:00",
+      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Ha",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-07T16:00:00+00:00",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Co",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "published": "2026-11-07T16:00:00+00:00",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a sh",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
       "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
@@ -83,15 +173,6 @@
       "category": "apple"
     },
     {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
-      "published": "2026-11-07T12:30:00+00:00",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursd",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
       "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
       "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
       "source": "9to5Google",
@@ -99,6 +180,15 @@
       "summary": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
       "category": "google"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "published": "2026-11-07T12:30:00+00:00",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursd",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
     },
     {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
@@ -1350,96 +1440,6 @@
       "summary": "Apple refreshed both the iPad mini and iPad Air this year, but the choice is now less straightforward and there is just a $50 price difference between them, so which should you choose? The eighth-generation ‌iPad Air‌ arrived in March with the M4 chip, 12GB of",
       "image": "https://images.macrumors.com/article-new/2026/11/iPad-Air-v-Mini-Feature-scaled.jpg",
       "category": "apple"
-    },
-    {
-      "title": "Samsung brings back free doubled storage discount on Galaxy Z Fold 8",
-      "url": "https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/",
-      "source": "9to5Google",
-      "published": "2026-11-05T20:30:00+00:00",
-      "summary": "Samsung is running its much-loved “double the storage” promo on its Galaxy Z Fold 8 right now. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-3.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-      "source": "Google Blog",
-      "published": "2026-11-05T20:00:00+00:00",
-      "summary": "Create longer AI videos in Google Vids with the new Omni 1.2 Flash model. Generate 15-second clips and consistent scenes for free. Try it now.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T19:59:22+00:00",
-      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png",
-      "category": "other"
-    },
-    {
-      "title": "iOS 27.3 changes the iPhone Duo keyboard, here’s how",
-      "url": "https://9to5mac.com/2026/11/05/ios-27-3-changes-the-iphone-duo-keyboard-heres-how/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T19:52:53+00:00",
-      "summary": "iPhone Duo has only been available for a couple weeks, but Apple keeps improving the product with software enhancements. The latest arrives in the iOS 27.3 beta via a convenient keyboard update. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:48:28+00:00",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T19:46:37+00:00",
-      "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Report: Apple’s planned $7 billion bond sale attracts four times as much demand",
-      "url": "https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T19:43:10+00:00",
-      "summary": "Apple has filed a preliminary prospectus with the SEC outlining plans to issue seven series of bonds. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "MacBook Pro with PROLED review, new iPad mini hands-on, and iOS 27.3 features",
-      "url": "https://9to5mac.com/2026/11/05/happy-hour-615/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T19:24:26+00:00",
-      "summary": "It’s another bumper week, with Chance’s hands-on reviews of both the new iPad mini and the new MacBook Pro to discuss, especially around just how good the OLED display looks, and how touchscreens fit into the Mac ecosystem. Also, iOS 27.3 is packed with a bunc",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-05T19:12:58+00:00",
-      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only l",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T19:12:39+00:00",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
