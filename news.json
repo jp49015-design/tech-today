@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-07T02:57:43.475926+00:00",
+  "updated_at": "2026-11-07T09:49:39.523199+00:00",
   "articles": [
+    {
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T05:01:54+00:00",
+      "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T04:16:43+00:00",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "image": "",
+      "category": "other"
+    },
     {
       "title": "Apple Music Classical gets new black-and-white icon in latest update",
       "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
@@ -1422,24 +1440,6 @@
       "summary": "Warby Parker announced today that the first Android XR audio glasses will be available for pre-order on November 12. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-13.jpg?quality=82&strip=all&w=1600",
       "category": "google"
-    },
-    {
-      "title": "EA is bringing 25 classic PC games to Steam",
-      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-      "source": "The Verge",
-      "published": "2026-11-05T18:30:00+00:00",
-      "summary": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" but also hav",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ROAD_RASH.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
-      "url": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T18:23:55+00:00",
-      "summary": "Bad Monkey , an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
     }
   ]
 }
