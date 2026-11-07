@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-06T23:22:01.042361+00:00",
+  "updated_at": "2026-11-07T02:57:43.475926+00:00",
   "articles": [
+    {
+      "title": "Apple Music Classical gets new black-and-white icon in latest update",
+      "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T02:11:48+00:00",
+      "summary": "Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated Apple Music Classical to match the new design. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-music-classical.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T01:40:28+00:00",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "image": "",
+      "category": "google"
+    },
+    {
+      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
+      "url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-06T23:47:18+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "published": "2026-11-06T23:46:18+00:00",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "ai"
+    },
+    {
+      "title": "More Fun iPhone Duo Apps: 30 New Picks to Try",
+      "url": "https://www.macrumors.com/2026/11/06/iphone-duo-app-suggestions/",
+      "source": "MacRumors",
+      "published": "2026-11-06T23:27:55+00:00",
+      "summary": "When the iPhone Duo launched, we shared a list of some of the fun apps developers created for the new form factor. Two weeks out, developers are continuing to come up with fresh ideas, so we thought we'd share some of our favorites. Games Marbles Unhinged ($2.",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
+      "category": "apple"
+    },
     {
       "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
       "url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
@@ -18,6 +63,15 @@
       "summary": "An issue with Google’s original Nest Doorbell has left live view of the video feed broken for many owners, and there’s no word on a fix just yet. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&strip=all&w=1600",
       "category": "google"
+    },
+    {
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T23:09:45+00:00",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
+      "category": "other"
     },
     {
       "title": "China reportedly recruited AI exec to spy on Jensen Huang",
@@ -47,6 +101,15 @@
       "category": "other"
     },
     {
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T22:41:37+00:00",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
+      "category": "other"
+    },
+    {
       "title": "Android XR glasses officially get a December release date [Video]",
       "url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
       "source": "9to5Google",
@@ -63,6 +126,15 @@
       "summary": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T22:08:47+00:00",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
+      "category": "other"
     },
     {
       "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
@@ -123,7 +195,7 @@
       "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
       "source": "TechCrunch",
       "published": "2026-11-06T21:38:05+00:00",
-      "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "image": "",
       "category": "apple"
     },
@@ -151,7 +223,7 @@
       "source": "Ars Technica",
       "published": "2026-11-06T20:56:41+00:00",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
       "category": "other"
     },
     {
@@ -771,7 +843,7 @@
       "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
       "source": "TechCrunch",
       "published": "2026-11-06T11:50:10+00:00",
-      "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
       "image": "",
       "category": "other"
     },
@@ -1368,78 +1440,6 @@
       "summary": "Bad Monkey , an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
-    },
-    {
-      "title": "Apple Announces a New Mac Sales Record",
-      "url": "https://www.macrumors.com/2026/11/05/apple-announces-a-new-mac-sales-record/",
-      "source": "MacRumors",
-      "published": "2026-11-05T18:22:34+00:00",
-      "summary": "On an earnings call earlier this week, Apple CEO John Ternus announced that the company sold more Macs in its 2026 fiscal year than any previous fiscal year. \"We have never sold more Macs in a fiscal year than we did this time, which is a truly remarkable test",
-      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Anthropic upgrades Claude with new Personal Finance feature",
-      "url": "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T18:14:22+00:00",
-      "summary": "Having the right context is what makes AI tools useful. Anthropic just launched the ability to securely use personal finance data with Claude. The company emphasizes that the feature is read-only and can’t take financial actions. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/claude-personal-finance.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:02:27+00:00",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "image": "",
-      "category": "ai"
-    },
-    {
-      "title": "Madden NFL 27 and NBA The Run are now free on Amazon Luna",
-      "url": "https://9to5google.com/2026/11/05/madden-nfl-27-and-nba-the-run-are-now-free-on-amazon-luna/",
-      "source": "9to5Google",
-      "published": "2026-11-05T18:00:00+00:00",
-      "summary": "Amazon Luna is getting another big freebie, as Madden NFL 27 is available today on the cloud gaming platform at no extra cost. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-luna-madden-1.png?w=1600",
-      "category": "google"
-    },
-    {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:00:00+00:00",
-      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:00:00+00:00",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Claude AI can plug directly into your bank account",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "source": "The Verge",
-      "published": "2026-11-05T18:00:00+00:00",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Harbinger raises $240M after expanding into defense",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T17:52:44+00:00",
-      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
