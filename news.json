@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-07T19:59:17.505498+00:00",
+  "updated_at": "2026-11-07T23:35:30.542317+00:00",
   "articles": [
+    {
+      "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
+      "url": "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
+      "source": "9to5Google",
+      "published": "2026-11-07T23:08:00+00:00",
+      "summary": "In addition to the new app icon , Google Messages for Android is testing a big homepage redesign that has three core components. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T22:07:22+00:00",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "published": "2026-11-07T21:17:08+00:00",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
+      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
+      "source": "MacRumors",
+      "published": "2026-11-07T20:50:00+00:00",
+      "summary": "Black Friday is now just a few weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
+      "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
+      "source": "MacRumors",
+      "published": "2026-11-07T20:44:15+00:00",
+      "summary": "A new \"Backglow\" app created by designer Juan Buis lets you customize the illuminated Apple logo on the lid of the new MacBook Pro models. The free version of the app allows you to manually adjust the brightness level of the Apple logo, independent of the MacB",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
+      "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T20:30:00+00:00",
+      "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you find yourself playing an instrument with sheet music, fli",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
       "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
@@ -56,15 +110,6 @@
       "category": "other"
     },
     {
-      "title": "Remove your personal info from the web (and stop it coming back)",
-      "url": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
-      "source": "9to5Mac",
-      "published": "2026-11-07T17:00:00+00:00",
-      "summary": "It seems incredible that anyone can legally create a business which involves scraping your personal data from the web and then selling it, yet here we are. There are literally hundreds of data brokers doing just this. They also buy data from app developers, wh",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2_1_Incogni_partnerships_generic_v3.png?w=1600",
-      "category": "apple"
-    },
-    {
       "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
       "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
       "source": "The Verge",
@@ -72,6 +117,15 @@
       "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Ha",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Remove your personal info from the web (and stop it coming back)",
+      "url": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
+      "source": "9to5Mac",
+      "published": "2026-11-07T17:00:00+00:00",
+      "summary": "It seems incredible that anyone can legally create a business which involves scraping your personal data from the web and then selling it, yet here we are. There are literally hundreds of data brokers doing just this. They also buy data from app developers, wh",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2_1_Incogni_partnerships_generic_v3.png?w=1600",
+      "category": "apple"
     },
     {
       "title": "Costco members can get $5 off the reimagined Ocarina of Time",
@@ -128,15 +182,6 @@
       "category": "other"
     },
     {
-      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
-      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-      "source": "MacRumors",
-      "published": "2026-11-07T14:28:23+00:00",
-      "summary": "Black Friday is now just a few weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg",
-      "category": "apple"
-    },
-    {
       "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
       "url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
       "source": "9to5Mac",
@@ -173,15 +218,6 @@
       "category": "apple"
     },
     {
-      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
-      "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
-      "source": "9to5Google",
-      "published": "2026-11-07T12:30:00+00:00",
-      "summary": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
       "source": "The Verge",
@@ -189,6 +225,15 @@
       "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursd",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
+      "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
+      "source": "9to5Google",
+      "published": "2026-11-07T12:30:00+00:00",
+      "summary": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
@@ -1395,51 +1440,6 @@
       "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
       "image": "",
       "category": "other"
-    },
-    {
-      "title": "Payday Aces High review: This year’s must-play multiplayer VR game",
-      "url": "https://9to5google.com/2026/11/05/payday-aces-high-review-meta-quest/",
-      "source": "9to5Google",
-      "published": "2026-11-05T21:00:00+00:00",
-      "summary": "Join up with three other heisters and get revenge on the billionaire who sent you to jail in the first place in Payday Aces High, now available on Meta Quest, SteamVR, and Steam Frame. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/payday-aces-high-heist-screenshot.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Apple Arcade adds four games, including Crossy Road Rush and NBA 2K27 with WNBA teams",
-      "url": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T20:47:44+00:00",
-      "summary": "Apple Arcade subscribers got four new games today, with another major release coming next week. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-      "source": "The Verge",
-      "published": "2026-11-05T20:47:14+00:00",
-      "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn lau",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
-      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T20:45:50+00:00",
-      "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "iPad Mini vs. iPad Air Buyer's Guide: Now Just $50 Apart",
-      "url": "https://www.macrumors.com/guide/ipad-mini-vs-ipad-air-2026/",
-      "source": "MacRumors",
-      "published": "2026-11-05T20:41:52+00:00",
-      "summary": "Apple refreshed both the iPad mini and iPad Air this year, but the choice is now less straightforward and there is just a $50 price difference between them, so which should you choose? The eighth-generation ‌iPad Air‌ arrived in March with the M4 chip, 12GB of",
-      "image": "https://images.macrumors.com/article-new/2026/11/iPad-Air-v-Mini-Feature-scaled.jpg",
-      "category": "apple"
     }
   ]
 }
