@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-08T16:14:53.349451+00:00",
+  "updated_at": "2026-11-08T20:33:32.227488+00:00",
   "articles": [
+    {
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T20:30:00+00:00",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "published": "2026-11-08T20:22:39+00:00",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+      "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "source": "9to5Mac",
+      "published": "2026-11-08T19:52:41+00:00",
+      "summary": "Last month, Apple announced it’d be tightening privacy controls in a future macOS update, in response to AI agents requesting Full Disk Access then going rogue with users data without them being fully aware. Now, we have an idea of how the changes might look. ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T19:51:30+00:00",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "published": "2026-11-08T19:18:19+00:00",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T18:00:04+00:00",
+      "summary": "SNL seems to have its knives out for tech executives.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T17:30:00+00:00",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
+      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "source": "MacRumors",
+      "published": "2026-11-08T17:24:45+00:00",
+      "summary": "Siri AI is much more intelligent and personalized compared to classic Siri, but it is still not nearly as advanced as proactive, always-on agents like OpenAI's Dots and Meta's Muse. That may change, though, according to a new rumor. In his Power On newsletter ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "published": "2026-11-08T17:23:19+00:00",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T17:02:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": "",
+      "category": "other"
+    },
     {
       "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
       "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
@@ -23,7 +113,7 @@
       "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
       "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
       "source": "MacRumors",
-      "published": "2026-11-08T15:42:52+00:00",
+      "published": "2026-11-08T15:42:38+00:00",
       "summary": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg 's Mark Gurman. In his Power On newsletter today , he said Apple separates development of each year's new operating systems into",
       "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg",
       "category": "apple"
@@ -1350,96 +1440,6 @@
       "summary": "Just over a month after the launch, Google is rolling out the “Googlebook November update” with “many bug fixes, stability improvements, and firmware updates.” more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-logo-1.jpg?quality=82&strip=all&w=1600",
       "category": "google"
-    },
-    {
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
-      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-      "source": "The Verge",
-      "published": "2026-11-05T23:17:10+00:00",
-      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Apple's First Touchscreen Mac is Now Arriving to Customers",
-      "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
-      "source": "MacRumors",
-      "published": "2026-11-05T23:12:36+00:00",
-      "summary": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro , OLED iPad mini , M6 ‌MacBook Pro‌, or M6 iMac are now starting to receive their devices. People will soon be sharing photos and first ",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T23:09:36+00:00",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T22:49:03+00:00",
-      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
-      "category": "other"
-    },
-    {
-      "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
-      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
-      "source": "MacRumors",
-      "published": "2026-11-05T22:47:18+00:00",
-      "summary": "Anthropic today added Personal Finance to Claude, allowing users to connect their bank and card accounts for analysis. Claude has read-only access to accounts, and there is no option for it to move, manage, or invest money. Anthropic says Claude gives answers ",
-      "image": "https://images.macrumors.com/article-new/2026/11/claude-personal-finance.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch",
-      "published": "2026-11-05T22:40:55+00:00",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "source": "The Verge",
-      "published": "2026-11-05T22:26:50+00:00",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already u",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Report: Apple captured half of global smartphone revenue in Q3",
-      "url": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T22:22:49+00:00",
-      "summary": "According to a new report from Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Arcade Adds Crossy Road Rush and NBA 2K27",
-      "url": "https://www.macrumors.com/2026/11/05/apple-arcade-crossy-road-rush/",
-      "source": "MacRumors",
-      "published": "2026-11-05T22:12:30+00:00",
-      "summary": "Apple today added several new games to Apple Arcade , including Crossy Road Rush, NBA 2K27 Arcade Edition, Kami 2+, and Food Stylist - Design Game+. Crossy Road Rush is the latest game in the popular Crossy Road series. Players will make their way across an is",
-      "image": "https://images.macrumors.com/article-new/2026/11/crossy-road-rush.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Salon is shutting down after 31 years",
-      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
-      "source": "The Verge",
-      "published": "2026-11-05T22:08:14+00:00",
-      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
     }
   ]
 }
