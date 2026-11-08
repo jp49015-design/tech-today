@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-08T09:29:57.160995+00:00",
+  "updated_at": "2026-11-08T16:14:53.349451+00:00",
   "articles": [
+    {
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-08T16:00:00+00:00",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+      "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+      "source": "9to5Mac",
+      "published": "2026-11-08T15:55:23+00:00",
+      "summary": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark Gurman , new Apple CEO John Ternus is reportedly pushing on soft",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&strip=all&w=1500",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
+      "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+      "source": "MacRumors",
+      "published": "2026-11-08T15:42:52+00:00",
+      "summary": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg 's Mark Gurman. In his Power On newsletter today , he said Apple separates development of each year's new operating systems into",
+      "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+      "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+      "source": "9to5Mac",
+      "published": "2026-11-08T15:30:36+00:00",
+      "summary": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. That said, Siri still lacks in terms of proactively taking actions for you, a feature tha",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "published": "2026-11-08T15:00:30+00:00",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that A",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch",
+      "published": "2026-11-08T15:00:00+00:00",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "source": "The Verge",
+      "published": "2026-11-08T13:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for T",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "Ars Technica",
+      "published": "2026-11-08T12:15:31+00:00",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+      "category": "other"
+    },
     {
       "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
       "url": "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
@@ -320,7 +392,7 @@
       "title": "More Fun iPhone Duo Apps: 30 New Picks to Try",
       "url": "https://www.macrumors.com/2026/11/06/iphone-duo-app-suggestions/",
       "source": "MacRumors",
-      "published": "2026-11-06T23:27:55+00:00",
+      "published": "2026-11-06T23:27:45+00:00",
       "summary": "When the iPhone Duo launched, we shared a list of some of the fun apps developers created for the new form factor. Two weeks out, developers are continuing to come up with fresh ideas, so we thought we'd share some of our favorites. Games Marbles Unhinged ($2.",
       "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
       "category": "apple"
@@ -1368,78 +1440,6 @@
       "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
-    },
-    {
-      "title": "Sony revives the original Walkman headphones, adds USB-C",
-      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T21:56:36+00:00",
-      "summary": "Orange ear cushions included.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "The midterms proved once and for all that X is not real life",
-      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-      "source": "The Verge",
-      "published": "2026-11-05T21:55:00+00:00",
-      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help hims",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
-      "url": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T21:48:20+00:00",
-      "summary": "MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple's New HomeView Smart Home Hub: Here's How Much RAM It Has",
-      "url": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/",
-      "source": "MacRumors",
-      "published": "2026-11-05T21:47:42+00:00",
-      "summary": "MacRumors has confirmed that the A18 chip in Apple's new HomeView smart home hub is paired with 8GB of RAM. This is not very surprising given the A18 chip also has 8GB of RAM in all iPhone 16 models and the MacBook Neo, but Apple does not list this information",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T21:40:36+00:00",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-      "category": "ai"
-    },
-    {
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T21:39:40+00:00",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
-      "category": "ai"
-    },
-    {
-      "title": "9to5Mac Daily: November 5, 2026 – MacBook Neo 2 rumors, watchOS 27.3",
-      "url": "https://9to5mac.com/2026/11/05/daily-november-5-2026/",
-      "source": "9to5Mac",
-      "published": "2026-11-05T21:31:08+00:00",
-      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android",
-      "url": "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/",
-      "source": "9to5Google",
-      "published": "2026-11-05T21:30:00+00:00",
-      "summary": "As previewed in October , Google has added “Notify when left behind” alerts for Find Hub tags and trackers on Android. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
     }
   ]
 }
