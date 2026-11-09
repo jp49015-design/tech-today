@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-08T23:58:38.869799+00:00",
+  "updated_at": "2026-11-09T05:58:18.542350+00:00",
   "articles": [
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T05:26:29+00:00",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
+      "url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
+      "source": "MacRumors",
+      "published": "2026-11-09T03:28:09+00:00",
+      "summary": "In a series of YouTube videos shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have allegedly signed up customers for auto-renewing subscription tri",
+      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
+      "category": "apple"
+    },
     {
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
@@ -1422,24 +1440,6 @@
       "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "ai"
-    },
-    {
-      "title": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
-      "url": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/",
-      "source": "9to5Mac",
-      "published": "2026-11-06T00:36:46+00:00",
-      "summary": "Starting this year, Apple has exclusive streaming rights for Formula 1 racing in the United States, which sees every race stream on Apple TV . Both Apple and the league have proudly reported a very positive response in terms of viewership and subscriber acquis",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/f1-apple-tv-4k-multiview.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera",
-      "url": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
-      "source": "MacRumors",
-      "published": "2026-11-06T00:22:52+00:00",
-      "summary": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features. The first question asks why the buyer chose the ‌iPhone Duo‌ now, with answers like \"I wanted to try Apple's first folda",
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
-      "category": "apple"
     }
   ]
 }
