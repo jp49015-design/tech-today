@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-09T23:59:34.519980+00:00",
+  "updated_at": "2026-11-10T07:03:43.970459+00:00",
   "articles": [
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00+00:00",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T05:18:43+00:00",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it ",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T04:34:15+00:00",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Canadian court certifies class action against Apple over Google search deal",
+      "url": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T02:20:07+00:00",
+      "summary": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&strip=all&w=1306",
+      "category": "apple"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "published": "2026-11-10T01:27:12+00:00",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+      "url": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T00:49:31+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "published": "2026-11-10T00:28:49+00:00",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Google Antigravity adds ‘Knowledge Work’ interface for non-coding work",
+      "url": "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/",
+      "source": "9to5Google",
+      "published": "2026-11-10T00:08:37+00:00",
+      "summary": "Following last week’s big update , Google Antigravity is rolling out a “Knowledge Work” user experience. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-antigravity-knowledge-work.jpg?quality=82&strip=all&w=1440",
+      "category": "google"
+    },
     {
       "title": "What could China get from Jensen Huang?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
@@ -24,7 +96,7 @@
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch",
       "published": "2026-11-09T23:28:37+00:00",
-      "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "image": "",
       "category": "other"
     },
@@ -1368,78 +1440,6 @@
       "summary": "In addition to the new app icon , Google Messages for Android is testing a big homepage redesign that has three core components. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&w=1600",
       "category": "ai"
-    },
-    {
-      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
-      "url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
-      "source": "9to5Mac",
-      "published": "2026-11-07T22:30:00+00:00",
-      "summary": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. iPhone 18 Pro and iPhone Duo introdu",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&strip=all&w=1500",
-      "category": "apple"
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T22:07:22+00:00",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T21:17:08+00:00",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
-      "url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-      "source": "MacRumors",
-      "published": "2026-11-07T20:50:00+00:00",
-      "summary": "Black Friday is now just a few weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
-      "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
-      "source": "MacRumors",
-      "published": "2026-11-07T20:44:15+00:00",
-      "summary": "A new \"Backglow\" app created by designer Juan Buis lets you customize the illuminated Apple logo on the lid of the new MacBook Pro models. The free version of the app allows you to manually adjust the brightness level of the Apple logo, independent of the MacB",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
-      "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
-      "source": "9to5Mac",
-      "published": "2026-11-07T20:30:00+00:00",
-      "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you find yourself playing an instrument with sheet music, fli",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
-      "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
-      "source": "9to5Mac",
-      "published": "2026-11-07T19:11:00+00:00",
-      "summary": "Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T19:00:00+00:00",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
