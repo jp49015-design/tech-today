@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-11T01:21:58.103022+00:00",
+  "updated_at": "2026-11-11T07:55:29.094499+00:00",
   "articles": [
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T07:30:51+00:00",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "'Apple Support Community' Permanently Closing on November 20",
+      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
+      "source": "MacRumors",
+      "published": "2026-11-11T03:50:59+00:00",
+      "summary": "Apple today announced that the long-running Apple Support Community discussion forums will be permanently closing on Friday, November 20. Effectively immediately, the Apple Support Community forums are in a read-only state, with new posts no longer being accep",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "End of an era: Apple Support Community forums will permanently close on November 20",
+      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+      "source": "9to5Mac",
+      "published": "2026-11-11T02:49:08+00:00",
+      "summary": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro/",
+      "source": "9to5Mac",
+      "published": "2026-11-11T01:31:51+00:00",
+      "summary": "Following last week’s livestream , when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro , the single is now available on Apple Music. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labrinth-apple-store.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "X launches its own clipping feature to spur influencer engagement",
       "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
@@ -425,6 +461,24 @@
       "category": "google"
     },
     {
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
+    },
+    {
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
+    },
+    {
       "title": "Google rolling out Android 17 QPR2 for Pixel",
       "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
       "source": "9to5Google",
@@ -467,24 +521,6 @@
       "published": "2026-11-10T19:00:00+00:00",
       "summary": "Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "source": "The Verge",
-      "published": "2026-11-10T19:00:00+00:00",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "source": "The Verge",
-      "published": "2026-11-10T19:00:00+00:00",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "google"
     },
     {
@@ -695,15 +731,6 @@
       "category": "other"
     },
     {
-      "title": "Satechi expands lineup of color-matched accessories for MacBook Neo",
-      "url": "https://9to5mac.com/2026/11/10/satechi-new-macbook-neo-accessories/",
-      "source": "9to5Mac",
-      "published": "2026-11-10T17:00:00+00:00",
-      "summary": "Earlier this year, Satechi launched a line of Mac accessories in colors inspired by the MacBook Neo . Now, the company is back with a new expansion of that line with four new accessories: MacBook Neo OntheGo 45W GaN Charger with 60W Max $30 MacBook Neo Core US",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/neo_collection_banner.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
       "title": "Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth",
       "url": "https://9to5google.com/2026/11/10/google-pixel-tag-initial-review/",
       "source": "9to5Google",
@@ -711,6 +738,15 @@
       "summary": "Google’s Find Hub had a tumultuous launch for its performance , but also for a lack of clear direction in hardware. Over two years later, that’s finally arriving in the Google Pixel Tag which, even just a few days in, is the obvious gold standard in the race t",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-5_7be7d8.jpg?quality=82&strip=all&w=1600",
       "category": "google"
+    },
+    {
+      "title": "Satechi expands lineup of color-matched accessories for MacBook Neo",
+      "url": "https://9to5mac.com/2026/11/10/satechi-new-macbook-neo-accessories/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T17:00:00+00:00",
+      "summary": "Earlier this year, Satechi launched a line of Mac accessories in colors inspired by the MacBook Neo . Now, the company is back with a new expansion of that line with four new accessories: MacBook Neo OntheGo 45W GaN Charger with 60W Max $30 MacBook Neo Core US",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/neo_collection_banner.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running",
@@ -1403,42 +1439,6 @@
       "published": "2026-11-10T04:34:15+00:00",
       "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
       "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Canadian court certifies class action against Apple over Google search deal",
-      "url": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
-      "source": "9to5Mac",
-      "published": "2026-11-10T02:20:07+00:00",
-      "summary": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&strip=all&w=1306",
-      "category": "apple"
-    },
-    {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T01:27:12+00:00",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
-      "url": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
-      "source": "9to5Mac",
-      "published": "2026-11-10T00:49:31+00:00",
-      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "published": "2026-11-10T00:28:49+00:00",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
     }
   ]
