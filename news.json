@@ -1,14 +1,212 @@
 {
-  "updated_at": "2026-11-10T21:24:22.704482+00:00",
+  "updated_at": "2026-11-11T01:21:58.103022+00:00",
   "articles": [
     {
-      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T01:02:13+00:00",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
+      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
+      "source": "MacRumors",
+      "published": "2026-11-11T00:57:36+00:00",
+      "summary": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches. The website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy fo",
+      "image": "https://images.macrumors.com/article-new/2026/11/hero_holiday_2026_yellow_feature-1.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
+      "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
+      "source": "MacRumors",
+      "published": "2026-11-11T00:46:21+00:00",
+      "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters . The facility in Hosur, Tamil Nadu, manufactures components for the iPhone. The workers were performing maintenance at a wastewater treatment p",
+      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "source": "The Verge",
+      "published": "2026-11-11T00:34:24+00:00",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors",
+      "url": "https://9to5mac.com/2026/11/10/daily-november-10-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-11T00:00:34+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "iCloud Mail, Calendar, Contacts and More Experiencing Outage [Updated]",
+      "url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
+      "source": "MacRumors",
+      "published": "2026-11-10T23:53:31+00:00",
+      "summary": "Some iCloud services are experiencing an outage, according to Apple's System Status page. ‌iCloud‌ Calendar, ‌iCloud‌ Contacts, ‌iCloud‌ Mail, iWork for ‌iCloud‌, and Game Center are affected. Apple says some users are experiencing issues with the services. Th",
+      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple confirms ongoing outage affecting iCloud and more [U]",
+      "url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T23:48:49+00:00",
+      "summary": "Update, 5:18 p.m. PT: Apple says all outages have now been resolved. If you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "source": "MacRumors",
+      "published": "2026-11-10T23:34:51+00:00",
+      "summary": "Apple's Claris subsidiary is testing an app called Harbor , which turns Apple silicon Macs into a private AI server. Harbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory ",
+      "image": "https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T23:30:56+00:00",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T23:14:49+00:00",
+      "summary": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid. Watch it below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ifixit-mbp-touch-teardown.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Nintendo will soon discontinue Google and Apple sign-ins",
+      "url": "https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
+      "source": "9to5Google",
+      "published": "2026-11-10T23:06:46+00:00",
+      "summary": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nitendo-switch-app.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T23:02:39+00:00",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features",
+      "url": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T22:56:55+00:00",
+      "summary": "Developer Gui Rambo updated CleanupBuddy today, expanding its ability to prevent accidental inputs while cleaning your Mac from the keyboard to the touchscreen. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/cleanup-buddy.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T22:35:01+00:00",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "category": "other"
+    },
+    {
+      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
+      "url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
+      "source": "MacRumors",
+      "published": "2026-11-10T22:02:34+00:00",
+      "summary": "iFixit today took apart Apple's touchscreen PROLED MacBook Pro to see how Apple shed weight, what powers the logo, and how it compares to the 14-inch M6 ‌MacBook Pro‌. Apple added a glowing logo on the back of the PROLED ‌MacBook Pro‌, but since there's no bac",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "source": "The Verge",
+      "published": "2026-11-10T22:00:00+00:00",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Bla",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T21:55:26+00:00",
+      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "source": "The Verge",
+      "published": "2026-11-10T21:40:31+00:00",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to del",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
+      "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
+      "source": "9to5Mac",
+      "published": "2026-11-10T21:34:43+00:00",
+      "summary": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The Sideload 051: Would you let Ring fly around your house?",
+      "url": "https://9to5google.com/2026/11/10/the-sideload-051-would-you-let-ring-fly-around-your-house/",
+      "source": "9to5Google",
+      "published": "2026-11-10T21:30:00+00:00",
+      "summary": "Welcome to episode 51 of The Sideload, a 9to5Google podcast. This week, Will and Daniel discuss the looming threat of CES before digging into Ring’s newly-announced Drone Cam , something that either seems too dangerous to let into your house or the next big st",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T21:12:59+00:00",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "category": "other"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch",
       "published": "2026-11-10T21:08:52+00:00",
       "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "image": "",
       "category": "ai"
+    },
+    {
+      "title": "Sony cancels live-service shooter Fairgames",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "source": "The Verge",
+      "published": "2026-11-10T21:06:12+00:00",
+      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
     },
     {
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -33,7 +231,7 @@
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch",
       "published": "2026-11-10T20:47:05+00:00",
-      "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
       "image": "",
       "category": "other"
     },
@@ -44,6 +242,15 @@
       "published": "2026-11-10T20:43:55+00:00",
       "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
       "image": "",
+      "category": "other"
+    },
+    {
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "source": "Ars Technica",
+      "published": "2026-11-10T20:30:01+00:00",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
       "category": "other"
     },
     {
@@ -218,24 +425,6 @@
       "category": "google"
     },
     {
-      "title": "Google’s Pixel Tag tracker is now available",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "source": "The Verge",
-      "published": "2026-11-10T19:00:00+00:00",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "source": "The Verge",
-      "published": "2026-11-10T19:00:00+00:00",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
       "title": "Google rolling out Android 17 QPR2 for Pixel",
       "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
       "source": "9to5Google",
@@ -278,6 +467,24 @@
       "published": "2026-11-10T19:00:00+00:00",
       "summary": "Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was ren",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
+    },
+    {
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "google"
     },
     {
@@ -1232,213 +1439,6 @@
       "published": "2026-11-10T00:28:49+00:00",
       "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Google Antigravity adds ‘Knowledge Work’ interface for non-coding work",
-      "url": "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/",
-      "source": "9to5Google",
-      "published": "2026-11-10T00:08:37+00:00",
-      "summary": "Following last week’s big update , Google Antigravity is rolling out a “Knowledge Work” user experience. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-antigravity-knowledge-work.jpg?quality=82&strip=all&w=1440",
-      "category": "google"
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "published": "2026-11-09T23:51:58+00:00",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential inves",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "source": "The Verge",
-      "published": "2026-11-09T23:47:46+00:00",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T23:28:37+00:00",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
-      "url": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
-      "source": "9to5Google",
-      "published": "2026-11-09T23:20:00+00:00",
-      "summary": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but not the upgrades you want, nor what Ultra owners might expect. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-camera-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "published": "2026-11-09T23:07:59+00:00",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
-      "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
-      "source": "MacRumors",
-      "published": "2026-11-09T23:07:03+00:00",
-      "summary": "The iOS 27.2.1 , iPadOS 27.2.1, and macOS 27.2.1 updates Apple released today fix a handful of security vulnerabilities. With the security fixes implemented, it's a good idea to update as soon as you can. A bug with iMessage could let a remote attacker join a ",
-      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T23:03:46+00:00",
-      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
-      "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
-      "source": "9to5Mac",
-      "published": "2026-11-09T22:54:52+00:00",
-      "summary": "Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T22:46:09+00:00",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Webex Gets iPhone Duo Support",
-      "url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
-      "source": "MacRumors",
-      "published": "2026-11-09T22:31:20+00:00",
-      "summary": "Popular video meeting app Webex was today updated with support for Apple's iPhone Duo . Webex works open or closed, in portrait or landscape mode, and even in a laptop or tent position. When open, the ‌iPhone Duo‌ shows more meeting participants, keeps shared ",
-      "image": "https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "The race is on to sue Nvidia",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "source": "TechCrunch",
-      "published": "2026-11-09T22:23:42+00:00",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensiv",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
-      "url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
-      "source": "9to5Mac",
-      "published": "2026-11-09T22:17:36+00:00",
-      "summary": "Apple today released macOS updates that address a security gap involving compromised eMudhra certificates, after initially blocking them in Safari, Mail, and other apps in October. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "What’s new in Android’s November 2026 Google System Updates [U]",
-      "url": "https://9to5google.com/2026/11/09/november-2026-google-system-updates/",
-      "source": "9to5Google",
-      "published": "2026-11-09T22:08:00+00:00",
-      "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at de",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-      "source": "Ars Technica",
-      "published": "2026-11-09T21:55:35+00:00",
-      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Meta's Muse AI Agent Comes to Apple Watch",
-      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
-      "source": "MacRumors",
-      "published": "2026-11-09T21:55:26+00:00",
-      "summary": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch. The app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a ",
-      "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Anker Launches Eufy Security Cam With Auto-Tracking Light",
-      "url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
-      "source": "MacRumors",
-      "published": "2026-11-09T21:47:29+00:00",
-      "summary": "Anker today launched the Eufy TrackLight Cam S1 , which it says is the world's first outdoor security camera with an auto-tracking light for actively deterring intruders. The TrackLight Cam S1 is compatible with Apple Home when using the Anker HomeBase, so it ",
-      "image": "https://images.macrumors.com/article-new/2026/11/eufy-tracklight-camera.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
-      "url": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
-      "source": "9to5Mac",
-      "published": "2026-11-09T21:46:15+00:00",
-      "summary": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery acquisition. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-09T21:43:41+00:00",
-      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
-      "url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
-      "source": "9to5Mac",
-      "published": "2026-11-09T21:30:57+00:00",
-      "summary": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver , Shaun of the Dead ). Watch the new ad below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "The TCL NXTPAPER 70 Pro is back down to its lowest all-time price",
-      "url": "https://9to5google.com/2026/11/09/the-tcl-nxtpaper-70-pro-early-black-friday-deal/",
-      "source": "9to5Google",
-      "published": "2026-11-09T21:30:00+00:00",
-      "summary": "The TCL Black Friday sales have started early, beginning with the unlocked TCL NXTPAPER 70 Pro. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/tcl-nxtpapaper-70-pro-with-box.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Fitbit Sense & Versa losing 3rd-party watch faces this month, existing downloads remain",
-      "url": "https://9to5google.com/2026/11/09/fitbit-sense-versa-clocks-apps/",
-      "source": "9to5Google",
-      "published": "2026-11-09T21:21:22+00:00",
-      "summary": "Google announced today that Fitbit Sense and Versa smartwatches will soon lose the ability to “install or update third-party apps and clocks.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2022/11/fitbit-sense-2-versa-4-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-      "source": "Ars Technica",
-      "published": "2026-11-09T21:13:39+00:00",
-      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
       "category": "other"
     }
   ]
