@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-12T03:16:07.149075+00:00",
+  "updated_at": "2026-11-12T11:29:39.679866+00:00",
   "articles": [
+    {
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "source": "The Verge",
+      "published": "2026-11-12T11:12:32+00:00",
+      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, wit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple Support Community Deserved a Proper Goodbye",
+      "url": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
+      "source": "MacRumors",
+      "published": "2026-11-12T04:51:19+00:00",
+      "summary": "Apple on Tuesday abruptly placed the Apple Support Community into a read-only state and announced that the forums will be permanently closing on Friday, November 20 . Those who contributed to the site — some for more than two decades — were blindsided by this ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
+      "url": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-12T04:01:11+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
@@ -60,7 +87,7 @@
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge",
       "published": "2026-11-11T22:44:36+00:00",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal re",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal re",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
     },
@@ -641,15 +668,6 @@
       "category": "other"
     },
     {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "source": "The Verge",
-      "published": "2026-11-11T15:00:00+00:00",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "source": "TechCrunch",
@@ -657,6 +675,15 @@
       "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
       "image": "",
       "category": "other"
+    },
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge",
+      "published": "2026-11-11T15:00:00+00:00",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
     },
     {
       "title": "If you bought an iPhone Duo, have you kept or returned it? [Poll]",
@@ -677,6 +704,15 @@
       "category": "google"
     },
     {
+      "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
+      "url": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
+      "source": "9to5Google",
+      "published": "2026-11-11T14:00:00+00:00",
+      "summary": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&strip=all&w=1400",
+      "category": "google"
+    },
+    {
       "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
       "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
       "source": "TechCrunch",
@@ -693,15 +729,6 @@
       "summary": "The worst part of owning smart curtain motors is charging them, because it usually means taking the whole motor down from the track or running a really long USB cord to charge it. Today, SwitchBot has released the SwitchBot Curtain Track 4 aimed at solving tha",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/SwitchBot-Curtain-Track-4-2.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
-    },
-    {
-      "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
-      "url": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
-      "source": "9to5Google",
-      "published": "2026-11-11T14:00:00+00:00",
-      "summary": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&strip=all&w=1400",
-      "category": "google"
     },
     {
       "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
@@ -1413,33 +1440,6 @@
       "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
       "image": "",
       "category": "apple"
-    },
-    {
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-10T18:42:03+00:00",
-      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bam",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
-      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T18:39:16+00:00",
-      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
-      "category": "other"
-    },
-    {
-      "title": "Wyze’s new door lock has speedy fingerprint recognition and 12-month battery life",
-      "url": "https://9to5google.com/2026/11/10/wyze-lever-lock-fingerprint-now-available/",
-      "source": "9to5Google",
-      "published": "2026-11-10T18:30:00+00:00",
-      "summary": "Wyze is today launching its new “Lever Lock,” a smart lock for your front door that has a year of battery life and fast fingerprint recognition, all for an affordable price tag. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/wyze-lever-lock.avif?w=1600",
-      "category": "google"
     }
   ]
 }
