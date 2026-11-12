@@ -1,12 +1,75 @@
 {
-  "updated_at": "2026-11-11T22:26:09.185962+00:00",
+  "updated_at": "2026-11-12T03:16:07.149075+00:00",
   "articles": [
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch",
+      "published": "2026-11-12T03:13:10+00:00",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "The Nintendo Switch 2 is down to its lowest price of the season tonight only",
+      "url": "https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/",
+      "source": "9to5Google",
+      "published": "2026-11-12T00:17:47+00:00",
+      "summary": "Get a new Switch 2 system for $459, dropping it to the lowest price we’ve seen in months. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nintendo-switch-2-zelda-ocarina-of-time.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:50:00+00:00",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:28:45+00:00",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T23:17:05+00:00",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "source": "Ars Technica",
+      "published": "2026-11-11T23:10:17+00:00",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge",
+      "published": "2026-11-11T22:44:36+00:00",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal re",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
       "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
       "source": "The Verge",
       "published": "2026-11-11T22:00:00+00:00",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing ef",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
     },
@@ -141,7 +204,7 @@
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "source": "TechCrunch",
       "published": "2026-11-11T19:54:00+00:00",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "image": "",
       "category": "other"
     },
@@ -569,15 +632,6 @@
       "category": "other"
     },
     {
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:00:00+00:00",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "image": "",
-      "category": "other"
-    },
-    {
       "title": "Ocarina of Time is even better if you use a smartphone app",
       "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
       "source": "The Verge",
@@ -594,6 +648,15 @@
       "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "google"
+    },
+    {
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "published": "2026-11-11T15:00:00+00:00",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "image": "",
+      "category": "other"
     },
     {
       "title": "If you bought an iPhone Duo, have you kept or returned it? [Poll]",
@@ -632,15 +695,6 @@
       "category": "apple"
     },
     {
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-11T14:00:00+00:00",
-      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
       "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
       "url": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
       "source": "9to5Google",
@@ -648,6 +702,15 @@
       "summary": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&strip=all&w=1400",
       "category": "google"
+    },
+    {
+      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-11T14:00:00+00:00",
+      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
     },
     {
       "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
@@ -869,7 +932,7 @@
       "title": "Three Workers Die at Tata iPhone Parts Plant in India",
       "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
       "source": "MacRumors",
-      "published": "2026-11-11T00:46:21+00:00",
+      "published": "2026-11-11T00:46:16+00:00",
       "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters . The facility in Hosur, Tamil Nadu, manufactures components for the iPhone. The workers were performing maintenance at a wastewater treatment p",
       "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
       "category": "apple"
@@ -1271,21 +1334,21 @@
       "category": "google"
     },
     {
-      "title": "Google rolling out Android 17 QPR2 for Pixel",
-      "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
-      "source": "9to5Google",
-      "published": "2026-11-10T19:00:00+00:00",
-      "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-8.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
       "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
       "source": "9to5Google",
       "published": "2026-11-10T19:00:00+00:00",
       "summary": "Like last year, the next Pixel Drop is rolling out a month early in November. Coupled with Android 17 QPR2 , it’s quite a big Feature Drop for Gemini and other AI capabilities, as well as the Pixel 10 series. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Pixel-Feature-Drop-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Google rolling out Android 17 QPR2 for Pixel",
+      "url": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
+      "source": "9to5Google",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-8.jpg?quality=82&strip=all&w=1600",
       "category": "google"
     },
     {
@@ -1377,69 +1440,6 @@
       "summary": "Wyze is today launching its new “Lever Lock,” a smart lock for your front door that has a year of battery life and fast fingerprint recognition, all for an affordable price tag. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/wyze-lever-lock.avif?w=1600",
       "category": "google"
-    },
-    {
-      "title": "Apple announces Swift Student Challenge 2027 with new twist",
-      "url": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
-      "source": "9to5Mac",
-      "published": "2026-11-10T18:11:28+00:00",
-      "summary": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/swift-student-challenge-2027.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Pixel Journal adds Recorder audio integration & export option",
-      "url": "https://9to5google.com/2026/11/10/pixel-journal-recorder-export/",
-      "source": "9to5Google",
-      "published": "2026-11-10T18:00:38+00:00",
-      "summary": "Following the last update in August , Google is rolling out a sizable update to Pixel Journal that adds Recorder audio entries and file exports. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "source": "The Verge",
-      "published": "2026-11-10T18:00:00+00:00",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "ai"
-    },
-    {
-      "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor",
-      "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
-      "source": "MacRumors",
-      "published": "2026-11-10T17:50:00+00:00",
-      "summary": "Amazon has joined in on early Black Friday deals this week, with sitewide savings across TVs, headphones, Amazon devices, Apple products, and much more. Another retailer offering a major early Black Friday sale right now is Best Buy . Note: MacRumors is an aff",
-      "image": "https://images.macrumors.com/article-new/2026/11/fire-tablet-black-friday.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
-      "url": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
-      "source": "9to5Mac",
-      "published": "2026-11-10T17:47:32+00:00",
-      "summary": "A new Apple TV 4K releases this Friday ( pre-order here ), with an upgraded Siri Remote. But the new remote’s best feature might not work on your iPhone. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
-      "source": "The Verge",
-      "published": "2026-11-10T17:43:49+00:00",
-      "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "source": "The Verge",
-      "published": "2026-11-10T17:32:47+00:00",
-      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
     }
   ]
 }
