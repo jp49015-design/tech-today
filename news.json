@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-13T00:14:50.687503+00:00",
+  "updated_at": "2026-11-13T06:54:09.963051+00:00",
   "articles": [
+    {
+      "title": "Apple TV just debuted three new originals, including a heist thriller series",
+      "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T02:02:34+00:00",
+      "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch the trailers below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "published": "2026-11-13T00:46:07+00:00",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Hands-On With the New Apple TV 4K and Siri AI",
+      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
+      "source": "MacRumors",
+      "published": "2026-11-13T00:42:07+00:00",
+      "summary": "The 4th-generation Apple TV 4K with an A19 chip and Siri AI support is available starting on November 13, and we were able to spend some time with it ahead of launch. Subscribe to the MacRumors YouTube channel for more videos. ‌Siri‌ AI is the headline feature",
+      "image": "",
+      "category": "apple"
+    },
     {
       "title": "Xbox announces Wolfenstein 3",
       "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
@@ -53,6 +80,15 @@
       "published": "2026-11-12T23:00:00+00:00",
       "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"X",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "source": "Ars Technica",
+      "published": "2026-11-12T22:59:51+00:00",
+      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
       "category": "other"
     },
     {
@@ -443,6 +479,15 @@
       "category": "other"
     },
     {
+      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
+      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
+      "source": "9to5Mac",
+      "published": "2026-11-12T18:20:44+00:00",
+      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
       "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
       "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
       "source": "Ars Technica",
@@ -459,15 +504,6 @@
       "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
-    },
-    {
-      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
-      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-      "source": "9to5Google",
-      "published": "2026-11-12T18:01:41+00:00",
-      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
     },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
@@ -947,6 +983,15 @@
       "category": "other"
     },
     {
+      "title": "Google’s new Android XR glasses work with iOS, Made for iPhone certified",
+      "url": "https://9to5google.com/2026/11/12/google-glasses-iphone-support/",
+      "source": "9to5Mac",
+      "published": "2026-11-12T14:05:46+00:00",
+      "summary": "Google today announced Android XR audio glasses called Intelligent Eyewear that notably support iOS with Made for iPhone certification. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/android-xr-intelligent-eyewear-warby-parker-34.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
       "title": "Nvidia CEO Jensen Huang has resigned",
       "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
       "source": "Ars Technica",
@@ -954,15 +999,6 @@
       "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
       "category": "other"
-    },
-    {
-      "title": "Google’s new Android XR glasses work with iOS, Made for iPhone certified",
-      "url": "https://9to5google.com/2026/11/12/google-glasses-iphone-support/",
-      "source": "9to5Google",
-      "published": "2026-11-12T14:05:00+00:00",
-      "summary": "Google today announced Android XR audio glasses called Intelligent Eyewear that notably support iOS with Made for iPhone certification. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-34.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
     },
     {
       "title": "Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20",
@@ -1010,15 +1046,6 @@
       "category": "apple"
     },
     {
-      "title": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10",
-      "url": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
-      "source": "9to5Google",
-      "published": "2026-11-12T14:00:00+00:00",
-      "summary": "After years of development, Google is launching its second foray into smart glasses with Intelligent Eyewear that supports Android and iOS. Pre-orders start today at Gentle Monster and Warby Parker , with the audio glasses shipping on December 10. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-9.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
       "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/",
       "source": "9to5Mac",
@@ -1026,6 +1053,15 @@
       "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/AI-Apple-2.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10",
+      "url": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
+      "source": "9to5Google",
+      "published": "2026-11-12T14:00:00+00:00",
+      "summary": "After years of development, Google is launching its second foray into smart glasses with Intelligent Eyewear that supports Android and iOS. Pre-orders start today at Gentle Monster and Warby Parker , with the audio glasses shipping on December 10. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-9.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
@@ -1402,42 +1438,6 @@
       "source": "TechCrunch",
       "published": "2026-11-11T20:04:28+00:00",
       "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
-      "url": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
-      "source": "9to5Mac",
-      "published": "2026-11-11T19:58:26+00:00",
-      "summary": "Earlier this year, OpenAI introduced ChatGPT Finances. The feature started on the mobile app and website, but it’s been missing from ChatGPT’s desktop app. Starting today. ChatGPT Finances is now available on the Mac as well. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T19:54:00+00:00",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
-      "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
-      "source": "MacRumors",
-      "published": "2026-11-11T19:50:14+00:00",
-      "summary": "Google has announced that a dedicated Gemini app on Apple CarPlay is rolling out around the world in several languages starting today, allowing you to have conversations with the AI assistant right from your vehicle's dashboard. Gemini conversations on your iP",
-      "image": "https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg",
-      "category": "ai"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T19:34:55+00:00",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
       "image": "",
       "category": "other"
     }
