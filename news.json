@@ -1,6 +1,249 @@
 {
-  "updated_at": "2026-11-13T06:54:09.963051+00:00",
+  "updated_at": "2026-11-13T15:04:16.868499+00:00",
   "articles": [
+    {
+      "title": "Apple Says HomeView Sets New Record in Design-Focused Interview",
+      "url": "https://www.macrumors.com/2026/11/13/apple-says-homeview-sets-new-record/",
+      "source": "MacRumors",
+      "published": "2026-11-13T15:03:49+00:00",
+      "summary": "TechRadar 's Jacob Krol interviewed Apple's Vice President of Hardware Engineering Matthew Costello about Apple's all-new HomeView smart home display, which is available starting today. The discussion was largely focused on the HomeView's design, with Costello",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T14:57:55+00:00",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Best Apple Deals of the Week: AirTag 2 Hits Record Low Price, Plus Early Black Friday Sales",
+      "url": "https://www.macrumors.com/2026/11/13/best-apple-deals-of-the-week-11-13-26/",
+      "source": "MacRumors",
+      "published": "2026-11-13T14:53:49+00:00",
+      "summary": "Black Friday is two weeks away, and this week we saw numerous early discount events pop up online, including great sales at Amazon, Anker, Samsung, Walmart, and more. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and",
+      "image": "https://images.macrumors.com/article-new/2024/03/best-apple-deals-new-blue.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge",
+      "published": "2026-11-13T14:47:16+00:00",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T14:45:04+00:00",
+      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T14:44:48+00:00",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "iPhone 18 and 18e Coming in Spring 2027 With A20 Chip",
+      "url": "https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/",
+      "source": "MacRumors",
+      "published": "2026-11-13T14:37:16+00:00",
+      "summary": "Apple's iPhone 18 and iPhone 18e will launch in spring 2027 with an A20 chip, Bloomberg 's Mark Gurman reiterated on the latest episode of his \"Power On\" podcast . The remarks align with his previous reporting on the launch timing. The iPhone Air 2 is also exp",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "source": "The Verge",
+      "published": "2026-11-13T14:30:00+00:00",
+      "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Gene",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T14:29:15+00:00",
+      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "King Charles to Join Elton John's Apple Music Radio Show",
+      "url": "https://www.macrumors.com/2026/11/13/king-charles-to-join-apple-music-radio-show/",
+      "source": "MacRumors",
+      "published": "2026-11-13T14:28:41+00:00",
+      "summary": "King Charles III will join Elton John on Apple Music 1 this Saturday for a special episode of \"Rocket Hour\" marking 50 years of The King's Trust. The episode premieres at 9 a.m. GMT on November 14, the King's 78th birthday. Recorded during his October visit to",
+      "image": "https://images.macrumors.com/article-new/2026/11/rocket-hour-elton-john-king-charles.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "PSA: YouTube app not working on your new Apple TV? Here’s the fix",
+      "url": "https://9to5mac.com/2026/11/13/new-apple-tv-youtube-broken-fix/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T14:21:50+00:00",
+      "summary": "If you just unboxed your new Apple TV 4K, you might run into a problem using the YouTube app. Some users report an error message that reads: “YouTube is not yet available on this device.” Here’s how to fix this problem. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-3.jpg?quality=82&strip=all&w=1600",
+      "category": "youtube"
+    },
+    {
+      "title": "This Quest 3 golf club actually improved my scores, but it comes at a cost",
+      "url": "https://9to5google.com/2026/11/13/amvr-ga2-golf-club-meta-quest-review/",
+      "source": "9to5Google",
+      "published": "2026-11-13T14:16:45+00:00",
+      "summary": "The AMVR GA2 is a fresh take on a Quest 3 golf club accessory, and I was pleasantly surprised with what it did for my scores. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amvr-ga2-02.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
+      "url": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T14:15:56+00:00",
+      "summary": "Today the new Apple TV 4K has arrived ( order here ) with Siri AI as a major tentpole feature. But older Apple TV 4K models are about to get Siri AI too via a tvOS 27.2.1 software update. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-13T14:00:00+00:00",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don'",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "New Apple TV 4K and HomeView now available: Here’s everything you need to know",
+      "url": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T13:57:26+00:00",
+      "summary": "The new Apple TV 4K and HomeView smart display are officially available. The first pre-orders have arrived for eager shoppers, and you can now also head to your local Apple Store to buy select configurations. Buy HomeView on Amazon Buy Apple TV 4K (4th generat",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-08.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Select 'Apple Home Collection' Accessories Now Available to Order",
+      "url": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/",
+      "source": "MacRumors",
+      "published": "2026-11-13T13:53:31+00:00",
+      "summary": "The first three HomeView -compatible smart home accessories in the Apple Home Collection are available to order starting today, including the LG Indoor Cam ($199.95), LG Outdoor Cam ($299.95), and LG Video Doorbell ($249.95). The remaining accessories from LG ",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+      "url": "https://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/",
+      "source": "9to5Google",
+      "published": "2026-11-13T13:30:00+00:00",
+      "summary": "In trying out Google’s Intelligent Eyewear Android XR glasses for the first time, one of my main takeaways is that it’s the app, not necessarily the glasses themselves that would push me into using them over the mainstay Meta Ray-Bans. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-glasses-app-7.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T13:15:20+00:00",
+      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple should have made the MacBook logo RGB",
+      "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+      "source": "The Verge",
+      "published": "2026-11-13T13:00:00+00:00",
+      "summary": "When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis; it was for the illuminated lid logo. It's a throwback to the li",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T12:52:19+00:00",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Microsoft’s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge",
+      "published": "2026-11-13T12:48:03+00:00",
+      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T12:28:23+00:00",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T12:00:40+00:00",
+      "summary": "\"You can simplify it as a big tank feeding engines.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
+      "category": "other"
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge",
+      "published": "2026-11-13T12:00:00+00:00",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Major Microsoft 365 Outage Continues",
+      "url": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
+      "source": "MacRumors",
+      "published": "2026-11-13T11:55:16+00:00",
+      "summary": "The worldwide Microsoft 365 outage continues, leaving users unable to access email and disrupting features in Teams, Copilot, and other services, although Microsoft says recovery efforts are making progress. Issues emerged on Thursday, November 12, with nearly",
+      "image": "https://images.macrumors.com/article-new/2026/11/microsoft.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T11:50:38+00:00",
+      "summary": "Specialized’s second-fastest bike may be the smart buy.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Apple Launches Two Products Today",
+      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+      "source": "MacRumors",
+      "published": "2026-11-13T10:37:25+00:00",
+      "summary": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October. Apple HomeView : Apple's new smart home display, powered by Appl",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "category": "apple"
+    },
     {
       "title": "Apple TV just debuted three new originals, including a heist thriller series",
       "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
@@ -1064,15 +1307,6 @@
       "category": "google"
     },
     {
-      "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
-      "url": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
-      "source": "MacRumors",
-      "published": "2026-11-12T14:00:00+00:00",
-      "summary": "Apple today announced that select Apple Home Collection accessories will be available to order starting Friday, November 13, with availability beginning in December. Apple did not say exactly which accessories can be ordered tomorrow, so stay tuned. Introduced",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
-      "category": "apple"
-    },
-    {
       "title": "Designing for privacy on intelligent eyewear",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
       "source": "Google Blog",
@@ -1089,6 +1323,15 @@
       "summary": "Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's intelligent eyewear is now available for pre-order.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog1_Banner.max-600x600.format-webp.webp",
       "category": "google"
+    },
+    {
+      "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
+      "url": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
+      "source": "MacRumors",
+      "published": "2026-11-12T14:00:00+00:00",
+      "summary": "Apple today announced that select Apple Home Collection accessories will be available to order starting Friday, November 13, with availability beginning in December. Apple did not say exactly which accessories can be ordered tomorrow, so stay tuned. Introduced",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
+      "category": "apple"
     },
     {
       "title": "Jensen Huang resigns as CEO of Nvidia",
@@ -1197,249 +1440,6 @@
       "summary": "Good morning. Today I’m finding open source alternatives to all of my apps , poring through Pitchfork’s list of the 100 best indie rock albums to find ones I haven’t listened to, and preparing my body for November 19th by pre-loading GTA VI (and replaying GTA ",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/galaxy-z-fold-8-iphone-duo-4.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang set to be fired, with Johny Srouji among possible replacements [U]",
-      "url": "https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T11:59:29+00:00",
-      "summary": "Following reports of a potential second affair – this time with a subordinate – Nvidia CEO Jensen Huang looks certain to be fired by the company’s board, probably later today (though he may be allowed to ‘resign’). Apple’s chief hardware officer Johny Srouji h",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Nvidia-CEO-Jensen-Huang-set-to-be-fired-with-Johny-Srouji-listed-among-possible-replacements.jpg?quality=82&strip=all&w=1500",
-      "category": "apple"
-    },
-    {
-      "title": "Here’s Apple’s new ad for the holiday season, featuring MacBook Neo",
-      "url": "https://9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T11:47:20+00:00",
-      "summary": "The last few years of Apple holiday ads have revolved around iPhone, Apple Watch and AirPods. For 2026, the new holiday film “The Dreamer” diverts from tradition and instead puts the spotlight on the Mac, specifically the MacBook Neo … although even the iPhone",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-neo-apple-holiday-film.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-      "source": "The Verge",
-      "published": "2026-11-12T11:12:32+00:00",
-      "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, wit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Gentler Streak 6.0 adds a new wellbeing timeline and customizable dashboard",
-      "url": "https://9to5mac.com/2026/11/12/gentler-streak-6-0-adds-a-new-wellbeing-timeline-and-customizable-dashboard/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T08:00:00+00:00",
-      "summary": "In an update rolling out today, Gentler Streak is introducing new ways for users to track their wellbeing and personalize the app’s guidance based on how they feel. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/gentler-wellbeing.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Support Community Deserved a Proper Goodbye",
-      "url": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
-      "source": "MacRumors",
-      "published": "2026-11-12T04:51:19+00:00",
-      "summary": "Apple on Tuesday abruptly placed the Apple Support Community into a read-only state and announced that the forums will be permanently closing on Friday, November 20 . Those who contributed to the site — some for more than two decades — were blindsided by this ",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
-      "url": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T04:01:11+00:00",
-      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T03:13:10+00:00",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "The Nintendo Switch 2 is down to its lowest price of the season with an early Black Friday deal",
-      "url": "https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/",
-      "source": "9to5Google",
-      "published": "2026-11-12T00:17:47+00:00",
-      "summary": "Get a new Switch 2 system for $469, dropping it to the lowest price we’ve seen in months. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nintendo-switch-2-zelda-ocarina-of-time.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "The Nintendo Switch 2 is down to its lowest price of the season tonight only",
-      "url": "https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/",
-      "source": "9to5Google",
-      "published": "2026-11-12T00:17:47+00:00",
-      "summary": "Get a new Switch 2 system for $459, dropping it to the lowest price we’ve seen in months. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nintendo-switch-2-zelda-ocarina-of-time.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:28:45+00:00",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T23:17:05+00:00",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T23:10:17+00:00",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "source": "The Verge",
-      "published": "2026-11-11T22:44:36+00:00",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal re",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "source": "The Verge",
-      "published": "2026-11-11T22:00:00+00:00",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge",
-      "published": "2026-11-11T21:54:21+00:00",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
-      "url": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
-      "source": "MacRumors",
-      "published": "2026-11-11T21:37:39+00:00",
-      "summary": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Avenue, right next to the Apple Park Visitor Center, according",
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "iPhone Duo one week later: The future, or not for me?",
-      "url": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
-      "source": "9to5Mac",
-      "published": "2026-11-11T21:33:21+00:00",
-      "summary": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone?",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
-      "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
-      "source": "9to5Mac",
-      "published": "2026-11-11T21:17:30+00:00",
-      "summary": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-      "url": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
-      "source": "9to5Mac",
-      "published": "2026-11-11T21:08:46+00:00",
-      "summary": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Invites App Updated With Two New Features",
-      "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
-      "source": "MacRumors",
-      "published": "2026-11-11T21:01:05+00:00",
-      "summary": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now add polls to invitations so guests can vote on details such as a party's theme and food, and hosts can now add an \"emoji effect\" that floats across invitations. Re",
-      "image": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T20:32:21+00:00",
-      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
-      "category": "other"
-    },
-    {
-      "title": "The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900",
-      "url": "https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/",
-      "source": "9to5Google",
-      "published": "2026-11-11T20:30:00+00:00",
-      "summary": "For every Android-powered slate I’ve used, only Nvidia’s Shield Tablet really stands out in my memory. Part of the company’s occasional ( and all-but-dead ) dip into hardware products, the Shield Tablet — and its revitalized K1 follow-up, which I also owned th",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/lenovo-legion-tab-gen-5-revview-13.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T20:22:03+00:00",
-      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
-      "url": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
-      "source": "9to5Mac",
-      "published": "2026-11-11T20:18:07+00:00",
-      "summary": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T20:15:15+00:00",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects be",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Meta is losing its longtime head of infrastructure",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T20:12:01+00:00",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "source": "TechCrunch",
-      "published": "2026-11-11T20:04:28+00:00",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
