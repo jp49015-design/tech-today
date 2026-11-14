@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-14T14:56:52.059162+00:00",
+  "updated_at": "2026-11-14T19:49:07.882723+00:00",
   "articles": [
+    {
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "source": "The Verge",
+      "published": "2026-11-14T19:47:40+00:00",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gatherin",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T18:00:00+00:00",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:45:04+00:00",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "source": "The Verge",
+      "published": "2026-11-14T17:44:28+00:00",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this wa",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Here’s a HomeView feature that should come to every Apple device",
+      "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
+      "source": "9to5Mac",
+      "published": "2026-11-14T17:43:49+00:00",
+      "summary": "This week, Apple started shipping the HomeView , its first display made for the smart home. On the HomeView , there’s one particularly nice feature that I’d love to see make its way to all Apple platforms: Ambient Dark Mode. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:30:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T16:34:15+00:00",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
+      "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
+      "source": "MacRumors",
+      "published": "2026-11-14T15:25:16+00:00",
+      "summary": "Black Friday is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-3.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "source": "The Verge",
+      "published": "2026-11-14T15:00:00+00:00",
+      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "published": "2026-11-14T15:00:00+00:00",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy communi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "ai"
+    },
     {
       "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
       "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
@@ -20,15 +110,6 @@
       "category": "apple"
     },
     {
-      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
-      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-      "source": "9to5Mac",
-      "published": "2026-11-14T14:00:00+00:00",
-      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
       "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
       "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
       "source": "The Verge",
@@ -36,6 +117,15 @@
       "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
+      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
+      "source": "9to5Mac",
+      "published": "2026-11-14T14:00:00+00:00",
+      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
@@ -428,7 +518,7 @@
       "title": "Apple TV 4K Launch Day Deal Arrives at Amazon",
       "url": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
       "source": "MacRumors",
-      "published": "2026-11-13T18:16:52+00:00",
+      "published": "2026-11-13T18:16:44+00:00",
       "summary": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for $289.99 , down from $299.00. This is a match of the pre-order discount we saw last week. Note: MacRumors is an affiliate partner with some of these vendors. Whe",
       "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg",
       "category": "apple"
@@ -1348,96 +1438,6 @@
       "source": "TechCrunch",
       "published": "2026-11-12T19:11:00+00:00",
       "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:09:57+00:00",
-      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Apple Releases Updated HomeView Software 27.2 Before Launch",
-      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-software-27-2-24v526/",
-      "source": "MacRumors",
-      "published": "2026-11-12T19:05:12+00:00",
-      "summary": "With the HomeView set to start arriving to some users in just a matter of hours, Apple has released a new HomeView Software 27.2 update. The software has a build number of 24V526, and it is the second 27.2 update Apple has released for the device. Customers re",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-homeview-on-black.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "Microsoft’s Outlook email hit by new outage",
-      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T19:03:39+00:00",
-      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T18:57:45+00:00",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-      "category": "ai"
-    },
-    {
-      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T18:57:45+00:00",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-      "category": "google"
-    },
-    {
-      "title": "Microsoft Outlook experiencing widespread outage",
-      "url": "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T18:54:54+00:00",
-      "summary": "Everybody’s working for the weekend, but Microsoft Outlook clocked out early. The mission-critical email service is facing a widespread outage. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/04/outlook-profiles.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "HomeView review, new Apple TV launches, Apple holiday ad",
-      "url": "https://9to5mac.com/2026/11/12/happy-hour-616/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T18:51:11+00:00",
-      "summary": "Chance is back again with a review of another new Apple product. This week, we dive into the HomeView, the app experiences, speaker quality, what it’s like to use Siri AI and more on Apple’s first smart display. Also, Apple releases its best holiday ad in year",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Pebblebee’s latest Android Find Hub trackers try some festive colors, but fall short on sparkle",
-      "url": "https://9to5google.com/2026/11/12/pebblebees-latest-android-find-hub-trackers-try-some-festive-colors-but-fall-short-on-sparkle/",
-      "source": "9to5Google",
-      "published": "2026-11-12T18:45:00+00:00",
-      "summary": "Available now, Pebblebee’s latest Android Find Hub tracker color drop might also be the first real miss, with the festive theme falling short of what it’s supposed to look like. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/pebblebee-cranberry-champagne.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more",
-      "url": "https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T18:40:00+00:00",
-      "summary": "Grok Bot for Mac just gained a bunch of new Apple integrations, including Messages, Mail, Notes, and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T18:39:23+00:00",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
       "image": "",
       "category": "other"
     }
