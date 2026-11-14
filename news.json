@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-14T19:49:07.882723+00:00",
+  "updated_at": "2026-11-14T23:26:35.483651+00:00",
   "articles": [
+    {
+      "title": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
+      "url": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
+      "source": "9to5Mac",
+      "published": "2026-11-14T22:02:41+00:00",
+      "summary": "In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "published": "2026-11-14T21:44:44+00:00",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T21:41:22+00:00",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
+      "url": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
+      "source": "9to5Mac",
+      "published": "2026-11-14T20:30:00+00:00",
+      "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Apple finally released its new HomeView this week, a smart displ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/37256650cdc1b8807ed7cf263170dc6288a29c048d7fe757a47beb047fd38757.png?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "source": "TechCrunch",
+      "published": "2026-11-14T20:04:44+00:00",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "image": "",
+      "category": "other"
+    },
     {
       "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
       "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
@@ -587,15 +632,6 @@
       "category": "apple"
     },
     {
-      "title": "This tiny iOS 27 camera feature really makes a huge difference",
-      "url": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
-      "source": "9to5Mac",
-      "published": "2026-11-13T17:00:00+00:00",
-      "summary": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control. But a combination of the new Pro controls on the iPhone 18 Pro and a new feature introduced with iOS 27 mea",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&strip=all&w=1200",
-      "category": "apple"
-    },
-    {
       "title": "Connect Google Wallet to Gemini for personal finance insights",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
       "source": "Google Blog",
@@ -603,6 +639,15 @@
       "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
       "category": "ai"
+    },
+    {
+      "title": "This tiny iOS 27 camera feature really makes a huge difference",
+      "url": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T17:00:00+00:00",
+      "summary": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control. But a combination of the new Pro controls on the iPhone 18 Pro and a new feature introduced with iOS 27 mea",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&strip=all&w=1200",
+      "category": "apple"
     },
     {
       "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
@@ -1395,51 +1440,6 @@
       "summary": "The early Black Friday sales are now live at Amazon , Best Buy , and Walmart , and so are today’s best Google Play app and game deals: Agent A: A puzzle in disguise, Swim Out, Potion Permit, Burst Busters: Action Survival, The Mutiny, Stop Santa: Tower Defense",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-badd23.webp?w=1600",
       "category": "google"
-    },
-    {
-      "title": "Apple Explains How HomeView Keeps Camera Data Private",
-      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/",
-      "source": "MacRumors",
-      "published": "2026-11-12T19:48:04+00:00",
-      "summary": "Apple today shared an in-depth look at how it's using Secure Exclaves to protect camera and microphone data on the HomeView, iPhone 18 Pro , and other products. Apple describes Secure Exclaves as compartmentalized runtimes that process camera and microphone da",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T19:27:45+00:00",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "image": "",
-      "category": "google"
-    },
-    {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:23:03+00:00",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "category": "ai"
-    },
-    {
-      "title": "iOS 27’s Find My app adds convenient feature I’ve long wished for",
-      "url": "https://9to5mac.com/2026/11/12/ios-27s-find-my-app-adds-convenient-feature-ive-long-wished-for/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T19:21:20+00:00",
-      "summary": "iOS 27 is packed with new features, including several for the Find My app . One upgrade to Find My—custom sharing durations—grants a feature request I’ve had for years. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T19:11:00+00:00",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
