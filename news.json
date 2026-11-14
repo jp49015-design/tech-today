@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-13T21:23:59.330439+00:00",
+  "updated_at": "2026-11-14T01:33:27.370596+00:00",
   "articles": [
+    {
+      "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
+      "url": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+      "source": "9to5Google",
+      "published": "2026-11-14T01:15:00+00:00",
+      "summary": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Hilight-Phone-Call.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "source": "Ars Technica",
+      "published": "2026-11-14T00:49:13+00:00",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "published": "2026-11-13T23:49:11+00:00",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "FAA ground stop shuts down flights nationwide",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-13T23:47:27+00:00",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "FAA orders third nationwide ground stop in its history",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T23:17:38+00:00",
+      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T23:00:00+00:00",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T22:43:00+00:00",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
+      "url": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/",
+      "source": "MacRumors",
+      "published": "2026-11-13T22:04:47+00:00",
+      "summary": "Apple's HomeView is out today, and we're finally learning all the little details about the new hub. We've rounded up a list of tidbits for those setting up a HomeView or thinking about getting one. Sunglasses Apple says the HomeView probably won't recognize yo",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
+      "url": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
+      "source": "9to5Google",
+      "published": "2026-11-13T22:00:00+00:00",
+      "summary": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+      "url": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T21:59:21+00:00",
+      "summary": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T21:59:01+00:00",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "source": "TechCrunch",
+      "published": "2026-11-13T21:44:38+00:00",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
+      "url": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
+      "source": "9to5Google",
+      "published": "2026-11-13T21:23:59+00:00",
+      "summary": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processi",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-homeagent-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T21:20:47+00:00",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "category": "other"
+    },
     {
       "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
       "url": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
@@ -173,7 +299,7 @@
       "category": "google"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch",
       "published": "2026-11-13T18:40:30+00:00",
@@ -237,7 +363,7 @@
     },
     {
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
       "source": "Ars Technica",
       "published": "2026-11-13T17:25:45+00:00",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
@@ -893,15 +1019,6 @@
       "category": "other"
     },
     {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T22:28:47+00:00",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "category": "other"
-    },
-    {
       "title": "Muse can now place calls to US businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch",
@@ -1235,15 +1352,6 @@
       "category": "other"
     },
     {
-      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
-      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T18:20:44+00:00",
-      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
-    },
-    {
       "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
       "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
       "source": "Ars Technica",
@@ -1260,6 +1368,15 @@
       "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
+      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
+      "source": "9to5Google",
+      "published": "2026-11-12T18:01:41+00:00",
+      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
     },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
@@ -1323,123 +1440,6 @@
       "summary": "Nothing has been teasing its first dedicated AI product and, as we expected, it really looks like an AI recorder. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nothing-ai-recorder-teaser.jpg?quality=82&strip=all&w=1600",
       "category": "google"
-    },
-    {
-      "title": "The amazing disappearing exoplanet",
-      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T17:18:10+00:00",
-      "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
-      "category": "other"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:17:58+00:00",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:00:52+00:00",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:17+00:00",
-      "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, how",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "From AI ambition to business impact",
-      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
-      "source": "Microsoft Blog",
-      "published": "2026-11-12T17:00:03+00:00",
-      "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actual",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple Sports adds UFC events with real-time stats and results",
-      "url": "https://9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Apple continues to expand the appeal of its free Sports app, which focuses on delivering real-time sports scores and stats, across many different sports. Today, Apple is adding UFC into the mix, so MMA fans can track the fights live through the unified Apple S",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-sports-ufc.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Scientists are using Google AI to help restore giant kelp forests.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "Meet the 2026 Google PhD Fellows",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades. Check your eligibility today.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "Get quick answers from Gemini on any website.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
-      "source": "Google Blog",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp",
-      "category": "ai"
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "25 years later, Xbox is trying to reinvent itself again",
-      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge",
-      "published": "2026-11-12T17:00:00+00:00",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
     }
   ]
 }
