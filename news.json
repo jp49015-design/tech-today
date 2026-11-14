@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-14T07:58:31.376344+00:00",
+  "updated_at": "2026-11-14T14:56:52.059162+00:00",
   "articles": [
+    {
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge",
+      "published": "2026-11-14T14:18:36+00:00",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
+      "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
+      "source": "MacRumors",
+      "published": "2026-11-14T14:00:08+00:00",
+      "summary": "Apple's wild past few months are finally starting to slow down with the last of the big hardware launches coming this week. Meanwhile, developers are continuing to optimize their apps for the all-new form factor of the iPhone Duo and Apple looks to shake up it",
+      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-14.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
+      "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
+      "source": "9to5Mac",
+      "published": "2026-11-14T14:00:00+00:00",
+      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge",
+      "published": "2026-11-14T14:00:00+00:00",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
+      "url": "https://9to5mac.com/2026/11/14/early-black-friday-apple-deals-apple-tv-4k-airpods/",
+      "source": "9to5Mac",
+      "published": "2026-11-14T13:05:05+00:00",
+      "summary": "Alongside the release of the new Apple TV 4K , we also have loads of the early Black Friday offers flying with the lowest prices to date on AirTag 2 at $17.50 , rare discounts on Magic Mouse , the lowest price yet on the 2026 Magic Keyboard and more, alongside",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Early-Black-Friday-Apple-deals-Apple-TV-4K-AirPods.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "source": "The Verge",
+      "published": "2026-11-14T13:00:00+00:00",
+      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "source": "Ars Technica",
+      "published": "2026-11-14T12:15:48+00:00",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
+      "category": "other"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "source": "Ars Technica",
+      "published": "2026-11-14T12:05:51+00:00",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "published": "2026-11-14T12:00:00+00:00",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
       "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
@@ -72,6 +153,15 @@
       "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
       "image": "",
       "category": "other"
+    },
+    {
+      "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
+      "url": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
+      "source": "9to5Mac",
+      "published": "2026-11-13T23:00:00+00:00",
+      "summary": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pCloud-2.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -164,15 +254,6 @@
       "category": "ai"
     },
     {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-13T20:30:00+00:00",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
       "title": "Claim your Google Cloud Credits in Google AI Studio",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
       "source": "Google Blog",
@@ -180,6 +261,15 @@
       "summary": "Claim your Google Cloud Credits in Google AI Studio",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_BlogBanner_990x556.max-600x600.format-webp.webp",
       "category": "google"
+    },
+    {
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-13T20:30:00+00:00",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
     },
     {
       "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
@@ -1348,96 +1438,6 @@
       "source": "TechCrunch",
       "published": "2026-11-12T18:39:23+00:00",
       "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Netflix releases new trailer for Ray Gunn",
-      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T18:38:38+00:00",
-      "summary": "\"It's hard being the only honest players in a crooked game.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
-      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T18:28:22+00:00",
-      "summary": "\"We're not doing this thing because we like rockets.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
-      "category": "other"
-    },
-    {
-      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
-      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-      "source": "9to5Mac",
-      "published": "2026-11-12T18:20:44+00:00",
-      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T18:17:19+00:00",
-      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge",
-      "published": "2026-11-12T18:06:54+00:00",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google Blog",
-      "published": "2026-11-12T18:00:00+00:00",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-      "category": "ai"
-    },
-    {
-      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
-      "source": "Google Blog",
-      "published": "2026-11-12T18:00:00+00:00",
-      "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp",
-      "category": "ai"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "source": "Google Blog",
-      "published": "2026-11-12T18:00:00+00:00",
-      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp",
-      "category": "ai"
-    },
-    {
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "source": "The Verge",
-      "published": "2026-11-12T17:44:33+00:00",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "published": "2026-11-12T17:36:40+00:00",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
       "image": "",
       "category": "other"
     }
