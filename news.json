@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-14T01:33:27.370596+00:00",
+  "updated_at": "2026-11-14T07:58:31.376344+00:00",
   "articles": [
+    {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "published": "2026-11-14T01:53:04+00:00",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it w",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
       "url": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
@@ -35,6 +44,15 @@
       "published": "2026-11-13T23:47:27+00:00",
       "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET th",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T23:17:38+00:00",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
       "category": "other"
     },
     {
@@ -1352,6 +1370,15 @@
       "category": "other"
     },
     {
+      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
+      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
+      "source": "9to5Mac",
+      "published": "2026-11-12T18:20:44+00:00",
+      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
       "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
       "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
       "source": "Ars Technica",
@@ -1368,15 +1395,6 @@
       "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
-    },
-    {
-      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
-      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-      "source": "9to5Google",
-      "published": "2026-11-12T18:01:41+00:00",
-      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
     },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
@@ -1422,24 +1440,6 @@
       "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
       "image": "",
       "category": "other"
-    },
-    {
-      "title": "Four excellent Garmin watches are on deep discount ahead of Black Friday",
-      "url": "https://9to5google.com/2026/11/12/four-excellent-garmin-watches-are-on-deep-discount-ahead-of-black-friday/",
-      "source": "9to5Google",
-      "published": "2026-11-12T17:35:00+00:00",
-      "summary": "Garmin has a watch for every budget this year, and it’s clear the company is working on shipping more watches than ever at these prices. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/garmin-venu-4-forerunner-70-renders.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Nothing’s screen-less new gadget really looks like yet another AI recorder",
-      "url": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
-      "source": "9to5Google",
-      "published": "2026-11-12T17:30:00+00:00",
-      "summary": "Nothing has been teasing its first dedicated AI product and, as we expected, it really looks like an AI recorder. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nothing-ai-recorder-teaser.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
     }
   ]
 }
