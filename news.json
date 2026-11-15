@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T02:57:33.238425+00:00",
+  "updated_at": "2026-11-15T10:36:03.553703+00:00",
   "articles": [
     {
       "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
@@ -659,15 +659,6 @@
       "category": "apple"
     },
     {
-      "title": "Connect Google Wallet to Gemini for personal finance insights",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
-      "source": "Google Blog",
-      "published": "2026-11-13T17:00:00+00:00",
-      "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
-      "category": "ai"
-    },
-    {
       "title": "This tiny iOS 27 camera feature really makes a huge difference",
       "url": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
       "source": "9to5Mac",
@@ -675,6 +666,15 @@
       "summary": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control. But a combination of the new Pro controls on the iPhone 18 Pro and a new feature introduced with iOS 27 mea",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&strip=all&w=1200",
       "category": "apple"
+    },
+    {
+      "title": "Connect Google Wallet to Gemini for personal finance insights",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+      "source": "Google Blog",
+      "published": "2026-11-13T17:00:00+00:00",
+      "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
+      "category": "ai"
     },
     {
       "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
