@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-11-15T17:23:28.958108+00:00",
+  "updated_at": "2026-11-15T21:57:05.321098+00:00",
   "articles": [
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T21:56:35+00:00",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "source": "The Verge",
+      "published": "2026-11-15T21:49:22+00:00",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best. It doesn't have the se",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a0664469113_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
+      "url": "https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/",
+      "source": "9to5Mac",
+      "published": "2026-11-15T21:44:51+00:00",
+      "summary": "iPhone Duo has been out for about 3 weeks now, and I’ve happily been using mine since launch day. Many people have made a big deal about the app situation , but I’d largely say most apps I rely on are updated for iOS 27.0 at least. That said, a fair number of ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
+      "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+      "source": "9to5Google",
+      "published": "2026-11-15T21:36:43+00:00",
+      "summary": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the “Lenovo Googlebook Duet 13” yet. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Lenovo-Googlebook-Duet-13-3.webp?w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "published": "2026-11-15T21:05:02+00:00",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "published": "2026-11-15T20:43:49+00:00",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T20:20:57+00:00",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published": "2026-11-15T19:15:43+00:00",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T18:29:14+00:00",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows",
+      "url": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
+      "source": "MacRumors",
+      "published": "2026-11-15T17:59:53+00:00",
+      "summary": "Early Black Friday deals are rolling in this weekend, and Amazon now has new all-time low prices on a giant collection of Apple Watch Series 12 models . You'll find $70 off every category of the smartwatch, including Aluminum, Titanium, and Ceramic models in b",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-orange.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
+      "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+      "source": "MacRumors",
+      "published": "2026-11-15T17:55:32+00:00",
+      "summary": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg 's Mark Gurman . In the latest edition of his \"Power On\" newsletter , Gurman shared new details about the glasses' des",
+      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "AirPods Pro 3 Discounted to $179.99 in Early Black Friday Sale",
+      "url": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
+      "source": "MacRumors",
+      "published": "2026-11-15T17:27:30+00:00",
+      "summary": "One of the best early Black Friday deals has arrived today, with Amazon discounting the AirPods Pro 3 down to $179.99 , from $249.00. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment",
+      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-orange-new.jpeg",
+      "category": "apple"
+    },
     {
       "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
       "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
@@ -90,6 +198,15 @@
       "summary": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
+      "url": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+      "source": "9to5Google",
+      "published": "2026-11-15T14:00:00+00:00",
+      "summary": "The Google Pixel Tag is here and, at least so far, it’s really good. But fresh hardware and some new features can’t fix the core problem. Google’s Find Hub network has been restricted from the very start, and it’s not something Google can easily fix. 9to5Googl",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-8.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
@@ -311,7 +428,7 @@
       "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
       "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
       "source": "MacRumors",
-      "published": "2026-11-14T15:25:16+00:00",
+      "published": "2026-11-14T15:25:09+00:00",
       "summary": "Black Friday is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is",
       "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-3.jpg",
       "category": "apple"
@@ -1323,123 +1440,6 @@
       "summary": "Specialized’s second-fastest bike may be the smart buy.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
       "category": "other"
-    },
-    {
-      "title": "Apple Launches Two Products Today",
-      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
-      "source": "MacRumors",
-      "published": "2026-11-13T10:37:14+00:00",
-      "summary": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October. Apple HomeView : Apple's new smart home display, powered by Appl",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple TV just debuted three new originals, including a heist thriller series",
-      "url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
-      "source": "9to5Mac",
-      "published": "2026-11-13T02:02:34+00:00",
-      "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch the trailers below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-      "source": "The Verge",
-      "published": "2026-11-13T00:46:07+00:00",
-      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Hands-On With the New Apple TV 4K and Siri AI",
-      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
-      "source": "MacRumors",
-      "published": "2026-11-13T00:42:07+00:00",
-      "summary": "The 4th-generation Apple TV 4K with an A19 chip and Siri AI support is available starting on November 13, and we were able to spend some time with it ahead of launch. Subscribe to the MacRumors YouTube channel for more videos. ‌Siri‌ AI is the headline feature",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Xbox announces Wolfenstein 3",
-      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-      "source": "The Verge",
-      "published": "2026-11-13T00:11:44+00:00",
-      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that th",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1",
-      "url": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
-      "source": "MacRumors",
-      "published": "2026-11-12T23:57:48+00:00",
-      "summary": "An upcoming tvOS 27.2.1 update will bring Siri AI to the 2nd- and 3rd-generation Apple TV 4K models, according to Apple. A support document outlining ‌Siri‌ AI requirements across Apple products says tvOS 27.2.1 supports ‌Siri‌ AI on the ‌Apple TV‌ 4K (2nd gen",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "source": "The Verge",
-      "published": "2026-11-12T23:43:22+00:00",
-      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Humble Bundle redesign removes two-factor verification from settings",
-      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-      "source": "The Verge",
-      "published": "2026-11-12T23:30:52+00:00",
-      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humbl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&strip=all&crop=0,0,100,88.092261904762",
-      "category": "other"
-    },
-    {
-      "title": "Microsoft Outlook is still down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "source": "The Verge",
-      "published": "2026-11-12T23:24:13+00:00",
-      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've de",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-      "source": "The Verge",
-      "published": "2026-11-12T23:00:00+00:00",
-      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"X",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T22:59:51+00:00",
-      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-      "category": "other"
-    },
-    {
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T22:59:51+00:00",
-      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-      "category": "other"
-    },
-    {
-      "title": "HomeView Launch Kicks Off as First Orders Reach Customers",
-      "url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
-      "source": "MacRumors",
-      "published": "2026-11-12T22:50:59+00:00",
-      "summary": "Apple announced an all-new home product a month ago, and it's now starting to arrive to customers. It's Friday, November 13, in Australia and New Zealand, which means it's the HomeView launch day. Customers who pre-ordered Apple's new home hub will soon be sha",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
-      "category": "apple"
     }
   ]
 }
