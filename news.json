@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-15T21:57:05.321098+00:00",
+  "updated_at": "2026-11-16T01:40:00.321937+00:00",
   "articles": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "published": "2026-11-16T01:30:00+00:00",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "published": "2026-11-16T01:26:56+00:00",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "published": "2026-11-15T23:30:00+00:00",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "published": "2026-11-15T23:11:54+00:00",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
+      "url": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
+      "source": "9to5Mac",
+      "published": "2026-11-15T23:06:10+00:00",
+      "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
@@ -200,15 +245,6 @@
       "category": "apple"
     },
     {
-      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
-      "url": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
-      "source": "9to5Google",
-      "published": "2026-11-15T14:00:00+00:00",
-      "summary": "The Google Pixel Tag is here and, at least so far, it’s really good. But fresh hardware and some new features can’t fix the core problem. Google’s Find Hub network has been restricted from the very start, and it’s not something Google can easily fix. 9to5Googl",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-8.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
       "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
       "source": "The Verge",
@@ -216,6 +252,15 @@
       "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, droppin",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
+      "url": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+      "source": "9to5Google",
+      "published": "2026-11-15T14:00:00+00:00",
+      "summary": "The Google Pixel Tag is here and, at least so far, it’s really good. But fresh hardware and some new features can’t fix the core problem. Google’s Find Hub network has been restricted from the very start, and it’s not something Google can easily fix. 9to5Googl",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-8.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "The Sony Aibo was a robot revolution dressed like a dog",
@@ -1394,51 +1439,6 @@
       "published": "2026-11-13T12:48:03+00:00",
       "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "source": "TechCrunch",
-      "published": "2026-11-13T12:28:23+00:00",
-      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T12:00:40+00:00",
-      "summary": "\"You can simplify it as a big tank feeding engines.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
-      "category": "other"
-    },
-    {
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "source": "The Verge",
-      "published": "2026-11-13T12:00:00+00:00",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Major Microsoft 365 Outage Continues",
-      "url": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
-      "source": "MacRumors",
-      "published": "2026-11-13T11:55:16+00:00",
-      "summary": "The worldwide Microsoft 365 outage continues, leaving users unable to access email and disrupting features in Teams, Copilot, and other services, although Microsoft says recovery efforts are making progress. Issues emerged on Thursday, November 12, with nearly",
-      "image": "https://images.macrumors.com/article-new/2026/11/microsoft.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T11:50:38+00:00",
-      "summary": "Specialized’s second-fastest bike may be the smart buy.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
       "category": "other"
     }
   ]
