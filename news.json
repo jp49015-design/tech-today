@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-17T02:17:16.164986+00:00",
+  "updated_at": "2026-11-17T10:50:52.141672+00:00",
   "articles": [
+    {
+      "title": "Apple Close to Rare Long-Term Memory Deal With Samsung",
+      "url": "https://www.macrumors.com/2026/11/17/apple-rare-long-term-memory-deal-samsung/",
+      "source": "MacRumors",
+      "published": "2026-11-17T10:28:18+00:00",
+      "summary": "Apple is close to signing a long-term supply agreement with Samsung for DRAM chips, according to Korea's Maeil Business Newspaper . The deal would reportedly run for four to five years from the first half of 2027, setting a minimum supply volume, with prices f",
+      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
+      "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
+      "source": "9to5Mac",
+      "published": "2026-11-17T03:15:50+00:00",
+      "summary": "Soon, your alarms, timers, and phone calls will be less disruptive on iPhone Duo. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-Duo-Attention-Aware-Features-FI-Fixed.png?w=1600",
+      "category": "apple"
+    },
     {
       "title": "tvOS 27.3 beta 2 brings Siri AI to Apple TV beta testers",
       "url": "https://9to5mac.com/2026/11/16/tvos-27-3-beta-2-brings-siri-ai-to-apple-tv-beta-testers/",
@@ -1422,24 +1440,6 @@
       "summary": "Apple's new app for a study will answer everyday medical questions",
       "image": "",
       "category": "apple"
-    },
-    {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "source": "The Verge",
-      "published": "2026-11-16T01:26:56+00:00",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "apple"
-    },
-    {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "source": "TechCrunch",
-      "published": "2026-11-15T23:30:00+00:00",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
