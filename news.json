@@ -1,6 +1,546 @@
 {
-  "updated_at": "2026-11-19T07:44:25.848888+00:00",
+  "updated_at": "2026-11-19T16:49:55.253226+00:00",
   "articles": [
+    {
+      "title": "Sonos Black Friday Sale Takes Up to 25% Off Speakers, Soundbars, and More",
+      "url": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "source": "MacRumors",
+      "published": "2026-11-19T16:46:44+00:00",
+      "summary": "Sonos is back with its annual Black Friday sale , with up to 25 percent off select products through November 30. This event includes savings on speakers, soundbars, headphones, subwoofers, and many more of the best Sonos audio accessories. Note: MacRumors is a",
+      "image": "https://images.macrumors.com/article-new/2025/12/sonos-glitter.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Motorola’s iPhone Duo competitor, Razr Flex, leaks in detailed images [Gallery]",
+      "url": "https://9to5google.com/2026/11/19/motorola-razr-flex-iphone-duo-leak/",
+      "source": "9to5Google",
+      "published": "2026-11-19T16:40:00+00:00",
+      "summary": "Motorola’s Razr Flex has leaked in full, with the iPhone Duo competitor showing off its wide form factor in two colors, and it looks great. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-razr-flex-leak-sg-1.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Deals – Black Friday Week now live: Pixel 11 $400 off, Watch 5, Android Auto adapter, Sony 1000X headphones up to $100 off, more",
+      "url": "https://9to5google.com/2026/11/19/black-friday-week-pixel-11-watch-5-android-auto-1000x/",
+      "source": "9to5Google",
+      "published": "2026-11-19T16:30:32+00:00",
+      "summary": "Amazon has officially launched its Pixel 11 Pro, Pixel 11 Pro XL, and WH-1000XM4C headphones. Head below for a whole lot more including today’s Black Friday deals of the day and loads of the best prices yet on the brand new Amazon Echo smart speaker releases .",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-19-3.webp?w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+      "source": "The Verge",
+      "published": "2026-11-19T16:28:12+00:00",
+      "summary": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or worse, hide it behind some convoluted enterpri",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Microsoft-To-Do.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "source": "MacRumors",
+      "published": "2026-11-19T16:22:03+00:00",
+      "summary": "Apple today announced that all-female F1 ACADEMY races and qualifying sessions will be streamed exclusively on Apple TV in the U.S. starting in March 2027, further expanding the existing five-year partnership between Apple and Formula 1. F1 content is included",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-TV-F1-Academy.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T16:19:41+00:00",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+      "source": "The Verge",
+      "published": "2026-11-19T16:15:01+00:00",
+      "summary": "Ahead of Black Friday, you can subscribe to Paramount Plus for just $2.99 per month for the first two months. After the introductory period, you can cancel your subscription or automatically renew at the then-current rate, which, as of now, is $8.99 per month ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23617470/SNW_Ep104_MG__010746_RT.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Nest Wifi Pro is 65% off right now, just $70",
+      "url": "https://9to5google.com/2026/11/19/google-nest-wifi-pro-black-friday-deal/",
+      "source": "9to5Google",
+      "published": "2026-11-19T16:15:00+00:00",
+      "summary": "A huge Black Friday deal on Google’s Nest Wifi Pro takes the Wi-Fi 6E router down to just $70, a massive 65% off. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/06/Google-Nest-WiFi-Pro.webp?w=1200",
+      "category": "google"
+    },
+    {
+      "title": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
+      "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+      "source": "The Verge",
+      "published": "2026-11-19T16:14:23+00:00",
+      "summary": "JPMorgan Chase says its third-party vendors suffered a cyberattack, exposing marketing data like customer names and email addresses. The confirmation follows a report from Cybernews, which says a ransomware group leaked email addresses belonging to around 16,0",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305014881.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple TV will stream all-female racing series F1 Academy starting next year",
+      "url": "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T16:10:21+00:00",
+      "summary": "Apple is coming up to the end of its first year as the exclusive broadcaster of Formula 1 in the United States, with the deal set to continue through 2031. So far, it seems to be going well for all parties involved. In a sign of that relationship strengthening",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-f1-academy.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "iPadOS 27.3: Three new features coming to your iPad",
+      "url": "https://9to5mac.com/2026/11/19/ipados-27-3-three-new-features-coming-to-your-ipad/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T16:09:55+00:00",
+      "summary": "iPadOS 27.3 is now in beta and will launch to all users next month , here are three new features it introduces for iPad. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-ipad-pro-magic-keyboard_f6917e.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, much more",
+      "url": "https://9to5mac.com/2026/11/19/best-apple-black-friday-deals-now-live/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T16:04:36+00:00",
+      "summary": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at $120 off , the new Beats 360 modular ANC headphones are now ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5toys_black_friday_02-02.png?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The Verge’s 2026 fitness and wellness gift guide",
+      "url": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
+      "source": "The Verge",
+      "published": "2026-11-19T16:00:00+00:00",
+      "summary": "We could all use a hand when it comes to being more mindful about our health and fitness. The holidays provide plenty of reasons to focus on wellness in body and mind, and a good gift can be just the thing to spur a new hobby or support healthy habits. With th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_FITNESS.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "See some of the work from Google Flow and Flow Music Sessions artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/",
+      "source": "Google Blog",
+      "published": "2026-11-19T16:00:00+00:00",
+      "summary": "Explore the work of Flow and Flow Music Sessions artists from our latest residency programs.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ss_Seagull_still_1.1.1.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Microsoft To Do is retiring, including Mac and iOS apps",
+      "url": "https://9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T15:55:27+00:00",
+      "summary": "Microsoft is saying goodbye to its task management service To Do, including the Mac and iOS apps. Here’s what users need to know. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/microsoft-to-do.webp?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "iOS 27.3 beta can cause HomeView issues, Apple confirms",
+      "url": "https://9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T15:46:03+00:00",
+      "summary": "Apple’s new HomeView just launched last Friday, but some early adopters reported issues with Siri AI in their first days of use. Apple shipped fixes in HomeView 27.2.1 yesterday, but it also confirmed the iOS 27.3 beta is responsible for some of the problems. ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-siri-ai-app.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T15:32:20+00:00",
+      "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Google Fi app redesign brings floating toolbar & Ask Fi",
+      "url": "https://9to5google.com/2026/11/19/google-fi-floating-toolbar/",
+      "source": "9to5Google",
+      "published": "2026-11-19T15:30:00+00:00",
+      "summary": "Google Fi Wireless is the latest first-party app to adopt a floating toolbar as part of a small navigation redesign. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/04/google-fi-new-logo-2023-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Black Friday streaming deals start going live: Paramount+ for $2.99, Apple TV+ for $6.99, more",
+      "url": "https://9to5google.com/2026/11/19/black-friday-2026-streaming-deals-amazon/",
+      "source": "9to5Google",
+      "published": "2026-11-19T15:25:00+00:00",
+      "summary": "Streaming has gotten more expensive, and Black Friday is the one time of year where you can often get a really good deal and, as of today, those streaming deals are starting to go live. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/onn-4k-google-tv-stick-remote-2.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
+      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+      "source": "MacRumors",
+      "published": "2026-11-19T15:20:00+00:00",
+      "summary": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This includes $150 off the 14-inch M6 MacBook Pro , and up to $250 off the 16-inch MacBook Pro with PROLED XDR Display . Note: MacRumors is an affiliate partner with some o",
+      "image": "https://images.macrumors.com/article-new/2026/11/macbook-pros-black-friday.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "source": "The Verge",
+      "published": "2026-11-19T15:16:45+00:00",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "ai"
+    },
+    {
+      "title": "Tomorrow Marks the End of a 28-Year Era at Apple",
+      "url": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/",
+      "source": "MacRumors",
+      "published": "2026-11-19T15:08:00+00:00",
+      "summary": "Apple previously announced that the Apple Support Community discussion forums for user-to-user tech support will be permanently closing this Friday, November 20. The forums have existed in some form for 28 years. It is the end of an era. It is our understandin",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "UK court rules Apple can share the top secret order everyone already knew",
+      "url": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T15:01:45+00:00",
+      "summary": "The Investigatory Powers Tribunal – essentially a British court that deals with complaints about state surveillance – has ruled that Apple is allowed to reveal a secret order it received from the UK government. Apple had already found a clever way to alert Bri",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Apple-standing-up-for-Advanced-Data-Protection-is-way-more-important-than-it-seems.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+      "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+      "source": "The Verge",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election i",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Building the right way: Lessons from 20 years in The Dalles",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/",
+      "source": "Google Blog",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "As our first data center in The Dalles, Oregon, turns 20, we’re looking back and announcing new investments in the local community.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more",
+      "url": "https://9to5google.com/2026/11/19/google-store-black-friday-2026-start/",
+      "source": "9to5Google",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "Black Friday 2026 deals on Pixel devices are now live on the US Google Store. The phone deals are available until December 5 at 11:59 p.m. PT, while watch discounts end December 1. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Store-Black-Friday-2026.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:54:39+00:00",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Motorola Razr Flex leaks in real life with Fold 8 and iPhone Duo shape, mystery chipset",
+      "url": "https://9to5google.com/2026/11/19/motorola-razr-flex-leak-image-specs/",
+      "source": "9to5Google",
+      "published": "2026-11-19T14:50:00+00:00",
+      "summary": "Motorola’s upcoming Razr Flex foldable is expected to have the same wide foldable form factor as Galaxy Z Fold 8 and iPhone Duo, and new leaks not only reveal its design, but hint at some key specs. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-razr-flex-leak-2.jpg?quality=82&strip=all&w=1200",
+      "category": "apple"
+    },
+    {
+      "title": "All my favorite XREAL glasses are at their lowest price ever for Black Friday",
+      "url": "https://9to5google.com/2026/11/19/all-my-favorite-xreal-glasses-are-at-their-lowest-price-ever-this-week/",
+      "source": "9to5Google",
+      "published": "2026-11-19T14:45:00+00:00",
+      "summary": "Xreal’s early Black Friday sales have just begun, and they get you a fantastic pair of smart display glasses for as low as $249. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xreal-one-pro.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Amazon Takes $200 Off Every Apple Studio Display for Black Friday",
+      "url": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/",
+      "source": "MacRumors",
+      "published": "2026-11-19T14:40:35+00:00",
+      "summary": "Amazon today has the first discounts on the Apple Studio Display in months, with $200 off every model of the 2026 display, plus a $300 discount on the Studio Display XDR as well. Note: MacRumors is an affiliate partner with some of these vendors. When you clic",
+      "image": "https://images.macrumors.com/article-new/2026/11/studio-display-black-friday.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Are the Galaxy Buds 4 Pro the best earbuds for you?",
+      "url": "https://9to5google.com/2026/11/19/are-the-galaxy-buds-4-pro-the-best-earbuds-for-you/",
+      "source": "9to5Google",
+      "published": "2026-11-19T14:39:47+00:00",
+      "summary": "Picking the right earbuds is a tough task, but Samsung’s Galaxy Buds 4 Pro are among the best on the market, and in this guide, we’ll be looking at whether or not they’re the best earbuds for you this holiday season. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-7.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The Analogue 3D can now update itself over Wi-Fi",
+      "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+      "source": "The Verge",
+      "published": "2026-11-19T14:32:33+00:00",
+      "summary": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "First Googlebook discount takes $300 off HP flagship for Black Friday",
+      "url": "https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/",
+      "source": "9to5Google",
+      "published": "2026-11-19T14:30:00+00:00",
+      "summary": "The first discount on Googlebooks following the October 4 launch is here. Best Buy is taking $300 off the HP Googlebook 14 for Black Friday. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-5.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source": "The Verge",
+      "published": "2026-11-19T14:25:37+00:00",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milesto",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Best Black Friday deals now live: Google Pixel, Samsung, Amazon Echo, TVs, Anker, much more",
+      "url": "https://9to5google.com/2026/11/19/best-black-friday-deals-live-google-pixel-samsung/",
+      "source": "9to5Google",
+      "published": "2026-11-19T14:09:23+00:00",
+      "summary": "The official 2026 Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as $100 off all Pixel Watch 5 models, and the lowest price ever on Google Home Speaker . Joining those offers we have a $350 price drop on Z Fold 8 , a deep deal on S26 Ultra at $",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Best-Black-Friday-deals-now-live.png?w=1600",
+      "category": "google"
+    },
+    {
+      "title": "UK Loses Secrecy Fight Over Apple 'Backdoor' Order",
+      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
+      "source": "MacRumors",
+      "published": "2026-11-19T14:06:17+00:00",
+      "summary": "Apple's challenge to a UK government demand for access to encrypted customer data can now be heard largely in public, after a tribunal rejected the Home Office's attempt to keep the order secret, according to the Financial Times . The Investigatory Powers Trib",
+      "image": "https://images.macrumors.com/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "source": "Ars Technica",
+      "published": "2026-11-19T14:04:38+00:00",
+      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:00:00+00:00",
+      "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T14:00:00+00:00",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "The wait begins for GTA VI on PC",
+      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+      "source": "The Verge",
+      "published": "2026-11-19T14:00:00+00:00",
+      "summary": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-15-copy.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
+      "url": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/",
+      "source": "MacRumors",
+      "published": "2026-11-19T13:56:57+00:00",
+      "summary": "Amazon today has introduced a major discount on the brand new Beats 360 headphones, now available for $249.00 in the Black and Cloud color options, down from $349.00. You can get the Sky color on sale at this price over at Best Buy . Note: MacRumors is an affi",
+      "image": "https://images.macrumors.com/article-new/2026/11/beats-360-dark-blue.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "MacBook Pro PROLED, MacBook Neo, more: The best Amazon Black Friday deals on Macs",
+      "url": "https://9to5mac.com/2026/11/19/macbook-pro-proled-macbook-neo-more-the-best-amazon-black-friday-deals-on-macs/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T13:56:07+00:00",
+      "summary": "The official 2026 Amazon Black Friday sale is now live with a solid $70 off AirPods Pro 3 and the lowest prices ever on Apple Watch Series 12 , among many other Apple deals, but we are now tracking some of the very best MacBook deals of the year. We are catchi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-10.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+      "source": "The Verge",
+      "published": "2026-11-19T13:53:38+00:00",
+      "summary": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
+    },
+    {
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "source": "Ars Technica",
+      "published": "2026-11-19T13:40:02+00:00",
+      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Apple Music Radio Now Reaches Over 50 Million Monthly Listeners",
+      "url": "https://www.macrumors.com/2026/11/19/apple-music-radio-50-million-listeners/",
+      "source": "MacRumors",
+      "published": "2026-11-19T13:31:52+00:00",
+      "summary": "Apple Music Radio now attracts more than 50 million unique listeners per month, ‌Apple Music‌'s global creative director Zane Lowe revealed in a new interview. Speaking to Billboard , Lowe said the audience is expanding rapidly, 11 years after the service debu",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "This portable monitor is great for DroidDeck, and now it’s down to $85",
+      "url": "https://9to5google.com/2026/11/19/this-portable-monitor-is-great-for-droiddeck-and-now-its-down-to-85/",
+      "source": "9to5Google",
+      "published": "2026-11-19T13:16:35+00:00",
+      "summary": "Turn your phone into a portable console with Steam games and a set of light, portable monitors with this early Black Friday monitor deal. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/arzopa-z3fc-with-redmagic-12-pro-monster-hunter-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Future Macs Could Get Brighter, Longer-Lasting OLED Displays in 2030",
+      "url": "https://www.macrumors.com/2026/11/19/future-macs-could-get-brighter-oled-displays/",
+      "source": "MacRumors",
+      "published": "2026-11-19T13:09:27+00:00",
+      "summary": "LG Display is developing a new way to make OLED screens with higher brightness, longer lifespans, and lower power consumption for future Macs, according to The Elec . The technology, called \"FLiPP,\" is reportedly being developed for potential use in Apple's Ma",
+      "image": "https://images.macrumors.com/article-new/2024/03/macbook-air-new-blue.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "source": "Google Blog",
+      "published": "2026-11-19T13:00:00+00:00",
+      "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+      "image": "",
+      "category": "google"
+    },
+    {
+      "title": "Save 20% on Twelve South’s tiny Airfly Drive wireless CarPlay dongle",
+      "url": "https://9to5mac.com/2026/11/19/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T12:55:10+00:00",
+      "summary": "Update November 19: Twelve South’s Airfly Drive dongle is now 20% off as part of Amazon’s early Black Friday festivities . That drops the price from $39.99 to $31.99 Buy Twelve South Airfly Drive in white Buy Twelve South Airfly Drive in black Original launch ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
+      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
+      "source": "MacRumors",
+      "published": "2026-11-19T12:51:43+00:00",
+      "summary": "Apple will face trial in France in June 2027 over allegations that it restricted independent iPhone repairs, French advocacy group Halte à l'Obsolescence Programmée (HOP) this week announced . The case follows HOP's December 2022 complaint about parts pairing,",
+      "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Self-Service-Repair.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "OLED iMac plans may be cancelled by Apple for two reasons",
+      "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T12:51:43+00:00",
+      "summary": "Apple is considering abandoning plans to launch an OLED iMac , according to a new supply chain report. The news comes just weeks after the first OLED Mac was launched in the form of the new touchscreen MacBook Pro . The company is said to be holding discussion",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/OLED-iMac-may-be-cancelled-by-Apple-for-two-reasons.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
+      "url": "https://9to5google.com/2026/11/19/galaxy-z-fold-8-1499-deal/",
+      "source": "9to5Google",
+      "published": "2026-11-19T12:30:00+00:00",
+      "summary": "A strange deal over on Samsung.com is offering the Galaxy Z Fold 8 for $1,499, a new low price for the hit foldable, but it’s not showing up for all users. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Canva introduces new controls to hide generative AI features",
+      "url": "https://9to5mac.com/2026/11/19/canva-introduces-new-controls-to-hide-generative-ai-features/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T12:30:00+00:00",
+      "summary": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and see less AI-generated content. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/canva-ai.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Major privacy breaches reported in Muse AI, including bank balances",
+      "url": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T12:20:00+00:00",
+      "summary": "Meta employees have expressed concerns about what appear to be major privacy breaches when using Muse , currently the second most popular free iPhone app in the App Store with over 10 million downloads. This includes again accessing end-to-end encrypted messag",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-privacy-breaches-reported-in-Muse-AI-including-bank-balances.webp?w=1500",
+      "category": "apple"
+    },
+    {
+      "title": "Apple announces Black Friday deals on iPhone, iPad, Mac, and more",
+      "url": "https://9to5mac.com/2026/11/19/apple-announces-black-friday-deals-on-iphone-ipad-mac-and-more/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T12:05:37+00:00",
+      "summary": "Apple has officially announced this year’s Black Friday promotion. Starting Friday, you can score up to $300 in gift cards when you buy an eligible Apple product. Apple’s announcement comes as Amazon kicks off its own Black Friday deals offering cash savings o",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-gifts.jpeg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Calling in sick: Vice City",
+      "url": "https://9to5google.com/2026/11/19/calling-in-sick-vice-city/",
+      "source": "9to5Google",
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "Good morning. Today I’m TKTK… more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Screenshot-2026-11-18-at-11.01.44-PM.png?w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Apple May Cancel OLED iMac",
+      "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
+      "source": "MacRumors",
+      "published": "2026-11-19T11:55:02+00:00",
+      "summary": "Apple is considering delaying or scrapping its planned iMac with an OLED display amid concerns about high panel costs and weaker-than-expected demand for ‌OLED‌ devices, according to The Elec . Citing industry sources, the Korean publication says Apple is disc",
+      "image": "https://images.macrumors.com/article-new/2024/03/imac-new-blue.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "source": "Ars Technica",
+      "published": "2026-11-19T11:13:01+00:00",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Google’s water stewardship commitments for local communities",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
+      "source": "Google Blog",
+      "published": "2026-11-19T10:00:00+00:00",
+      "summary": "Learn about our new water stewardship commitments, initiatives and recent Water Replenishment Projects Request for Information.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more",
+      "url": "https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T08:01:40+00:00",
+      "summary": "The official Amazon Black Friday sale is now live ! Today marks the beginning of its massive 12-day long Black Friday event leading right up to and beyond Thanksgiving and Black Friday with millions of price drops on just about everything. You’ll find loads of",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Amazon-Black-Friday-Week-Now-live-2026.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "New gradient icons roll out to Google Messages & Contacts",
       "url": "https://9to5google.com/2026/11/18/google-messages-contacts-gradient/",
@@ -281,15 +821,6 @@
       "category": "other"
     },
     {
-      "title": "Review: Amazon’s Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what’s not to love?",
-      "url": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
-      "source": "9to5Google",
-      "published": "2026-11-18T21:00:00+00:00",
-      "summary": "Amazon shocked everyone in October when it launched its new Alexa Tablet series with Google Play support built-in, addressing the biggest shortcoming of its older Fire Tablets. For Black Friday 2026, the Alexa Tablet 8 is a mere $150 and, with Google Play on b",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-alexa-tablet-8-1_420fa9.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Introducing Gemini 4 Neon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "source": "Google Blog",
@@ -297,6 +828,15 @@
       "summary": "Today, we’re introducing Gemini 4 Neon",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp",
       "category": "ai"
+    },
+    {
+      "title": "Review: Amazon’s Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what’s not to love?",
+      "url": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
+      "source": "9to5Google",
+      "published": "2026-11-18T21:00:00+00:00",
+      "summary": "Amazon shocked everyone in October when it launched its new Alexa Tablet series with Google Play support built-in, addressing the biggest shortcoming of its older Fire Tablets. For Black Friday 2026, the Alexa Tablet 8 is a mere $150 and, with Google Play on b",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-alexa-tablet-8-1_420fa9.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch",
@@ -542,15 +1082,6 @@
       "category": "google"
     },
     {
-      "title": "Google Play wants Android apps to nail foldable basics by April 2027",
-      "url": "https://9to5google.com/2026/11/18/android-foldable-apps-google-play/",
-      "source": "9to5Google",
-      "published": "2026-11-18T18:00:00+00:00",
-      "summary": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pixel-at-10-google-pixel-fold-galaxy-z-fold-8-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Google for Mexico: Technology impact that goes beyond business",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
       "source": "Google Blog",
@@ -575,6 +1106,15 @@
       "published": "2026-11-18T18:00:00+00:00",
       "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Google Play wants Android apps to nail foldable basics by April 2027",
+      "url": "https://9to5google.com/2026/11/18/android-foldable-apps-google-play/",
+      "source": "9to5Google",
+      "published": "2026-11-18T18:00:00+00:00",
+      "summary": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pixel-at-10-google-pixel-fold-galaxy-z-fold-8-2.jpg?quality=82&strip=all&w=1600",
       "category": "google"
     },
     {
@@ -659,15 +1199,6 @@
       "category": "apple"
     },
     {
-      "title": "Fitbit Edge after 30 days: Life in the middle lane [Video]",
-      "url": "https://9to5google.com/2026/11/18/fitbit-edge-after-30-days-life-in-the-middle-lane-video/",
-      "source": "9to5Google",
-      "published": "2026-11-18T17:00:00+00:00",
-      "summary": "The biggest compliment you can pay Google at the moment is that alongside the Pixel Watch, recent Fitbit releases have been a huge return to form – the Fitbit Edge included. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-6-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Introducing Stitch Loop: A new way to build and evolve products",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
       "source": "Google Blog",
@@ -692,6 +1223,15 @@
       "published": "2026-11-18T17:00:00+00:00",
       "summary": "Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Fitbit Edge after 30 days: Life in the middle lane [Video]",
+      "url": "https://9to5google.com/2026/11/18/fitbit-edge-after-30-days-life-in-the-middle-lane-video/",
+      "source": "9to5Google",
+      "published": "2026-11-18T17:00:00+00:00",
+      "summary": "The biggest compliment you can pay Google at the moment is that alongside the Pixel Watch, recent Fitbit releases have been a huge return to form – the Fitbit Edge included. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-6-1.jpg?quality=82&strip=all&w=1600",
       "category": "google"
     },
     {
@@ -899,546 +1439,6 @@
       "published": "2026-11-18T14:57:44+00:00",
       "summary": "Apple today revealed the 45 finalists for its 2026 App Store Awards, with nominations spanning its devices, Apple Arcade , and the Cultural Impact category. \"ElevenReader,\" \"(Not Boring) Camera,\" and \"Raylie\" are in contention for iPhone App of the Year. On th",
       "image": "https://images.macrumors.com/article-new/2025/12/Apple-App-Store-Awards-2025.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-      "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
-      "source": "The Verge",
-      "published": "2026-11-18T14:56:43+00:00",
-      "summary": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the complexity of building a futuristic bike p",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T14:55:13+00:00",
-      "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "New Siri Remote for Apple TV 4K just got a firmware update",
-      "url": "https://9to5mac.com/2026/11/18/new-siri-remote-for-apple-tv-4k-just-got-a-firmware-update/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T14:33:20+00:00",
-      "summary": "Apple has released a firmware update for the new Siri Remote for Apple TV 4K, according to AppleDB . Here’s what you should know. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
-      "url": "https://www.macrumors.com/2026/11/18/iphone-duo-2-likely-to-retain-touch-id/",
-      "source": "MacRumors",
-      "published": "2026-11-18T14:16:44+00:00",
-      "summary": "Apple's second-generation iPhone Duo will retain its existing display sizes and side-mounted fingerprint sensor, according to the leaker known as \" Digital Chat Station .\" In a new post on Weibo, the leaker said information about the ‌iPhone Duo‌ 2 remains lim",
-      "image": "https://images.macrumors.com/article-new/2024/09/face-id.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Releases Siri Remote Firmware Update",
-      "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
-      "source": "MacRumors",
-      "published": "2026-11-18T14:12:39+00:00",
-      "summary": "Apple on Tuesday released a firmware update for the fourth-generation Siri Remote. The new version is 0001.0061.0000.0000, up from 0001.0057.0000.0000, according to AppleDB . There is no way to manually install the update, so make sure your Siri Remote is char",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-Remote-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Releases Firmware Update for New Siri Remote",
-      "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
-      "source": "MacRumors",
-      "published": "2026-11-18T14:12:39+00:00",
-      "summary": "Apple on Tuesday released a firmware update for the fourth-generation Siri Remote. The new version is 0001.0061.0000.0000, up from 0001.0057.0000.0000, according to AppleDB . There is no way to manually install the update, so make sure your Siri Remote is char",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-Remote-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers",
-      "url": "https://9to5google.com/2026/11/18/pebblebee-alert-dispatch-emergency/",
-      "source": "9to5Google",
-      "published": "2026-11-18T14:10:00+00:00",
-      "summary": "While many services are turning to AI in place of an actual human being, Pebblebee’s new Alert Dispatch brings the help of a real person into an emergency situation, and it all starts with your Find Hub tracker. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pebblebee-neon-find-hub-trackers.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T14:01:45+00:00",
-      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters",
-      "url": "https://9to5google.com/2026/11/18/aawireless-nexus-nano-adapters-release/",
-      "source": "9to5Google",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "AAWireless, the original wireless Android Auto adapter brand, is introducing new hardware this week with its compact Nexus and Nano adapters. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-nano-nexus-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Cybersecurity tips and tools to keep you safe online",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
-      "source": "Google Blog",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "Explore this collection to see how Google’s cybersecurity tips and tools can keep your accounts and information safe.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
-      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/",
-      "source": "Google Blog",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "Boost holiday ROI with November 2026 Google Marketing Platform updates, including Spotify audiences, Pinterest inventory, and Loblaw integration. Get the details.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ss_0108-GMP_Drop_November___Des.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "How The Verge is picking which Black Friday deals to share",
-      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-      "source": "The Verge",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "source": "The Verge",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving player",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
-      "url": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
-      "source": "MacRumors",
-      "published": "2026-11-18T13:54:43+00:00",
-      "summary": "Amazon today introduced the biggest discount yet on one model of the 16-inch MacBook Pro from early 2026. You can get the M5 Max model with 48GB RAM and a 2TB SSD for $4,149.00 , down from $4,999.00. Note: MacRumors is an affiliate partner with some of these v",
-      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new",
-      "url": "https://9to5google.com/2026/11/18/samsung-one-ui-9-5-beta-release/",
-      "source": "9to5Google",
-      "published": "2026-11-18T13:45:00+00:00",
-      "summary": "Samsung is officially launching its One UI 9.5 beta program today on Galaxy S26 series devices, and it’s packing some features we didn’t expect. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
-      "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T13:30:06+00:00",
-      "summary": "Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as the iPhone 20 . We’re expecting next year’s flagship models to be a radical new design with an all-glass appearance. Why four mod",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
-      "url": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
-      "source": "MacRumors",
-      "published": "2026-11-18T13:14:09+00:00",
-      "summary": "WhatsApp is rolling out its first-party cloud backup service to some users on the beta version of the app for iOS, reports WABetaInfo . WhatsApp cloud backup options in iOS beta (image: WABetaInfo) The option is said to be appearing to some users on WhatsApp b",
-      "image": "https://images.macrumors.com/article-new/2026/11/whatsapp-chat-cloud-backup-wabetainfo.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Six new Aqara smart lights with Apple Home support and ‘spatial intelligence’",
-      "url": "https://9to5mac.com/2026/11/18/six-new-aqara-smart-lights-with-apple-home-support-and-spatial-intelligence/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T13:06:32+00:00",
-      "summary": "Aqara has announced the global launch of six new smart lighting products with full Apple Home support and what the company describes as “spatial intelligence.” The new lineup includes a vertical floor lamp with 18 individually addressable lighting zones, and a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Six-new-Aqara-smart-lights-with-Apple-Home-support-and-spatial-intelligence.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "source": "The Verge",
-      "published": "2026-11-18T13:01:05+00:00",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
-      "url": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
-      "source": "MacRumors",
-      "published": "2026-11-18T13:00:05+00:00",
-      "summary": "MacPaw today launched its Moonlock cybersecurity app for the iPhone, bringing the company's consumer-focused security features to mobile for the first time. Moonlock is designed to help iPhone users recognize and avoid phishing scams and other online threats, ",
-      "image": "https://images.macrumors.com/article-new/2026/11/Moonlock-macpaw.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
-      "url": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T13:00:00+00:00",
-      "summary": "After launching Moonlock for Mac last year, MacPaw is bringing its scam-detection app to iPhone today. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macpaw-moonlock.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T13:00:00+00:00",
-      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple Reportedly Developing Two Designs for 20th Anniversary iPhone",
-      "url": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
-      "source": "MacRumors",
-      "published": "2026-11-18T12:57:25+00:00",
-      "summary": "Apple is currently developing four models with two different designs for the iPhone's 20th anniversary, according to the leaker known as \"Ice Universe.\" In a new post on Weibo , the leaker outlined the two designs. Two are said to feature flat glass covers and",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House",
-      "url": "https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T12:30:24+00:00",
-      "summary": "A set of major tech outages in close succession is leading some to speculate that they are connected, and that the US is under systemic attack by a hostile state. All the evidence suggests otherwise, with individual explanations for each of them – and the Whit",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Banks-FAA-Microsoft-Apple-–-no-systemic-attack-on-the-US-says-White-House.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Rolls Out All-New Maps Experience Across India",
-      "url": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/",
-      "source": "MacRumors",
-      "published": "2026-11-18T12:23:29+00:00",
-      "summary": "Apple today announced the rollout of an all-new Apple Maps experience in India, bringing the company's redesigned map to the country for the first time. The update offers faster and more accurate navigation, more detailed views of roads, buildings, parks, and ",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Maps-India-3up-scaled.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T12:15:44+00:00",
-      "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "NASA’s Voyager 1 probe is now 1 light-day away",
-      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-      "source": "The Verge",
-      "published": "2026-11-18T12:03:36+00:00",
-      "summary": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
-      "url": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T12:00:06+00:00",
-      "summary": "Apple this week revealed the additional Siri AI usage you’ll get if you have an iCloud+ subscription. This ranges from doubled limits for a 200GB plan to 20 times for a 12TB plan. However, the company’s support document reveals that some countries will not get",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Google Home speakers get a major Gemini upgrade ‘soon,’ but only for paid subscribers",
-      "url": "https://9to5google.com/2026/11/18/google-home-gemini-live-update-coming/",
-      "source": "9to5Google",
-      "published": "2026-11-18T12:00:00+00:00",
-      "summary": "Google has confirmed that a big update is in store for the Gemini experience on Google Home speakers, but it’ll only be available to paid subscribers. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-10.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T12:00:00+00:00",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "iPhone Air 2 Reportedly Sticks With Same Display",
-      "url": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/",
-      "source": "MacRumors",
-      "published": "2026-11-18T11:50:26+00:00",
-      "summary": "Apple's upcoming iPhone Air 2 will keep the same display specifications as its predecessor so the company can use existing OLED panel inventory, according to Korean publication ETNews . Citing industry sources, the report says new panel orders are expected to ",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch",
-      "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/",
-      "source": "MacRumors",
-      "published": "2026-11-18T11:46:22+00:00",
-      "summary": "Apple's display suppliers are preparing to begin mass production of OLED panels for the upcoming iPhone Air 2 and iPhone 18, according to a report from Korea's ETNews . The devices will mark Apple's first spring releases next year as part of the company's new ",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-ceramic-shield.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T11:30:00+00:00",
-      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Grand Theft Auto VI: The Ars Technica review",
-      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T11:00:27+00:00",
-      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg",
-      "category": "other"
-    },
-    {
-      "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
-      "url": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
-      "source": "9to5Google",
-      "published": "2026-11-18T11:00:00+00:00",
-      "summary": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/vwfndr-android-camera-app.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "China dominates battery graphite, but this startup could break the monopoly",
-      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T11:00:00+00:00",
-      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
-      "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T02:17:48+00:00",
-      "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T01:44:21+00:00",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18",
-      "url": "https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T00:35:25+00:00",
-      "summary": "Apple Music Hall has added Kings of Leon to its lineup of upcoming gigs at the newly opened London venue. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T00:27:29+00:00",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-      "category": "ai"
-    },
-    {
-      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
-      "url": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/",
-      "source": "MacRumors",
-      "published": "2026-11-18T00:22:19+00:00",
-      "summary": "Aqara today launched six new Matter-enabled smart lights that work with Apple's Home platform. The lights also include Thread and Zigbee support and can be used with Aqara sensors and switches. The $120 Floor Lamp T1 is a rod-shaped light with a wall-wash effe",
-      "image": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T00:16:50+00:00",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T00:01:00+00:00",
-      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
-      "url": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/",
-      "source": "MacRumors",
-      "published": "2026-11-17T23:56:28+00:00",
-      "summary": "Disney says its plans to merge Disney+ and Hulu will be completed in December, with subscribers able to have a \"fully unified experience\" on Disney+ with Hulu live TV and premium add-ons. The detail was included in Disney's fourth quarter earnings report . Dis",
-      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "source": "The Verge",
-      "published": "2026-11-17T23:41:18+00:00",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the pol",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T23:37:48+00:00",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
-      "url": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
-      "source": "9to5Mac",
-      "published": "2026-11-17T23:36:09+00:00",
-      "summary": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-      "source": "Ars Technica",
-      "published": "2026-11-17T23:09:09+00:00",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T23:04:35+00:00",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Material 3 Expressive adds scrolling time picker, AI Studio upgrades Android app creation",
-      "url": "https://9to5google.com/2026/11/17/material-3-expressive-scrolling-time-picker/",
-      "source": "9to5Google",
-      "published": "2026-11-17T23:03:51+00:00",
-      "summary": "Google has given the time picker component a Material 3 Expressive redesign, while adding a new scrolling variant. Meanwhile, Google AI Studio is boosting its Android app development experience. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/scroll-time-picker-cover.png?w=1600",
-      "category": "google"
-    },
-    {
-      "title": "WhatsApp’s first-party chat history backup service moves ahead",
-      "url": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
-      "source": "9to5Mac",
-      "published": "2026-11-17T22:57:08+00:00",
-      "summary": "Select WhatsApp beta testers on iOS are now seeing an option to use the app’s own backup service as an alternative to iCloud. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-      "source": "Ars Technica",
-      "published": "2026-11-17T22:44:46+00:00",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T22:42:27+00:00",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-      "source": "The Verge",
-      "published": "2026-11-17T22:38:41+00:00",
-      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the fina",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "source": "The Verge",
-      "published": "2026-11-17T22:32:50+00:00",
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had mu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "source": "Ars Technica",
-      "published": "2026-11-17T22:32:16+00:00",
-      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T22:29:05+00:00",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "image": "",
-      "category": "google"
-    },
-    {
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "source": "The Verge",
-      "published": "2026-11-17T22:25:41+00:00",
-      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speake",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "apple"
-    },
-    {
-      "title": "Meta’s ‘secret’ Black Friday sale just started, and it offers up to 25% off the company’s smart glasses",
-      "url": "https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/",
-      "source": "9to5Google",
-      "published": "2026-11-17T22:19:40+00:00",
-      "summary": "Ray-Ban Meta (Gen 2), Meta Glasses, Oakley Meta HSTN, Oakley Meta Vanguard, and RX Lenses are between 15% and 25% off right now for Meta’s Black Friday sale. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-ray-ban-oakley-glasses-01-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
-      "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
-      "source": "9to5Mac",
-      "published": "2026-11-17T22:07:22+00:00",
-      "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
     }
   ]
