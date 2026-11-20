@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-20T04:03:29.512570+00:00",
+  "updated_at": "2026-11-20T12:45:29.803934+00:00",
   "articles": [
+    {
+      "title": "WhatsApp Raises Group Chat Limit to 1,500 Members",
+      "url": "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
+      "source": "MacRumors",
+      "published": "2026-11-20T12:44:01+00:00",
+      "summary": "WhatsApp is allowing group chats to have up to 1,500 members on iPhone and Android, up from the previous limit of 1,024 participants, according to WABetaInfo . The increase means group chat admins have room for another 476 people in a single conversation. The ",
+      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge",
+      "published": "2026-11-20T12:30:47+00:00",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "ai"
+    },
+    {
+      "title": "Seminole tribe tries to stop DraftKings' \"illegal gambling\" in Florida",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T12:30:29+00:00",
+      "summary": "Gambling? We're just swapping contracts!",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
+      "url": "https://9to5mac.com/2026/11/20/best-apple-black-friday-deals-now-live/",
+      "source": "9to5Mac",
+      "published": "2026-11-20T12:28:00+00:00",
+      "summary": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at $120 off $130 off , the new Beats 360 modular ANC headphones",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5toys_black_friday_02-02.png?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T12:15:36+00:00",
+      "summary": "Your support for Ars matters more now than ever.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T12:00:43+00:00",
+      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Why the robots are ditching Uber",
+      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "source": "The Verge",
+      "published": "2026-11-20T12:00:00+00:00",
+      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - includi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Security Bite Podcast: Not amused, two months of Meta Muse privacy problems",
+      "url": "https://9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems/",
+      "source": "9to5Mac",
+      "published": "2026-11-20T11:00:00+00:00",
+      "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specifi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "category": "apple"
+    },
+    {
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T09:14:19+00:00",
+      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "image": "",
+      "category": "other"
+    },
     {
       "title": "WhatsApp is raising group chat limit to 1,500 participants",
       "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
@@ -9,6 +90,15 @@
       "summary": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Samsung’s mobile division has someone new in charge for the first time in years",
+      "url": "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/",
+      "source": "9to5Google",
+      "published": "2026-11-20T01:35:00+00:00",
+      "summary": "After the better part of 7 years, Samsung’s mobile division has a new chief and it’s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -517,10 +607,10 @@
     {
       "title": "Gemini app for Mac adds computer use to control desktop apps",
       "url": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T18:55:42+00:00",
+      "source": "9to5Google",
+      "published": "2026-11-19T18:55:13+00:00",
       "summary": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-Mac-computer-use.webp?w=1600",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Mac-computer-use.webp?w=1600",
       "category": "ai"
     },
     {
@@ -686,24 +776,6 @@
       "category": "other"
     },
     {
-      "title": "Halide camera app just got even better for iPhone Duo",
-      "url": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary": "Halide 3.4 is out today as the latest update to the pro camera app. The update adds several new features, including a larger viewfinder for iPhone Duo and more. The new Halide update also lets you use the outer screen on iPhone Duo as a live preview or a fill ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Halide-3-4-iPhone-Duo.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Roborock’s Black Friday deals save over $1650 on select robot vacuums",
-      "url": "https://9to5google.com/2026/11/19/roborocks-black-friday-deals-save-over-1650-on-select-robot-vacuums/",
-      "source": "9to5Google",
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary": "Roborock has launched its Black Friday 2026 deals with some killer discounts including up to half off select models, and over $1650 off its flagship offering. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/1280_720.jpg?quality=82&strip=all&w=1280",
-      "category": "google"
-    },
-    {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
       "source": "Google Blog",
@@ -756,6 +828,24 @@
       "summary": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp",
       "category": "ai"
+    },
+    {
+      "title": "Roborock’s Black Friday deals save over $1650 on select robot vacuums",
+      "url": "https://9to5google.com/2026/11/19/roborocks-black-friday-deals-save-over-1650-on-select-robot-vacuums/",
+      "source": "9to5Google",
+      "published": "2026-11-19T17:00:00+00:00",
+      "summary": "Roborock has launched its Black Friday 2026 deals with some killer discounts including up to half off select models, and over $1650 off its flagship offering. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/1280_720.jpg?quality=82&strip=all&w=1280",
+      "category": "google"
+    },
+    {
+      "title": "Halide camera app just got even better for iPhone Duo",
+      "url": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T17:00:00+00:00",
+      "summary": "Halide 3.4 is out today as the latest update to the pro camera app. The update adds several new features, including a larger viewfinder for iPhone Duo and more. The new Halide update also lets you use the outer screen on iPhone Duo as a live preview or a fill ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Halide-3-4-iPhone-Duo.webp?w=1600",
+      "category": "apple"
     },
     {
       "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
@@ -965,21 +1055,21 @@
       "category": "apple"
     },
     {
-      "title": "Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more",
-      "url": "https://9to5google.com/2026/11/19/google-store-black-friday-2026-start/",
-      "source": "9to5Google",
-      "published": "2026-11-19T15:00:00+00:00",
-      "summary": "Black Friday 2026 deals on Pixel devices are now live on the US Google Store. The phone deals are available until December 5 at 11:59 p.m. PT, while watch discounts end December 1. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Store-Black-Friday-2026.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Building the right way: Lessons from 20 years in The Dalles",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/",
       "source": "Google Blog",
       "published": "2026-11-19T15:00:00+00:00",
       "summary": "As our first data center in The Dalles, Oregon, turns 20, we’re looking back and announcing new investments in the local community.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more",
+      "url": "https://9to5google.com/2026/11/19/google-store-black-friday-2026-start/",
+      "source": "9to5Google",
+      "published": "2026-11-19T15:00:00+00:00",
+      "summary": "Black Friday 2026 deals on Pixel devices are now live on the US Google Store. The phone deals are available until December 5 at 11:59 p.m. PT, while watch discounts end December 1. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Store-Black-Friday-2026.jpg?quality=82&strip=all&w=1600",
       "category": "google"
     },
     {
@@ -1199,6 +1289,15 @@
       "category": "apple"
     },
     {
+      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
+      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
+      "source": "MacRumors",
+      "published": "2026-11-19T12:51:43+00:00",
+      "summary": "Apple will face trial in France in June 2027 over allegations that it restricted independent iPhone repairs, French advocacy group Halte à l'Obsolescence Programmée (HOP) this week announced . The case follows HOP's December 2022 complaint about parts pairing,",
+      "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Self-Service-Repair.jpg",
+      "category": "apple"
+    },
+    {
       "title": "OLED iMac plans may be cancelled by Apple for two reasons",
       "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
       "source": "9to5Mac",
@@ -1208,13 +1307,13 @@
       "category": "apple"
     },
     {
-      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
-      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
-      "source": "MacRumors",
-      "published": "2026-11-19T12:51:43+00:00",
-      "summary": "Apple will face trial in France in June 2027 over allegations that it restricted independent iPhone repairs, French advocacy group Halte à l'Obsolescence Programmée (HOP) this week announced . The case follows HOP's December 2022 complaint about parts pairing,",
-      "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Self-Service-Repair.jpg",
-      "category": "apple"
+      "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
+      "url": "https://9to5google.com/2026/11/19/galaxy-z-fold-8-1499-deal/",
+      "source": "9to5Google",
+      "published": "2026-11-19T12:30:00+00:00",
+      "summary": "A strange deal over on Samsung.com is offering the Galaxy Z Fold 8 for $1,499, a new low price for the hit foldable, but it’s not showing up for all users. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "Canva introduces new controls to hide generative AI features",
@@ -1226,13 +1325,13 @@
       "category": "apple"
     },
     {
-      "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
-      "url": "https://9to5google.com/2026/11/19/galaxy-z-fold-8-1499-deal/",
-      "source": "9to5Google",
-      "published": "2026-11-19T12:30:00+00:00",
-      "summary": "A strange deal over on Samsung.com is offering the Galaxy Z Fold 8 for $1,499, a new low price for the hit foldable, but it’s not showing up for all users. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
+      "title": "Major privacy breaches reported in Muse AI – company responds [U]",
+      "url": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T12:20:00+00:00",
+      "summary": "Meta employees have expressed concerns about what appear to be major privacy breaches when using Muse , currently the second most popular free iPhone app in the App Store with over 10 million downloads. This includes again accessing end-to-end encrypted messag",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-privacy-breaches-reported-in-Muse-AI-including-bank-balances.webp?w=1500",
+      "category": "apple"
     },
     {
       "title": "Major privacy breaches reported in Muse AI, including bank balances",
@@ -1340,105 +1439,6 @@
       "published": "2026-11-19T00:42:56+00:00",
       "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might",
       "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T00:40:49+00:00",
-      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "SmartWings Black Friday sale: Save up to 15% on custom motorized shades",
-      "url": "https://9to5mac.com/2026/11/18/smartwings-black-friday-sale-save-15-custom-motorized-shades/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T00:08:37+00:00",
-      "summary": "SmartWings’ Black Friday and Cyber Monday sale starts November 15, 2026, with 10% off sitewide or 15% off orders over $1,500 . The featured custom motorized shades on sale are available in a variety of styles, including roller, cellular, and linen Roman, to su",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/smartwings-black-friday-hero.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T23:45:00+00:00",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Google AI Ultra upgrade adds YouTube Premium Family",
-      "url": "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/",
-      "source": "9to5Google",
-      "published": "2026-11-18T23:42:00+00:00",
-      "summary": "Google today updated its flagship AI Ultra tier to include YouTube Premium Family after previously limiting subscribers to the Individual plan. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/youtube-premium.jpg?quality=82&strip=all&w=1600",
-      "category": "youtube"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T23:25:17+00:00",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T23:25:04+00:00",
-      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
-      "category": "other"
-    },
-    {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "source": "The Verge",
-      "published": "2026-11-18T23:18:35+00:00",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to d",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T23:17:28+00:00",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
-      "url": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/",
-      "source": "MacRumors",
-      "published": "2026-11-18T23:15:24+00:00",
-      "summary": "Apple today released a new update for Safari Technology Preview , the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S",
-      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple Card doubles Daily Cash rewards for new customers in limited-time offer",
-      "url": "https://9to5mac.com/2026/11/18/apple-card-doubles-daily-cash-rewards-for-new-customers-in-limited-time-offer/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T23:12:32+00:00",
-      "summary": "If you’ve been thinking about getting an Apple Card, now might be a good time. Users who apply for an Apple Card through December 10 are eligible to earn double Daily Cash for their first year. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-card.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T23:10:39+00:00",
-      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
       "category": "other"
     }
   ]
