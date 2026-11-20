@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-19T23:17:55.135681+00:00",
+  "updated_at": "2026-11-20T04:03:29.512570+00:00",
   "articles": [
+    {
+      "title": "WhatsApp is raising group chat limit to 1,500 participants",
+      "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
+      "source": "9to5Mac",
+      "published": "2026-11-20T01:54:39+00:00",
+      "summary": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:56:01+00:00",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:43:50+00:00",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch",
+      "published": "2026-11-20T00:26:03+00:00",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
+      "url": "https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/",
+      "source": "9to5Mac",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "You can spend plenty of time getting your Mac, display, and desk just right. But what about the chair you use every day? Between typing, taking video calls, and leaning back to watch something, your position changes throughout the day. Your chair should be abl",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Sale-Chair-Lineup-US-UK-1920x1080-2.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
+      "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T23:47:30+00:00",
+      "summary": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+      "category": "ai"
+    },
+    {
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch",
+      "published": "2026-11-19T23:37:56+00:00",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
+      "url": "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/",
+      "source": "9to5Google",
+      "published": "2026-11-19T23:30:09+00:00",
+      "summary": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/android-17-emoji-pixel-11-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
     {
       "title": "macOS 27.3 public beta 2 now available, here’s everything new",
       "url": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
@@ -45,6 +117,15 @@
       "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
       "image": "",
       "category": "other"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "published": "2026-11-19T22:31:41+00:00",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
     },
     {
       "title": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
@@ -99,6 +180,15 @@
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
       "image": "",
       "category": "other"
+    },
+    {
+      "title": "Apple TV is now $6.99/month (50% off) for Black Friday, details here",
+      "url": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+      "source": "9to5Mac",
+      "published": "2026-11-19T21:55:07+00:00",
+      "summary": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month for up to six months. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "Apple TV launches 50% off Black Friday deal: $6.99/month for 6 months",
@@ -427,10 +517,10 @@
     {
       "title": "Gemini app for Mac adds computer use to control desktop apps",
       "url": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-      "source": "9to5Google",
-      "published": "2026-11-19T18:55:13+00:00",
+      "source": "9to5Mac",
+      "published": "2026-11-19T18:55:42+00:00",
       "summary": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Mac-computer-use.webp?w=1600",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-Mac-computer-use.webp?w=1600",
       "category": "ai"
     },
     {
@@ -587,15 +677,6 @@
       "category": "google"
     },
     {
-      "title": "Roborock’s Black Friday deals save over $1650 on select robot vacuums",
-      "url": "https://9to5google.com/2026/11/19/roborocks-black-friday-deals-save-over-1650-on-select-robot-vacuums/",
-      "source": "9to5Google",
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary": "Roborock has launched its Black Friday 2026 deals with some killer discounts including up to half off select models, and over $1650 off its flagship offering. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/1280_720.jpg?quality=82&strip=all&w=1280",
-      "category": "google"
-    },
-    {
       "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
       "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
       "source": "TechCrunch",
@@ -612,6 +693,15 @@
       "summary": "Halide 3.4 is out today as the latest update to the pro camera app. The update adds several new features, including a larger viewfinder for iPhone Duo and more. The new Halide update also lets you use the outer screen on iPhone Duo as a live preview or a fill ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Halide-3-4-iPhone-Duo.webp?w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Roborock’s Black Friday deals save over $1650 on select robot vacuums",
+      "url": "https://9to5google.com/2026/11/19/roborocks-black-friday-deals-save-over-1650-on-select-robot-vacuums/",
+      "source": "9to5Google",
+      "published": "2026-11-19T17:00:00+00:00",
+      "summary": "Roborock has launched its Black Friday 2026 deals with some killer discounts including up to half off select models, and over $1650 off its flagship offering. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/1280_720.jpg?quality=82&strip=all&w=1280",
+      "category": "google"
     },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
@@ -1127,15 +1217,6 @@
       "category": "apple"
     },
     {
-      "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
-      "url": "https://9to5google.com/2026/11/19/galaxy-z-fold-8-1499-deal/",
-      "source": "9to5Google",
-      "published": "2026-11-19T12:30:00+00:00",
-      "summary": "A strange deal over on Samsung.com is offering the Galaxy Z Fold 8 for $1,499, a new low price for the hit foldable, but it’s not showing up for all users. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Canva introduces new controls to hide generative AI features",
       "url": "https://9to5mac.com/2026/11/19/canva-introduces-new-controls-to-hide-generative-ai-features/",
       "source": "9to5Mac",
@@ -1143,6 +1224,15 @@
       "summary": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and see less AI-generated content. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/canva-ai.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
+      "url": "https://9to5google.com/2026/11/19/galaxy-z-fold-8-1499-deal/",
+      "source": "9to5Google",
+      "published": "2026-11-19T12:30:00+00:00",
+      "summary": "A strange deal over on Samsung.com is offering the Galaxy Z Fold 8 for $1,499, a new low price for the hit foldable, but it’s not showing up for all users. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "Major privacy breaches reported in Muse AI, including bank balances",
@@ -1350,96 +1440,6 @@
       "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
       "category": "other"
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T22:58:11+00:00",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T22:11:15+00:00",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T22:11:15+00:00",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-      "source": "Ars Technica",
-      "published": "2026-11-18T22:08:57+00:00",
-      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-      "source": "The Verge",
-      "published": "2026-11-18T22:05:48+00:00",
-      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T22:04:03+00:00",
-      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-      "source": "TechCrunch",
-      "published": "2026-11-18T21:57:40+00:00",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Zane Lowe shares Apple Music Radio audience numbers, recalls ‘crickets’ in the early days",
-      "url": "https://9to5mac.com/2026/11/18/zane-lowe-shares-apple-music-radio-audience-numbers-recalls-crickets-in-the-early-days/",
-      "source": "9to5Mac",
-      "published": "2026-11-18T21:50:04+00:00",
-      "summary": "In a new interview with Billboard ’s On the Record with Kristin Robinson , Apple Music’s Zane Lowe discussed the early days of Apple Music Radio and revealed just how many people tune in each month. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-03.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Motorola Razr Fold finally gets its Android 17 update – hopefully the next 7 years go faster",
-      "url": "https://9to5google.com/2026/11/18/motorola-razr-fold-android-17-update/",
-      "source": "9to5Google",
-      "published": "2026-11-18T21:35:00+00:00",
-      "summary": "Motorola has kicked off its Android 17 rollout for the Razr Fold, marking the first major update for the company’s first book-style foldable, and the start of a potentially interest 7 years of software support. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-razr-fold-review-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
-      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
-      "source": "9to5Google",
-      "published": "2026-11-18T21:34:27+00:00",
-      "summary": "Following last week’s release of Carbon and Hydrogen , Google today is rolling out Gemini 4 Neon. The model offers “frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?w=1600",
-      "category": "ai"
     }
   ]
 }
