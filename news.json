@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-11-21T08:52:19.588796+00:00",
+  "updated_at": "2026-11-21T16:29:51.910800+00:00",
   "articles": [
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T16:00:00+00:00",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "source": "The Verge",
+      "published": "2026-11-21T16:00:00+00:00",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-21T16:00:00+00:00",
+      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T15:18:29+00:00",
+      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "published": "2026-11-21T15:00:00+00:00",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-21T14:55:28+00:00",
+      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come i",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-21T14:10:00+00:00",
+      "summary": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
+      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "source": "MacRumors",
+      "published": "2026-11-21T14:00:10+00:00",
+      "summary": "Apple's crazy hardware launch season has come to a close, and now it's time for the holiday shopping season to ramp up. Apple isn't quite done for the year on the software side, however, as new changes in the second betas of the 27.3 releases add a new face un",
+      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-21.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "published": "2026-11-21T14:00:00+00:00",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alter",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
+      "url": "https://9to5mac.com/2026/11/21/apple-work/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T14:00:00+00:00",
+      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Workbrew.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "source": "The Verge",
+      "published": "2026-11-21T13:00:00+00:00",
+      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "source": "The Verge",
+      "published": "2026-11-21T13:00:00+00:00",
+      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) T",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+      "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T12:59:00+00:00",
+      "summary": "Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple deals. Alongside the lowest prices ever on every Apple Watch Series 12 config , the Mac deals are wild this week with as much as $250 o",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "source": "Ars Technica",
+      "published": "2026-11-21T12:01:13+00:00",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "source": "The Verge",
+      "published": "2026-11-21T12:00:00+00:00",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from Fe",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "Startup sues Apple in India over tap-to-share contacts feature",
       "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
@@ -8,6 +143,24 @@
       "published": "2026-11-21T04:00:00+00:00",
       "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
       "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
+      "url": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+      "source": "9to5Google",
+      "published": "2026-11-21T02:45:00+00:00",
+      "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "ESR Black Friday gift guide: Premium accessories for iPhone Duo, iPhone 18 Pro, iPad, AirPods, and Apple Watch",
+      "url": "https://9to5mac.com/2026/11/20/esr-black-friday-apple-accessories-gift-guide/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T00:00:00+00:00",
+      "summary": "If you picked up a new iPhone 18 Pro or iPhone Duo this fall, or you’re shopping for someone with an iPad, AirPods, or Apple Watch, there’s a good chance you’ve been holding out on purchasing accessories until all of the Black Friday deals started. We’ve got y",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/00-KV.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
     },
     {
@@ -63,15 +216,6 @@
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
       "category": "google"
-    },
-    {
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-      "url": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/",
-      "source": "MacRumors",
-      "published": "2026-11-20T21:55:00+00:00",
-      "summary": "Black Friday is nearly here, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an affiliate par",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
-      "category": "apple"
     },
     {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
@@ -353,15 +497,6 @@
       "category": "other"
     },
     {
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "source": "The Verge",
-      "published": "2026-11-20T18:00:00+00:00",
-      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on Ja",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
       "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
       "url": "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
       "source": "9to5Google",
@@ -377,6 +512,15 @@
       "published": "2026-11-20T18:00:00+00:00",
       "summary": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Connected_apps_-_Social_share_a.max-600x600.format-webp.webp",
+      "category": "google"
+    },
+    {
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "published": "2026-11-20T18:00:00+00:00",
+      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on Ja",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
       "category": "google"
     },
     {
@@ -1296,150 +1440,6 @@
       "summary": "Google today expanded Gemini's capabilities, allowing it to take full advantage of your Mac. Gemini for Mac can use apps, files, and websites to complete multi-step tasks in the background while you work in the foreground. According to Google, Gemini can do re",
       "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
       "category": "ai"
-    },
-    {
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "source": "Ars Technica",
-      "published": "2026-11-19T19:52:54+00:00",
-      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
-      "category": "google"
-    },
-    {
-      "title": "Honor just supercharged its smartwatch lineup with a new Pro model",
-      "url": "https://9to5google.com/2026/11/19/honor-just-supercharged-its-smartwatch-lineup-with-a-new-pro-model/",
-      "source": "9to5Google",
-      "published": "2026-11-19T19:41:23+00:00",
-      "summary": "The Honor Watch 6 Pro has a 5,500-nit OLED display, ceramic bezel, 18-day battery life, and costs less than it looks. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/honor-watch-6-pro-all-colors-render.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-      "source": "The Verge",
-      "published": "2026-11-19T19:40:28+00:00",
-      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jamm",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-19T19:35:52+00:00",
-      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling he",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "HomeView woes, iPhone Duo face unlock, macOS Full Disk Access changes",
-      "url": "https://9to5mac.com/2026/11/19/happy-hour-617/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T19:35:11+00:00",
-      "summary": "Benjamin and Chance discuss their HomeView experiences and Siri reliability issues after a week of the product being in the world. Benjamin also tests the new Apple TV surround sound feature. And the latest 27.3 betas bring a bunch of changes including face un",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "You can now buy a Steam Machine without getting on a waitlist",
-      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-      "source": "The Verge",
-      "published": "2026-11-19T19:33:22+00:00",
-      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal",
-      "url": "https://9to5google.com/2026/11/19/at-600-the-pixel-10-is-this-years-no-brainer-black-friday-smartphone-deal/",
-      "source": "9to5Google",
-      "published": "2026-11-19T19:18:00+00:00",
-      "summary": "Phones have gotten a lot more expensive over the last year or so, and it’s a trend we’re expecting to get worse before it can get better. If you’re in the market for an upgrade, this year’s Black Friday might be one of the final truly good times to buy a new d",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-blue-in-hand-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "source": "The Verge",
-      "published": "2026-11-19T19:12:30+00:00",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make m",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T19:10:45+00:00",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple TV reveals new series with Andrew Garfield, Jude Law as magicians",
-      "url": "https://9to5mac.com/2026/11/19/apple-tv-reveals-new-series-with-andrew-garfield-jude-law-as-magicians/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T19:09:51+00:00",
-      "summary": "Jude Law and Andrew Garfield star as Siegfried & Roy, the famous magicians, in Apple TV’s forthcoming series Wild Things. Here’s the release date and full details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/andrew-garfield-wild-things-sphere.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
-      "source": "Google Blog",
-      "published": "2026-11-19T19:00:00+00:00",
-      "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Quantum_Contextuality_Social_Sh.max-600x600.format-webp.webp",
-      "category": "google"
-    },
-    {
-      "title": "Gemini app for Mac adds computer use to control desktop apps",
-      "url": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-      "source": "9to5Google",
-      "published": "2026-11-19T18:55:13+00:00",
-      "summary": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Mac-computer-use.webp?w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-      "source": "Ars Technica",
-      "published": "2026-11-19T18:44:39+00:00",
-      "summary": "Some models fare better, but all fail in similar ways.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Deals – Black Friday Week now live: MacBook Neo, M6 Pro $150 off, PROLED XDR, Beats 360 $100 off, more",
-      "url": "https://9to5mac.com/2026/11/19/black-friday-week-deals-macbook-neo-m6-pro-proled/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T18:42:08+00:00",
-      "summary": "The official Amazon Black Friday Week is now soaring with Apple deals, including AirPods Pro 3 at $70 off , the latest 2026 AirPods Max 2 now at $120 off , and loads of MacBook deals – MacBook Neo down at $649 , the first price drops on the M6 MacBook Pro and ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Black-Friday-M6-MacBook-Series-12-Neo-AirPods.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "source": "The Verge",
-      "published": "2026-11-19T18:33:08+00:00",
-      "summary": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 (",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
-      "url": "https://9to5google.com/2026/11/19/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
-      "source": "9to5Google",
-      "published": "2026-11-19T18:24:03+00:00",
-      "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one tha",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/WD-X16-7-crop.jpg?quality=82&strip=all&w=1200",
-      "category": "google"
     }
   ]
 }
