@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-21T01:48:51.358172+00:00",
+  "updated_at": "2026-11-21T08:52:19.588796+00:00",
   "articles": [
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T04:00:00+00:00",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "image": "",
+      "category": "apple"
+    },
     {
       "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update",
       "url": "https://9to5mac.com/2026/11/20/daily-november-20-2026/",
@@ -1431,15 +1440,6 @@
       "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one tha",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/WD-X16-7-crop.jpg?quality=82&strip=all&w=1200",
       "category": "google"
-    },
-    {
-      "title": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "source": "The Verge",
-      "published": "2026-11-19T18:21:13+00:00",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, fil",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "ai"
     }
   ]
 }
