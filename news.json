@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-11-21T16:29:51.910800+00:00",
+  "updated_at": "2026-11-21T21:49:42.584002+00:00",
   "articles": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:37:10+00:00",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:07:42+00:00",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Gemini app rolls out very slick camera redesign on Android",
+      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
+      "source": "9to5Google",
+      "published": "2026-11-21T20:52:52+00:00",
+      "summary": "Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "published": "2026-11-21T20:03:37+00:00",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" af",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
+      "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T19:35:44+00:00",
+      "summary": "iPhone 18 Pro and iPhone Duo have been out for quite some time now, and despite that, it’s still incredibly challenging to order an iPhone Duo in a timely manner. If for whatever reason you’re considering skipping out on this year’s iPhones, here’s what you ha",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T18:44:53+00:00",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "published": "2026-11-21T17:42:27+00:00",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Informat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-21T17:17:00+00:00",
+      "summary": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Store in UK Permanently Closing Today",
+      "url": "https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/",
+      "source": "MacRumors",
+      "published": "2026-11-21T17:16:10+00:00",
+      "summary": "Apple Festival Place in Basingstoke, England will be permanently closing today , following more than 15 years of business. Apple said all employees at the Festival Place store would have the opportunity to work at Apple The Oracle in nearby Reading or at other",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Festival-Place-scaled.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
+      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
+      "source": "MacRumors",
+      "published": "2026-11-21T17:10:00+00:00",
+      "summary": "Amazon today has a new all-time low price on the 46mm GPS Apple Watch Series 12, available for $329.00 , down from $449.00. This $120 markdown is only available in the Black Aluminum Case with Black Sport Band as of writing. Note: MacRumors is an affiliate par",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-red.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Siri AI Settlement: Here's How Much Apple Will Pay You",
+      "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
+      "source": "MacRumors",
+      "published": "2026-11-21T17:08:49+00:00",
+      "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and there is one month remaining to submit a claim through the settlement website . In a court document earlier this week, lawyers said that claimants",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "source": "9to5Google",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
+      "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "Google Workspace now includes a complete set of AI features to help small and micro businesses save time, effort, and money. For a limited time, 9to5Mac readers can get 20% off any of the Business Starter, Standard, and Plus plans for the first six months … mo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/GWS_Gemini.jpeg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
+      "title": "RIP, Apple Support Community",
+      "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
+      "source": "MacRumors",
+      "published": "2026-11-21T16:48:03+00:00",
+      "summary": "Apple previously announced that the Apple Support Community would be permanently closing on November 20 . The discussion forums were placed into a read-only state on November 10 and have now been removed entirely. If you visit discussions.apple.com , you will ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "category": "apple"
+    },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
@@ -56,21 +191,21 @@
       "category": "other"
     },
     {
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
-      "source": "MacRumors",
-      "published": "2026-11-21T14:10:00+00:00",
-      "summary": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
-      "category": "apple"
-    },
-    {
       "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
       "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
       "source": "MacRumors",
       "published": "2026-11-21T14:00:10+00:00",
       "summary": "Apple's crazy hardware launch season has come to a close, and now it's time for the holiday shopping season to ramp up. Apple isn't quite done for the year on the software side, however, as new changes in the second betas of the 27.3 releases add a new face un",
       "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-21.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
+      "url": "https://9to5mac.com/2026/11/21/apple-work/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T14:00:00+00:00",
+      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Workbrew.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
     },
     {
@@ -81,15 +216,6 @@
       "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alter",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
-    },
-    {
-      "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
-      "url": "https://9to5mac.com/2026/11/21/apple-work/",
-      "source": "9to5Mac",
-      "published": "2026-11-21T14:00:00+00:00",
-      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Workbrew.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
     },
     {
       "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
@@ -383,7 +509,7 @@
       "title": "Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More",
       "url": "https://www.macrumors.com/2026/11/20/headphones-black-friday/",
       "source": "MacRumors",
-      "published": "2026-11-20T19:26:48+00:00",
+      "published": "2026-11-20T19:26:37+00:00",
       "summary": "There are some big discounts hitting earbuds and headphones for Black Friday this year, with markdowns on audio devices from Apple, Beats, Sony, Anker, Bose, and more. We've compiled all of the best of these deals in the lists below, all of which are available",
       "image": "https://images.macrumors.com/article-new/2026/11/headphones-black-friday.jpeg",
       "category": "apple"
@@ -1314,132 +1440,6 @@
       "summary": "If your PS5 is already full because of GTA VI and Call of Duty: Modern Warfare 4, this 1TB M2 SSD deal is what you’ve been waiting for. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/gta-vi-acer-predator-ssd.jpg?quality=82&strip=all&w=1600",
       "category": "google"
-    },
-    {
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "source": "The Verge",
-      "published": "2026-11-19T21:12:06+00:00",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Reb",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes",
-      "url": "https://9to5mac.com/2026/11/19/daily-november-19-2026/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T21:11:02+00:00",
-      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Roborock’s Black Friday deals make smarter cleaning more affordable than ever",
-      "url": "https://9to5mac.com/2026/11/19/roborocks-black-friday-deals-make-smarter-cleaning-more-affordable-than-ever/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T21:00:00+00:00",
-      "summary": "Cleaning our homes is never going to make anyone’s list of favorite activities, but with the right technology, the task can be made almost effortless. Whether you’re looking for an affordable robot vacuum for a small apartment or the ultimate flagship model ca",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/1280_720.jpg?quality=82&strip=all&w=1280",
-      "category": "apple"
-    },
-    {
-      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting",
-      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T20:49:24+00:00",
-      "summary": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current models. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Apple fires back at Epic over claims it withheld 122,000 documents",
-      "url": "https://9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T20:43:53+00:00",
-      "summary": "Apple has responded to Epic Games’ filing from last Friday, pushing back against accusations that it improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals",
-      "url": "https://9to5google.com/2026/11/19/give-your-eyes-and-wallet-the-break-they-need-with-these-tcl-nxtpaper-black-friday-deals/",
-      "source": "9to5Google",
-      "published": "2026-11-19T20:43:37+00:00",
-      "summary": "TCL NXTPAPER phones and tablets are all on sale well more than a week ahead of Black Friday, and many models are down to their lowest prices ever. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/tcl-nxtpapaper-phones-tablets-2026-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
-      "source": "Google Blog",
-      "published": "2026-11-19T20:30:00+00:00",
-      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp",
-      "category": "ai"
-    },
-    {
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "source": "Ars Technica",
-      "published": "2026-11-19T20:29:46+00:00",
-      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge",
-      "published": "2026-11-19T20:22:17+00:00",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more",
-      "url": "https://9to5toys.com/2026/11/19/todays-highlight-google-play-deals-52/",
-      "source": "9to5Google",
-      "published": "2026-11-19T20:21:27+00:00",
-      "summary": "With the Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , but for now we are checking out the day’s best Android game and app deals. We have collected all of the this week’s for you today down below, just beside to scope $100 off all Pixel Watch 5 models",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-9692f2.webp?w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "source": "Ars Technica",
-      "published": "2026-11-19T20:19:28+00:00",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-      "category": "other"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T20:18:49+00:00",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source": "The Verge",
-      "published": "2026-11-19T20:05:06+00:00",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you ca",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "google"
-    },
-    {
-      "title": "Google's Gemini Can Now Control Apps on Your Mac",
-      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
-      "source": "MacRumors",
-      "published": "2026-11-19T20:03:03+00:00",
-      "summary": "Google today expanded Gemini's capabilities, allowing it to take full advantage of your Mac. Gemini for Mac can use apps, files, and websites to complete multi-step tasks in the background while you work in the foreground. According to Google, Gemini can do re",
-      "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
-      "category": "ai"
     }
   ]
 }
