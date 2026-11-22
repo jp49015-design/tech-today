@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:42:11.447892+00:00",
+  "updated_at": "2026-11-22T08:52:29.225329+00:00",
   "articles": [
     {
       "title": "iOS 27: My favorite new iPhone features (other than AI)",
@@ -128,6 +128,15 @@
       "category": "apple"
     },
     {
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "source": "9to5Google",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
@@ -144,15 +153,6 @@
       "summary": "Google Workspace now includes a complete set of AI features to help small and micro businesses save time, effort, and money. For a limited time, 9to5Mac readers can get 20% off any of the Business Starter, Standard, and Plus plans for the first six months … mo",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/GWS_Gemini.jpeg?quality=82&strip=all&w=1600",
       "category": "ai"
-    },
-    {
-      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
-      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
-      "source": "9to5Google",
-      "published": "2026-11-21T17:00:00+00:00",
-      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
     },
     {
       "title": "RIP, Apple Support Community",
@@ -270,6 +270,15 @@
       "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) T",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]",
+      "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T12:59:00+00:00",
+      "summary": "Update 11/22: Amazon has now dropped the price on AirPods Pro 3 even lower to $169.99 shipped , or just shy of $80 off the list price. Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
@@ -1431,15 +1440,6 @@
       "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
       "image": "",
       "category": "other"
-    },
-    {
-      "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
-      "url": "https://9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T21:42:03+00:00",
-      "summary": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates. Here’s what’s new. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
     }
   ]
 }
