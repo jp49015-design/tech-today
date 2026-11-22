@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-21T21:49:42.584002+00:00",
+  "updated_at": "2026-11-22T01:42:11.447892+00:00",
   "articles": [
+    {
+      "title": "iOS 27: My favorite new iPhone features (other than AI)",
+      "url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T22:22:26+00:00",
+      "summary": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite iOS 27 features (other than Siri and AI). 9to5Mac is support",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "source": "Ars Technica",
+      "published": "2026-11-21T22:12:41+00:00",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "source": "The Verge",
+      "published": "2026-11-21T21:59:31+00:00",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act w",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -27,6 +54,15 @@
       "summary": "Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&w=1600",
       "category": "ai"
+    },
+    {
+      "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
+      "url": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T20:30:00+00:00",
+      "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . You likely have a TV on your wall that generally sits idle throu",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/salon-in-a-living-room.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -83,19 +119,10 @@
       "category": "apple"
     },
     {
-      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
-      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
-      "source": "MacRumors",
-      "published": "2026-11-21T17:10:00+00:00",
-      "summary": "Amazon today has a new all-time low price on the 46mm GPS Apple Watch Series 12, available for $329.00 , down from $449.00. This $120 markdown is only available in the Black Aluminum Case with Black Sport Band as of writing. Note: MacRumors is an affiliate par",
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-red.jpeg",
-      "category": "apple"
-    },
-    {
       "title": "Siri AI Settlement: Here's How Much Apple Will Pay You",
       "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
       "source": "MacRumors",
-      "published": "2026-11-21T17:08:49+00:00",
+      "published": "2026-11-21T17:08:36+00:00",
       "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and there is one month remaining to submit a claim through the settlement website . In a court document earlier this week, lawyers said that claimants",
       "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
       "category": "apple"
@@ -110,15 +137,6 @@
       "category": "other"
     },
     {
-      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
-      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
-      "source": "9to5Google",
-      "published": "2026-11-21T17:00:00+00:00",
-      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
       "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
       "source": "9to5Mac",
@@ -128,6 +146,15 @@
       "category": "ai"
     },
     {
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "source": "9to5Google",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
       "title": "RIP, Apple Support Community",
       "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
       "source": "MacRumors",
@@ -135,15 +162,6 @@
       "summary": "Apple previously announced that the Apple Support Community would be permanently closing on November 20 . The discussion forums were placed into a read-only state on November 10 and have now been removed entirely. If you visit discussions.apple.com , you will ",
       "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
       "category": "apple"
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "published": "2026-11-21T16:00:00+00:00",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "image": "",
-      "category": "other"
     },
     {
       "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -161,6 +179,15 @@
       "published": "2026-11-21T16:00:00+00:00",
       "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday ",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T16:00:00+00:00",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "image": "",
       "category": "other"
     },
     {
@@ -200,6 +227,15 @@
       "category": "apple"
     },
     {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "published": "2026-11-21T14:00:00+00:00",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alter",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
       "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
       "url": "https://9to5mac.com/2026/11/21/apple-work/",
       "source": "9to5Mac",
@@ -209,13 +245,13 @@
       "category": "apple"
     },
     {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "source": "The Verge",
-      "published": "2026-11-21T14:00:00+00:00",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alter",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
+      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
+      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
+      "source": "MacRumors",
+      "published": "2026-11-21T13:59:00+00:00",
+      "summary": "Amazon today has a new all-time low price on the 46mm GPS Apple Watch Series 12, available for $329.00 , down from $449.00. This $120 markdown is only available in the Black Aluminum Case with Black Sport Band as of writing. Note: MacRumors is an affiliate par",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-red.jpeg",
+      "category": "apple"
     },
     {
       "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
@@ -1404,42 +1440,6 @@
       "summary": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates. Here’s what’s new. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
-    },
-    {
-      "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
-      "url": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T21:37:58+00:00",
-      "summary": "Apple has released iOS 27.3 public beta 2 for iPhone. Today’s release also includes a new build for iOS 27.3 beta 2 for developers. The update brings new Calendar controls, more Siri AI capabilities, and new features for iPhone Duo. It also includes the redesi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-public.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T21:33:24+00:00",
-      "summary": "Uber is testing the new program in three U.S. cities.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "source": "Ars Technica",
-      "published": "2026-11-19T21:19:12+00:00",
-      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal",
-      "url": "https://9to5google.com/2026/11/19/just-161-reclaims-all-that-space-gta-vi-stole-on-your-ps5-with-this-m2-ssd-deal/",
-      "source": "9to5Google",
-      "published": "2026-11-19T21:17:24+00:00",
-      "summary": "If your PS5 is already full because of GTA VI and Call of Duty: Modern Warfare 4, this 1TB M2 SSD deal is what you’ve been waiting for. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/gta-vi-acer-predator-ssd.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
     }
   ]
 }
