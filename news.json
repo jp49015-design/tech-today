@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-22T16:48:19.846976+00:00",
+  "updated_at": "2026-11-22T22:10:48.075722+00:00",
   "articles": [
+    {
+      "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+      "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+      "source": "9to5Mac",
+      "published": "2026-11-22T22:02:43+00:00",
+      "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:42:48+00:00",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:14:07+00:00",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "image": "",
+      "category": "ai"
+    },
+    {
+      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+      "url": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+      "source": "9to5Google",
+      "published": "2026-11-22T21:12:41+00:00",
+      "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T21:00:00+00:00",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "source": "MacRumors",
+      "published": "2026-11-22T20:38:16+00:00",
+      "summary": "An experimental iPhone Duo interface tested by Apple would allow widgets to occupy two separate areas of the Lock Screen, according to findings shared by the leaker known as \"pdfu.\" The unreleased layout adds a vertical pair of circular widgets on the right si",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "source": "MacRumors",
+      "published": "2026-11-22T20:29:51+00:00",
+      "summary": "Apple's recent Siri layoffs affected employees working on the assistant's older infrastructure rather than its newer AI systems, according to Bloomberg 's Mark Gurman . In his latest \"Power On\" newsletter , Gurman said employees have yet to notice a major diff",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T18:08:43+00:00",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "source": "The Verge",
+      "published": "2026-11-22T17:46:44+00:00",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airpor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "published": "2026-11-22T17:25:20+00:00",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed se",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
+      "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
+      "source": "9to5Mac",
+      "published": "2026-11-22T17:13:56+00:00",
+      "summary": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen. According to a new leak today, the company has tested another change, referred to as a “complication column.” Here’s what it looks like. ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch",
+      "published": "2026-11-22T17:06:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-22T17:00:00+00:00",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nin",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "source": "The Verge",
+      "published": "2026-11-22T16:33:29+00:00",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "Sheherazaad’s Khudgarzi is gorgeous, genre-defying gothic South Asian folk",
       "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
@@ -290,15 +416,6 @@
       "category": "apple"
     },
     {
-      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
-      "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
-      "source": "9to5Mac",
-      "published": "2026-11-21T17:00:00+00:00",
-      "summary": "Google Workspace now includes a complete set of AI features to help small and micro businesses save time, effort, and money. For a limited time, 9to5Mac readers can get 20% off any of the Business Starter, Standard, and Plus plans for the first six months … mo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/GWS_Gemini.jpeg?quality=82&strip=all&w=1600",
-      "category": "ai"
-    },
-    {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch",
@@ -315,6 +432,15 @@
       "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
       "category": "google"
+    },
+    {
+      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
+      "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
+      "source": "9to5Mac",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "Google Workspace now includes a complete set of AI features to help small and micro businesses save time, effort, and money. For a limited time, 9to5Mac readers can get 20% off any of the Business Starter, Standard, and Plus plans for the first six months … mo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/GWS_Gemini.jpeg?quality=82&strip=all&w=1600",
+      "category": "ai"
     },
     {
       "title": "RIP, Apple Support Community",
@@ -1314,132 +1440,6 @@
       "summary": "Your support for Ars matters more now than ever.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
       "category": "other"
-    },
-    {
-      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-      "source": "Ars Technica",
-      "published": "2026-11-20T12:00:43+00:00",
-      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Why the robots are ditching Uber",
-      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-      "source": "The Verge",
-      "published": "2026-11-20T12:00:00+00:00",
-      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - includi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Security Bite Podcast: Not amused, two months of Meta Muse privacy problems",
-      "url": "https://9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems/",
-      "source": "9to5Mac",
-      "published": "2026-11-20T11:00:00+00:00",
-      "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specifi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "category": "apple"
-    },
-    {
-      "title": "The US national cyber director is stepping down",
-      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T09:14:19+00:00",
-      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "WhatsApp is raising group chat limit to 1,500 participants",
-      "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
-      "source": "9to5Mac",
-      "published": "2026-11-20T01:54:39+00:00",
-      "summary": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Samsung’s mobile division has someone new in charge for the first time in years",
-      "url": "https://9to5google.com/2026/11/19/samsung-mobile-division-lead-choi-won-joon/",
-      "source": "9to5Google",
-      "published": "2026-11-20T01:35:00+00:00",
-      "summary": "After the better part of 7 years, Samsung’s mobile division has a new chief and it’s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:56:01+00:00",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:43:50+00:00",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "source": "TechCrunch",
-      "published": "2026-11-20T00:26:03+00:00",
-      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
-      "url": "https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/",
-      "source": "9to5Mac",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": "You can spend plenty of time getting your Mac, display, and desk just right. But what about the chair you use every day? Between typing, taking video calls, and leaning back to watch something, your position changes throughout the day. Your chair should be abl",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Sale-Chair-Lineup-US-UK-1920x1080-2.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
-      "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T23:47:30+00:00",
-      "summary": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "source": "TechCrunch",
-      "published": "2026-11-19T23:37:56+00:00",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
-      "url": "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/",
-      "source": "9to5Google",
-      "published": "2026-11-19T23:30:09+00:00",
-      "summary": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/android-17-emoji-pixel-11-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "macOS 27.3 public beta 2 now available, here’s everything new",
-      "url": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
-      "source": "9to5Mac",
-      "published": "2026-11-19T23:01:25+00:00",
-      "summary": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release. Here’s what’s coming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-public.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
     }
   ]
 }
