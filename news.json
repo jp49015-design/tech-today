@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-23T02:45:40.557982+00:00",
+  "updated_at": "2026-11-23T11:21:17.492035+00:00",
   "articles": [
+    {
+      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-23T11:00:00+00:00",
+      "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find r",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "MacBook Neo Could Get New Colors and Upgrades Every Year",
+      "url": "https://www.macrumors.com/2026/11/23/macbook-neo-new-colors-every-year/",
+      "source": "MacRumors",
+      "published": "2026-11-23T10:50:49+00:00",
+      "summary": "Apple has put the MacBook Neo on an annual update cycle matching the MacBook Air and MacBook Pro, according to Bloomberg 's Mark Gurman. Writing in his latest Power On newsletter , Gurman said the next model is code-named J701 and due next spring. The update w",
+      "image": "https://images.macrumors.com/article-new/2026/05/MacBook-Neo-Alt-Colors-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "source": "The Verge",
+      "published": "2026-11-23T03:00:00+00:00",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's us",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -236,15 +263,6 @@
       "category": "google"
     },
     {
-      "title": "The Google Home app is better than Nest alone ever was, mostly",
-      "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
-      "source": "9to5Google",
-      "published": "2026-11-22T14:00:00+00:00",
-      "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been. 9to5Google Weekender by Ben Schoon is a part ",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
       "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
       "source": "The Verge",
@@ -261,6 +279,15 @@
       "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headpho",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "The Google Home app is better than Nest alone ever was, mostly",
+      "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+      "source": "9to5Google",
+      "published": "2026-11-22T14:00:00+00:00",
+      "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been. 9to5Google Weekender by Ben Schoon is a part ",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "How Tamagotchis got us hooked on digital pets",
@@ -297,6 +324,15 @@
       "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
       "category": "other"
+    },
+    {
+      "title": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
+      "url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+      "source": "9to5Mac",
+      "published": "2026-11-22T10:15:48+00:00",
+      "summary": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – wi",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
     },
     {
       "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
@@ -582,7 +618,7 @@
       "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
       "source": "9to5Mac",
       "published": "2026-11-21T12:59:00+00:00",
-      "summary": "Update 11/22: Amazon has now dropped the price on AirPods Pro 3 even lower to $169.99 shipped , or just shy of $80 off the list price. You’ll also now find an even deeper deal on the current-generation Apple Watch SE 3 from $179 . Black Friday is already in fu",
+      "summary": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. You’ll also now find an even deeper deal on the current-generation Apple Watch SE 3 from $179 and Apple Watch Series ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
     },
@@ -1404,42 +1440,6 @@
       "summary": "Apple is expected to release the iPhone 18 and iPhone Air 2 sometime next spring. Ahead of that launch, new dummy units posted to social media today give us a closer look at the devices, including a big update to the iPhone Air 2. 9to5Mac is supported by Sony ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
-    },
-    {
-      "title": "WhatsApp Raises Group Chat Limit to 1,500 Members",
-      "url": "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
-      "source": "MacRumors",
-      "published": "2026-11-20T12:44:01+00:00",
-      "summary": "WhatsApp is allowing group chats to have up to 1,500 members on iPhone and Android, up from the previous limit of 1,024 participants, according to WABetaInfo . The increase means group chat admins have room for another 476 people in a single conversation. The ",
-      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge",
-      "published": "2026-11-20T12:30:47+00:00",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "ai"
-    },
-    {
-      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "source": "Ars Technica",
-      "published": "2026-11-20T12:30:29+00:00",
-      "summary": "Gambling? We're just swapping contracts!",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Seminole tribe tries to stop DraftKings' \"illegal gambling\" in Florida",
-      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "source": "Ars Technica",
-      "published": "2026-11-20T12:30:29+00:00",
-      "summary": "Gambling? We're just swapping contracts!",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
-      "category": "other"
     }
   ]
 }
