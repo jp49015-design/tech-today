@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-22T22:10:48.075722+00:00",
+  "updated_at": "2026-11-23T02:45:40.557982+00:00",
   "articles": [
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-11-23T01:25:53+00:00",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "image": "",
+      "category": "other"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "published": "2026-11-22T22:48:02+00:00",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intell",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
     {
       "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
       "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
@@ -45,6 +63,15 @@
       "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
       "image": "",
       "category": "other"
+    },
+    {
+      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
+      "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
+      "source": "MacRumors",
+      "published": "2026-11-22T20:52:00+00:00",
+      "summary": "Apple's AirPods Pro 3 have dropped to an even lower price today for Black Friday, available for $169.99 on Amazon, down from $249.00. This beats the previous low price by about $10, and is matching the all-time low price we've only seen once before very briefl",
+      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg",
+      "category": "apple"
     },
     {
       "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
@@ -137,15 +164,6 @@
       "category": "other"
     },
     {
-      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
-      "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
-      "source": "MacRumors",
-      "published": "2026-11-22T15:40:00+00:00",
-      "summary": "Apple's AirPods Pro 3 have dropped to an even lower price today for Black Friday, available for $169.99 on Amazon, down from $249.00. This beats the previous low price by about $10, and is matching the all-time low price we've only seen once before very briefl",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg",
-      "category": "apple"
-    },
-    {
       "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
       "url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
       "source": "MacRumors",
@@ -218,6 +236,15 @@
       "category": "google"
     },
     {
+      "title": "The Google Home app is better than Nest alone ever was, mostly",
+      "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+      "source": "9to5Google",
+      "published": "2026-11-22T14:00:00+00:00",
+      "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been. 9to5Google Weekender by Ben Schoon is a part ",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
       "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
       "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
       "source": "The Verge",
@@ -234,15 +261,6 @@
       "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headpho",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
-    },
-    {
-      "title": "The Google Home app is better than Nest alone ever was, mostly",
-      "url": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
-      "source": "9to5Google",
-      "published": "2026-11-22T14:00:00+00:00",
-      "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been. 9to5Google Weekender by Ben Schoon is a part ",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
     },
     {
       "title": "How Tamagotchis got us hooked on digital pets",
@@ -425,15 +443,6 @@
       "category": "other"
     },
     {
-      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
-      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
-      "source": "9to5Google",
-      "published": "2026-11-21T17:00:00+00:00",
-      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
       "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
       "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
       "source": "9to5Mac",
@@ -441,6 +450,15 @@
       "summary": "Google Workspace now includes a complete set of AI features to help small and micro businesses save time, effort, and money. For a limited time, 9to5Mac readers can get 20% off any of the Business Starter, Standard, and Plus plans for the first six months … mo",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/GWS_Gemini.jpeg?quality=82&strip=all&w=1600",
       "category": "ai"
+    },
+    {
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "source": "9to5Google",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – whic",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "RIP, Apple Support Community",
@@ -1421,24 +1439,6 @@
       "published": "2026-11-20T12:30:29+00:00",
       "summary": "Gambling? We're just swapping contracts!",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
-      "url": "https://9to5mac.com/2026/11/20/best-apple-black-friday-deals-now-live/",
-      "source": "9to5Mac",
-      "published": "2026-11-20T12:28:00+00:00",
-      "summary": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at $120 off $130 off , the new Beats 360 modular ANC headphones",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5toys_black_friday_02-02.png?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Science has a home here at Ars—please help keep it that way",
-      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-      "source": "Ars Technica",
-      "published": "2026-11-20T12:15:36+00:00",
-      "summary": "Your support for Ars matters more now than ever.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
       "category": "other"
     }
   ]
