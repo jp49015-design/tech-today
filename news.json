@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-25T02:31:21.895200+00:00",
+  "updated_at": "2026-11-25T11:39:23.645571+00:00",
   "articles": [
+    {
+      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "source": "The Verge",
+      "published": "2026-11-25T11:12:42+00:00",
+      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had bee",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Threads App for iPad Now Available",
+      "url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
+      "source": "MacRumors",
+      "published": "2026-11-25T11:10:54+00:00",
+      "summary": "Threads has released a native iPad app. Threads design head Christopher Clare said on Monday it was coming \"very soon,\" and it has since appeared on the App Store . This first version is a single-column feed, even in landscape. Clare has said the team prioriti",
+      "image": "https://images.macrumors.com/article-new/2026/11/Threads-iPad-App.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "source": "MacRumors",
+      "published": "2026-11-25T10:27:42+00:00",
+      "summary": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows. When you ask Claude to create an artifact, you can now click \"Install as app\" in the Share menu, after which you'll be able to launch i",
+      "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
+      "category": "apple"
+    },
     {
       "title": "PrismML’s Bonsai 2.5 brings better coding and tool use to on-device AI",
       "url": "https://9to5mac.com/2026/11/24/prismmls-bonsai-2-5-brings-better-coding-and-tool-use-to-on-device-ai/",
@@ -20,7 +47,7 @@
       "category": "other"
     },
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch",
       "published": "2026-11-25T00:12:02+00:00",
@@ -1413,33 +1440,6 @@
       "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "image": "",
       "category": "other"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available in Google Antigravity for AI Pro",
-      "url": "https://9to5google.com/2026/11/23/antigravity-gemini-4-carbon/",
-      "source": "9to5Google",
-      "published": "2026-11-23T21:16:33+00:00",
-      "summary": "Following all the model launches this month, Google is bringing Gemini 4 Carbon to paid AI Pro subscribers in Antigravity. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "source": "The Verge",
-      "published": "2026-11-23T21:09:37+00:00",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Apple Store With All-New Design Opening in UK Next Month",
-      "url": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle/",
-      "source": "MacRumors",
-      "published": "2026-11-23T21:08:30+00:00",
-      "summary": "Apple today announced that it will be opening a new, modernized store at The Oracle in Reading, England on Thursday, December 3. Apple's existing store in the shopping center is permanently closing on December 1 as part of the transition. Apple Festival Place ",
-      "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
-      "category": "apple"
     }
   ]
 }
