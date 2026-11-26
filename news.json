@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-26T03:07:48.231730+00:00",
+  "updated_at": "2026-11-26T12:22:15.083856+00:00",
   "articles": [
+    {
+      "title": "X finally gets six parental controls for teen accounts, but kids must consent",
+      "url": "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/",
+      "source": "9to5Mac",
+      "published": "2026-11-26T12:19:54+00:00",
+      "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds. X has finally joined the party. A parent or guardian now has control over six dif",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/X-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent.jpg?quality=82&strip=all&w=1400",
+      "category": "apple"
+    },
+    {
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "source": "Ars Technica",
+      "published": "2026-11-26T12:15:42+00:00",
+      "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store",
+      "url": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store/",
+      "source": "9to5Mac",
+      "published": "2026-11-26T12:03:10+00:00",
+      "summary": "Apple has quietly announced the upcoming opening of its latest retail store in Hyderabad, India . Located at the Lakeshore Mall in Kukatpally, it opens at 5pm on Thursday, December 10. As is now usual, the company has created some exclusive wallpaper to mark t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Wallpaper-for-Apple-Kukatpally.jpeg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "source": "Ars Technica",
+      "published": "2026-11-26T12:00:14+00:00",
+      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
+      "category": "other"
+    },
+    {
+      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+      "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+      "source": "The Verge",
+      "published": "2026-11-26T12:00:00+00:00",
+      "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cru",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple Faces Korean Regulator Review Over iPhone 16 AI Advertising",
+      "url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+      "source": "MacRumors",
+      "published": "2026-11-26T11:19:46+00:00",
+      "summary": "Apple is facing a formal probe in South Korea over allegations that its iPhone 16 advertising misled consumers about the availability of Apple Intelligence features. Investigators at the country's Fair Trade Commission (FTC) have referred Apple and Apple Korea",
+      "image": "https://images.macrumors.com/article-new/2024/09/iphone-16-apple-intelligence.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Apple Watch Ultra 4 Hits New Best-Ever Price of $649.99 for Black Friday",
+      "url": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
+      "source": "MacRumors",
+      "published": "2026-11-26T11:07:27+00:00",
+      "summary": "The Apple Watch Ultra 4 has dropped to a new all-time low price for Black Friday, available for $649.99 in a few colors, down from $799.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may re",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-ultra-4-lights.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "X is finally getting its first parental controls",
+      "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+      "source": "The Verge",
+      "published": "2026-11-26T10:45:50+00:00",
+      "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, s",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge",
+      "published": "2026-11-26T09:54:40+00:00",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "New Apple Store Opening in India, Download the Special Wallpaper Now",
+      "url": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
+      "source": "MacRumors",
+      "published": "2026-11-26T04:17:15+00:00",
+      "summary": "Apple has announced it will be opening an all-new store at the Lake Shore shopping mall in Hyderabad, India on Thursday, December 10 at 5 p.m. local time. Apple Kukatpally will be the company's first store in Hyderabad and its seventh in India . To celebrate t",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Kukatpally-Wallpaper.jpg",
+      "category": "apple"
+    },
     {
       "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
       "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
@@ -45,6 +135,15 @@
       "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Google’s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors",
+      "url": "https://9to5google.com/2026/11/25/googles-pixelsnap-ring-stand-gets-first-sale-that-includes-new-pixel-11-colors/",
+      "source": "9to5Google",
+      "published": "2026-11-25T23:35:00+00:00",
+      "summary": "Google’s Pixelsnap Ring Stand is a simple add-on for Pixel 10 and Pixel 11 phones and, for Black Friday, it’s got its first sale since adding new colors alongside the Pixel 11 series. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixelsnap-ring-stand-canyon-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
     },
     {
       "title": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028",
@@ -221,7 +320,7 @@
       "title": "Get Apple's Cheapest iPad for $379 During Amazon's Black Friday Sale",
       "url": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
       "source": "MacRumors",
-      "published": "2026-11-25T20:22:10+00:00",
+      "published": "2026-11-25T20:22:01+00:00",
       "summary": "Apple's entry-level iPad has hit its lowest post-hike price on Amazon for Black Friday, starting at $379.00 for the 128GB Wi-Fi iPad, down from $449.00. This is the 11-inch iPad with Apple's A16 chip and Touch ID. Note: MacRumors is an affiliate partner with s",
       "image": "https://images.macrumors.com/article-new/2026/11/ipad-better-gold.jpeg",
       "category": "apple"
@@ -680,7 +779,7 @@
       "title": "Amazon Sweetens Black Friday Deals on PROLED MacBook Pro",
       "url": "https://www.macrumors.com/2026/11/25/amazon-black-friday-proled-macbook-pro/",
       "source": "MacRumors",
-      "published": "2026-11-25T15:26:23+00:00",
+      "published": "2026-11-25T15:26:13+00:00",
       "summary": "Amazon today has sweetened the deals on Apple's 16-inch MacBook Pro with PROLED XDR Display, with up to $327 off these computers for Black Friday. You'll find discounts on every 16-inch model below, but we aren't tracking any sales on the 14-inch models yet. N",
       "image": "https://images.macrumors.com/article-new/2026/11/macbook-proled-gold.jpeg",
       "category": "apple"
@@ -1341,105 +1440,6 @@
       "summary": "Google Maps has a pretty consistent style, but a new option appears to be in the works with a darker “high-visibility” setting. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Google-Maps.jpg?quality=82&strip=all&w=1600",
       "category": "google"
-    },
-    {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T18:30:42+00:00",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-      "source": "Ars Technica",
-      "published": "2026-11-24T18:30:36+00:00",
-      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Kagi, the paid Google Search alternative, now has a Gmail rival too",
-      "url": "https://9to5google.com/2026/11/24/kagi-the-paid-google-search-alternative-now-has-a-gmail-rival-too/",
-      "source": "9to5Google",
-      "published": "2026-11-24T18:30:00+00:00",
-      "summary": "Kagi is best known as a paid alternative to Google Search, but the company is now introducing its own email service that offers an alternative to Gmail. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/kagi-mail-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Disney+ Black Friday Deal is Here: Bundle With Hulu for Just $4.99/Month for a Year",
-      "url": "https://www.macrumors.com/2026/11/24/disney-black-friday-deal/",
-      "source": "MacRumors",
-      "published": "2026-11-24T18:22:40+00:00",
-      "summary": "Yesterday we began tracking all of the best Black Friday streaming deals , but Disney+ and Hulu hadn't yet kicked off an official seasonal discount at the time. Today that's changed, and you can now get a bundle of the two services starting at $4.99/month for ",
-      "image": "https://images.macrumors.com/article-new/2025/11/disney-new-new-holiday.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "How brewers can protect beers from smoke-tainted hops",
-      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-      "source": "Ars Technica",
-      "published": "2026-11-24T18:18:37+00:00",
-      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
-      "source": "Ars Technica",
-      "published": "2026-11-24T18:03:58+00:00",
-      "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T18:02:59+00:00",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-      "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T17:44:34+00:00",
-      "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "source": "Ars Technica",
-      "published": "2026-11-24T17:34:34+00:00",
-      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
-      "source": "The Verge",
-      "published": "2026-11-24T17:30:00+00:00",
-      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/testing-matic-cues-gesture-control.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-      "source": "TechCrunch",
-      "published": "2026-11-24T17:29:09+00:00",
-      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
-      "image": "",
-      "category": "other"
     }
   ]
 }
