@@ -1,11 +1,632 @@
 {
-  "updated_at": "2026-11-27T13:13:28.410852+00:00",
+  "updated_at": "2026-11-27T22:01:03.554170+00:00",
   "articles": [
+    {
+      "title": "The 25 best gaming deals we’ve found so far for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T21:50:00+00:00",
+      "summary": "While deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, accessories, and monitors to make up for it. We thought it’d be useful",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/World-of-Warcraft-Shaman-keyart.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple claims six of China’s 10 bestselling smartphones during Singles’ Day",
+      "url": "https://9to5mac.com/2026/11/27/apple-claims-six-of-chinas-10-bestselling-smartphones-during-singles-day/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T21:49:17+00:00",
+      "summary": "Counterpoint Research says Apple led smartphone sales in China during this year’s Double 11 shopping festival (also known as Singles’ Day), despite a broader slump in smartphone demand. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&w=1500",
+      "category": "apple"
+    },
+    {
+      "title": "Pixelated 127: Nobody reads, nobody writes",
+      "url": "https://9to5google.com/2026/11/27/pixelated-127-nobody-reads-nobody-writes/",
+      "source": "9to5Google",
+      "published": "2026-11-27T21:30:00+00:00",
+      "summary": "Welcome to Pixelated episode 127. This week, we’re unlocking a bonus episode from the vault. Originally recorded in the aftermath of the Pixel 11 launch and review cycle, listen in as Abner, Damien, and Will discuss how they stay motivated to continue reportin",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
+      "url": "https://9to5google.com/2026/11/27/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
+      "source": "9to5Google",
+      "published": "2026-11-27T21:17:44+00:00",
+      "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one tha",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/WD-X16-7-crop.jpg?quality=82&strip=all&w=1200",
+      "category": "google"
+    },
+    {
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "published": "2026-11-27T21:09:43+00:00",
+      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "MacWhisper now remembers speakers’ voices across recordings",
+      "url": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T21:08:01+00:00",
+      "summary": "Dutch developer Jordi Bruin rolled out an update to his excellent transcription app MacWhisper this week with a much-requested feature: the ability to automatically identify previously named speakers in new recordings. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+      "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+      "source": "The Verge",
+      "published": "2026-11-27T20:48:04+00:00",
+      "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The company has decided, rather tha",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268415_MPC_Sample_TO_Brien_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Here are the best Apple Watch deals for Black Friday",
+      "url": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T20:40:35+00:00",
+      "summary": "Amazon is serving up the best prices ever on the latest Apple Watch models for Black Friday 2026. As we push through the biggest sale of the year, with particularly fantastic deals live on AirPods Pro 3 at an insane $100 off and 2026 AirPods Max at $130 off , ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-ceramic1.jpeg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+      "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T20:31:12+00:00",
+      "summary": "Chile’s national competition authority, Fiscalía Nacional Económica (FNE), has filed an antitrust lawsuit against Apple, accusing the company of abusing its dominant position in iOS app distribution and in-app purchases. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T20:30:00+00:00",
+      "summary": "If our sub-$30 Black Friday roundup has you hungry for more great gadgets at low prices, you can currently grab the Nothing CMF Buds 2A in black starting at $17.89 on Amazon for Black Friday, which is about $11 less than the MSRP and the lowest price we’ve see",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Buds-2a-in-Dark-Grey.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T20:30:00+00:00",
+      "summary": "If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more",
+      "url": "https://9to5mac.com/2026/11/27/daily-november-27-2026/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T20:01:59+00:00",
+      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "You might lose your Oura health data if you’re still using an old Android phone",
+      "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+      "source": "The Verge",
+      "published": "2026-11-27T19:44:19+00:00",
+      "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on Decem",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0176.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "google"
+    },
+    {
+      "title": "The best Black Friday deals on smart home gear",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "source": "The Verge",
+      "published": "2026-11-27T19:30:00+00:00",
+      "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuum",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home",
+      "url": "https://9to5mac.com/2026/11/27/meross-ms605/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T19:30:00+00:00",
+      "summary": "Presence sensors tell Apple Home when someone is in a particular room, which is awesome for running automations based on that. They don’t tell it where in the room you are, though. That’s why these types of automations end up being all-or-nothing type things: ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Meross-Sensor.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Google Play Black Friday deals: Loads of Android games and apps on sale today",
+      "url": "https://9to5toys.com/2026/11/27/google-play-black-friday-deals/",
+      "source": "9to5Google",
+      "published": "2026-11-27T19:29:59+00:00",
+      "summary": "The official main Pixel 11 Pro, Pixel 11 Pro XL. However, the Google Play Store has loads of deals of its own this week, and you’ll find the best of them waiting down below. Just be sure to also scope out Google’s Pixel Watch 5 starting from $285 shipped , the",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-8fefe7.webp?w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans",
+      "url": "https://9to5google.com/2026/11/27/the-oneplus-coloros-17-update-is-proving-to-be-a-disappointment-for-fans/",
+      "source": "9to5Google",
+      "published": "2026-11-27T19:27:57+00:00",
+      "summary": "As OxygenOS is slowly being replaced by ColorOS on OnePlus devices, long-time OnePlus fans are expressing their disappointment with several missing OnePlus features. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-05.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Apple TV unveils major new sci-fi series that’s coming soon",
+      "url": "https://9to5mac.com/2026/11/27/apple-tv-unveils-major-new-sci-fi-series-thats-coming-soon/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T19:22:45+00:00",
+      "summary": "Apple TV ( only $6.99/month for Black Friday ) is about to debut its next major sci-fi series: Neuromancer. A recent behind-the-scenes piece reveals new details on what could be the streamer’s next Severance or Pluribus-sized hit. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/neuromancer-chair-callum-turner.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "I’m so glad I didn’t give up on the Galaxy Z Fold 8",
+      "url": "https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/",
+      "source": "9to5Google",
+      "published": "2026-11-27T19:15:00+00:00",
+      "summary": "For a phone that heavily tested my patience in the first few weeks, the Galaxy Z Fold 8 has become an all-time favorite. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Review: The Alexa Tablet 12 Pro is an iPad alternative I actually want to use",
+      "url": "https://9to5google.com/2026/11/27/amazon-alexa-tablet-12-pro-review/",
+      "source": "9to5Google",
+      "published": "2026-11-27T19:00:00+00:00",
+      "summary": "I knew Amazon’s new flagship tablet was different when I found myself actually reaching for it. Of course, you might be saying, that’s the job of a reviewer: to use the device throughout your daily life and let people know the good, the bad, and the ugly. But ",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/alexa-tablet-12-pro-03.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats",
+      "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T18:42:21+00:00",
+      "summary": "OpenAI has countersued Apple, accusing the iPhone maker of stealing trade secrets and threatening suppliers working on its upcoming devices. The filing escalates a legal fight that began with Apple’s lawsuit against OpenAI in July . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-01.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
+      "title": "What new Google Messages features are rolling out [November 2026]",
+      "url": "https://9to5google.com/2026/11/27/new-google-messages-features/",
+      "source": "9to5Google",
+      "published": "2026-11-27T18:38:00+00:00",
+      "summary": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current ",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "source": "The Verge",
+      "published": "2026-11-27T18:30:00+00:00",
+      "summary": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price",
+      "url": "https://9to5mac.com/2026/11/27/aqara-w200-adaptive-temperature-thermostat-review/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T18:26:36+00:00",
+      "summary": "Earlier this year, my wife and I bought our first house. Along with all the other exciting things, it’s also let me spend a lot of time testing new smart home gear. One of the most important and useful smart home accessories is a smart thermostat. Six months a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/aqara-w200.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The Pixel Watch 5 just hit a new low of $284 on Black Friday",
+      "url": "https://9to5google.com/2026/11/27/pixel-watch-5-black-friday-deal-2026/",
+      "source": "9to5Google",
+      "published": "2026-11-27T18:18:50+00:00",
+      "summary": "Target has already run out of the deal, but Amazon still seems to have stock of the 41mm Pixel Watch 5 Black Friday deal. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-Watch-5-Steph-Curry-.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The best wireless Android Auto + CarPlay adapter I’ve used gets a rare discount for Black Friday",
+      "url": "https://9to5google.com/2026/11/27/aawireless-android-auto-carplay-wireless-adapter-black-friday-sale/",
+      "source": "9to5Google",
+      "published": "2026-11-27T18:05:00+00:00",
+      "summary": "Android Auto and Apple CarPlay are important tools for any drive, but many cars can’t use them without a wire. That’s where wireless adapters step in, and AAWireless’ Android Auto + CarPlay adapter is the best I’ve used, and it’s got a solid Black Friday disco",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/aawireless-two-plus-android-auto-carplay-8.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Here are the best Black Friday iPad deals",
+      "url": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T18:03:10+00:00",
+      "summary": "The official Amazon Black Friday sale is flying right now with a bananas deal on AirPods Pro 3 at $100 off , an equally wild $400 off M5 MacBook Air , and now even lower prices on the new M6 MacBook Pro at $250 off , but there are some solid iPad discounts liv",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ipad-mini-hero2-edited-1.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems",
+      "url": "https://9to5google.com/2026/11/27/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems/",
+      "source": "9to5Google",
+      "published": "2026-11-27T17:57:35+00:00",
+      "summary": "Black Friday is one of the best times of the year to tackle some of the bigger upgrades around your...",
+      "image": "",
+      "category": "google"
+    },
+    {
+      "title": "Three new iPhones will launch early next year, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T17:57:23+00:00",
+      "summary": "Apple recently launched the iPhone 18 Pro and iPhone Duo, but three more new iPhone models will reportedly arrive in early 2027. Here’s what’s coming. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-yellow.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "source": "The Verge",
+      "published": "2026-11-27T17:30:00+00:00",
+      "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Chris",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
+    },
+    {
+      "title": "Apple's M6 and PROLED MacBook Pro Reach New Low Prices for Black Friday",
+      "url": "https://www.macrumors.com/2026/11/27/m6-and-proled-macbook-pro-black-friday/",
+      "source": "MacRumors",
+      "published": "2026-11-27T17:27:01+00:00",
+      "summary": "It's Black Friday , and MacBook discounts have become some of the latest and greatest offers on Amazon today. You can get $250 off M6 MacBook Pro and up to $327 off PROLED MacBook Pro right now. Note: MacRumors is an affiliate partner with some of these vendor",
+      "image": "https://images.macrumors.com/article-new/2026/11/m6-macbook-pro-blue-snow.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming",
+      "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
+      "source": "MacRumors",
+      "published": "2026-11-27T17:21:07+00:00",
+      "summary": "On this week's episode of The MacRumors Show , we take a look at Apple's upcoming iPhone 18 , iPhone 18e, and iPhone Air 2, which are expected to launch in early 2027. Subscribe to The MacRumors Show YouTube channel for more videos Apple is expected to introdu",
+      "image": "",
+      "category": "apple"
+    },
+    {
+      "title": "TCL NXTPAPER displays look amazing, and they’re up to 38% off right now",
+      "url": "https://9to5google.com/2026/11/27/tcl-nxtpaper-black-friday-sale-2026/",
+      "source": "9to5Google",
+      "published": "2026-11-27T17:13:55+00:00",
+      "summary": "TCL’s Black Friday deals are making the company’s most affordable NXTPAPER phones and tablets an even better price. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/tcl-nxtpaper-11-plus-3.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "source": "Ars Technica",
+      "published": "2026-11-27T17:05:37+00:00",
+      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg",
+      "category": "other"
+    },
+    {
+      "title": "iPhone Duo Diary: Pros & cons in early real-life use",
+      "url": "https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T17:00:00+00:00",
+      "summary": "I said back at the launch that I was experiencing extreme levels of technolust for the iPhone Duo despite feeling that it wasn’t the best match for me. A hands-on session of around half an hour in an Apple Store didn’t change either impression. But there’s of ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-Duo-Diary-–-Pros-cons-in-early-real-life-use.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Black Friday deals: Galaxy Z Fold 8 at least $450 off, Echo smart displays $100 off, Pixel Watch 5 $115 off, more",
+      "url": "https://9to5google.com/2026/11/27/black-friday-deals-fold-8-echo-smart-display-pixel-watch-5/",
+      "source": "9to5Google",
+      "published": "2026-11-27T16:57:55+00:00",
+      "summary": "The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as much as $115 off Pixel Watch 5 models, and the best price ever on Google Home Speaker . We also have Galaxy Z Fold 8 at a giant $450 off the list price (or even lower for some users directly at Sams",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-27-2.webp?w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Apple Store in Brisbane Reopening Next Month With New Design",
+      "url": "https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/",
+      "source": "MacRumors",
+      "published": "2026-11-27T16:53:31+00:00",
+      "summary": "Apple has announced that its retail store at the Westfield Chermside shopping mall in Chermside, a suburb of Brisbane, Australia, will be reopening on Friday, December 11 at 9 a.m. local time. The store has been temporarily closed for renovations since late Ap",
+      "image": "https://images.macrumors.com/article-new/2026/11/Wooden-Apple-Logo-Feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "macOS 27.3 adds three new Mac features, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/11/27/macos-27-3-adds-three-new-features-to-your-mac-heres-whats-coming/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T16:53:06+00:00",
+      "summary": "macOS 27.3 is launching next month alongside iOS 27.3 and more, and it includes a variety of new features for Mac users. Here are three macOS 27.3 features coming soon. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Like clockwork, the Pixel 11 is a way better buy after a few months [Video]",
+      "url": "https://9to5google.com/2026/11/27/like-clockwork-the-pixel-11-is-a-way-better-buy-after-a-few-months-video/",
+      "source": "9to5Google",
+      "published": "2026-11-27T16:45:00+00:00",
+      "summary": "Like clockwork, the first quarter of the Pixel 11 brings discounts, and this shines a light on the base model that needs to be explored. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-design-6.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Amazon’s newest Ring Battery Doorbell beats Nest with 2K, and it’s only $39 right now",
+      "url": "https://9to5google.com/2026/11/27/ring-battery-doorbell-2k-cameras-black-friday-2026/",
+      "source": "9to5Google",
+      "published": "2026-11-27T16:44:53+00:00",
+      "summary": "A video doorbell for under $40? Kinda wild, but that’s how it goes with Ring Black Friday deals this year. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/11/All-New-Ring-Battery-Doorbell-Pro-01.webp?w=1200",
+      "category": "google"
+    },
+    {
+      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "published": "2026-11-27T16:30:37+00:00",
+      "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "apple"
+    },
+    {
+      "title": "Google Pixel prepares new ‘Priority Notifications’ feature – here’s what it will do",
+      "url": "https://9to5google.com/2026/11/27/google-pixel-prepares-new-priority-notifications-feature-heres-what-it-will-do/",
+      "source": "9to5Google",
+      "published": "2026-11-27T16:30:00+00:00",
+      "summary": "Google has a new “Priority Notifications” feature in the works for Pixel phones with the ability to pull your most important information to the top of the screen and even highlight it with a bit of color. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-11.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off, Series 12, more",
+      "url": "https://9to5mac.com/2026/11/27/apple-black-friday-deals-airpods-macbook-watch/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T16:27:22+00:00",
+      "summary": "The official main event Black Friday sales are now live everywhere and the Apple deals are wild at Amazon. Alongside the brilliant deal on AirPods Pro 3 at a wild $100 off , the M5 MacBook Air offers at $400 off , and MacBook Neo models at $100 off , Amazon ha",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-official-Black-Friday-deals-2026.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for",
+      "url": "https://9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T16:14:17+00:00",
+      "summary": "Apple has launched several exciting new products in the last month, including iPhone Duo and the redesigned MacBook Pro. But my personal favorite new product is Apple’s HomeView . Here’s how I’ve been using it. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The 60+ Best Black Friday Accessory Deals on iPhone Chargers, TVs, Headphones, and More",
+      "url": "https://www.macrumors.com/2026/11/27/60-best-black-friday-accessory-deals/",
+      "source": "MacRumors",
+      "published": "2026-11-27T16:06:21+00:00",
+      "summary": "Black Friday is here, and as part of the event we're tracking great discounts on Apple-related accessories. If you're looking for Apple products, our dedicated post on all the Apple Black Friday deals available now covers every Apple device on sale right now. ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-10.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "2026 tech gift guide for Apple users [Black Friday prices]",
+      "url": "https://9to5mac.com/2026/11/27/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T16:00:00+00:00",
+      "summary": "It’s Black Friday, and I’ve updated my 2026 tech gift guide with today’s prices. These are products I’ve used myself and would give to the Apple users in my life. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2026-9to5mac-gift-guide.webp?w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "AirPods Pro 3 one year later: Still the best, and getting even better",
+      "url": "https://9to5mac.com/2026/11/27/airpods-pro-3-one-year-later/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T15:55:08+00:00",
+      "summary": "It’s been just over a year since Apple released AirPods Pro 3, and I can confidently say I’ve worn them every day since. After a year of heavy use, I’m even more convinced that AirPods Pro 3 are the best money you can spend on Apple gear (especially at current",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/AirPods-Pro-3-review0004.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Google Docs can now do more with Microsoft Word documents without converting the file",
+      "url": "https://9to5google.com/2026/11/27/google-docs-microsoft-word-compare-documents/",
+      "source": "9to5Google",
+      "published": "2026-11-27T15:55:00+00:00",
+      "summary": "Google Docs is getting an update in how it handles Microsoft Word documents, adding the ability to compare revisions without converting the file. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-docs-3.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "GTA VI Now (Barely) Running on Apple Silicon Macs",
+      "url": "https://www.macrumors.com/2026/11/27/gta-vi-on-apple-silicon-macs/",
+      "source": "MacRumors",
+      "published": "2026-11-27T15:46:16+00:00",
+      "summary": "\"Grand Theft Auto VI\" can theoretically now run on Apple silicon Macs via unofficial community projects, despite Rockstar Games offering no official Mac version. Developers have adapted the Xbox Series version of the game to work on macOS unofficially, with so",
+      "image": "https://images.macrumors.com/article-new/2026/11/grand-theft-auto-iv-scaled.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Android app developers will have to publicly post address, phone number in 2027",
+      "url": "https://9to5google.com/2026/11/27/android-app-developers-will-have-to-publicly-post-address-phone-number-in-2027/",
+      "source": "9to5Google",
+      "published": "2026-11-27T15:35:00+00:00",
+      "summary": "Following new regulations, Google Play will require Android app developers to publicly post a business address starting in 2027 and, while there are workarounds, it’s not going to be the easiest thing. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-14.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+      "url": "https://9to5mac.com/2026/11/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T15:31:52+00:00",
+      "summary": "iOS 27.2 introduced new features for Messages , Apple TV , and more, including two improvements for CarPlay. Here’s what’s new for CarPlay users. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "9to5Mac Overtime 092: The obvious answer is AirPods Pro 3",
+      "url": "https://9to5mac.com/2026/11/27/9to5mac-overtime-092-the-obvious-answer-is-airpods-pro-3/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T15:31:45+00:00",
+      "summary": "On this week’s Overtime, we talk Magic Mouse vs. MX Master, the smart glasses everyone keeps asking about, and what Jeff found when he tested the HomePod mini 2’s latency. Then we get into the best Black Friday Apple deals, like AirPods Pro 3 for $149 and why ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5Mac-Overtime-092.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "When Google Store Black Friday 2026 deals end: Schedule",
+      "url": "https://9to5google.com/2026/11/27/google-store-black-friday-2026-schedule/",
+      "source": "9to5Google",
+      "published": "2026-11-27T15:30:00+00:00",
+      "summary": "The Google Store’s Black Friday 2026 discounts are well underway , but you should keep in mind their end dates across three distinct product waves. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Store-Black-Friday-2026-schedule.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "The Best Black Friday Streaming Deals on Apple TV, Disney+, and More",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-streaming/",
+      "source": "MacRumors",
+      "published": "2026-11-27T15:06:49+00:00",
+      "summary": "We've been focusing on deals on physical products over the past few weeks, but Black Friday is also a great time of year to purchase a streaming membership. Some of the biggest services have great discounts for new and select returning members this week, inclu",
+      "image": "https://images.macrumors.com/article-new/2025/11/streaming-black-friday-2025.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "These are the best AirPods deals for Black Friday",
+      "url": "https://9to5mac.com/2026/11/27/airpods-pro-black-friday-deals-pirces/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T15:03:06+00:00",
+      "summary": "The massive main event Amazon Black Friday sale is now flying with some of the best AirPods deals ever. Delivering what is quite possibly the very best deal we have tracked all year for anything, you can now score the world’s best earbuds at a wildly low price",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "iOS 27.3 adds limits for these advanced features, details here",
+      "url": "https://9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T14:50:41+00:00",
+      "summary": "iOS 27.3 launches soon with a key change: certain advanced AI features will have daily usage limits. In an article posted on X , leaker pdfu details how this new system works. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "WhatsApp is adding travel eSIMs",
+      "url": "https://9to5google.com/2026/11/27/whatsapp-is-adding-travel-esims/",
+      "source": "9to5Google",
+      "published": "2026-11-27T14:45:00+00:00",
+      "summary": "WhatsApp is adding support for eSIMs in its app, designed for keeping you connected while traveling, though details are not fully clear. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/WhatsApp-logo-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Google says it has fixed Gemini’s RAM usage error in Chrome",
+      "url": "https://9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error/",
+      "source": "9to5Google",
+      "published": "2026-11-27T14:35:00+00:00",
+      "summary": "Google has fixed an issue that caused excessive RAM use by Gemini for Chrome users. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-1.jpg?quality=82&strip=all&w=1600",
+      "category": "ai"
+    },
+    {
+      "title": "Apple TV's 'Carême' Wins International Emmy for Best Drama",
+      "url": "https://www.macrumors.com/2026/11/27/careme-wins-emmy/",
+      "source": "MacRumors",
+      "published": "2026-11-27T14:30:59+00:00",
+      "summary": "Apple TV's French-language drama \"Carême\" won the Drama Series award at the 54th International Emmy Awards earlier this week, marking Apple's second win in the category following \"Drops of God\" in 2024. The series follows a chef whose culinary ambitions draw h",
+      "image": "https://images.macrumors.com/article-new/2026/11/careme.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Storage is expensive right now, but these deals are worth it if you’re desperate for space",
+      "url": "https://9to5google.com/2026/11/27/storage-deals/",
+      "source": "9to5Google",
+      "published": "2026-11-27T14:30:00+00:00",
+      "summary": "We can blame AI for many things, least of all the steep increase in the cost of integral storage and memory we need for PCs, Macs, phones, and consoles. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/06/Physical-storage.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Best Black Friday deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs, more [Updated]",
+      "url": "https://9to5google.com/2026/11/27/best-thanksgiving-deals-pixel-galaxy-chargers/",
+      "source": "9to5Google",
+      "published": "2026-11-27T14:09:00+00:00",
+      "summary": "The giant Amazon Pixel 11 devices (up to $400 off), alongside the delivery of all-time low pricing on the latest Google Pixelsnap Ring Stand at $24 and the ongoing all-time low on the 2026 Google Home Speaker . All of that joins now even deeper deals on Galaxy",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Best-Black-Friday-Apple-deals-2026-Google.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Apple TV is $6.99/month (50% off) for Black Friday, details here",
+      "url": "https://9to5mac.com/2026/11/27/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T13:59:20+00:00",
+      "summary": "Apple TV has a Black Friday deal now available that lets new and returning subscribers get the service for just $6.99/month for up to six months (normally $14.99/month). Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "Every single pair of Xreal smart glasses is now on sale for Black Friday",
+      "url": "https://9to5google.com/2026/11/27/all-xreal-glasses-black-friday-sale-2026/",
+      "source": "9to5Google",
+      "published": "2026-11-27T13:54:07+00:00",
+      "summary": "Xreal offers an impressively wide range of smart display glasses that give you a massive virtual display without the massive price tag. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xreal-one-pro-vs-xreal-one-pro-plus-01-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "These are the best Mac Black Friday deals",
+      "url": "https://9to5mac.com/2026/11/27/mac-black-friday-deals-roundup/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T13:53:28+00:00",
+      "summary": "We have now made our way to the Black Friday main event , with Amazon’s biggest sale of the year delivering an incredible $100 price drop on AirPods Pro 3 , but the MacBook deals are going crazy here today too, folks. We have M5 MacBook Air at a wild $400 off ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-top-down.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "iPhone 18 Production Delay Leaves Apple Little Time Before Launch",
+      "url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+      "source": "MacRumors",
+      "published": "2026-11-27T13:48:42+00:00",
+      "summary": "Apple's upcoming iPhone 18 and iPhone 18e models are reportedly suffering from another production delay. In a new post on Weibo, the leaker known as \"Fixed Focus Digital\" claimed that neither model has entered mass production, with the start pushed back from l",
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
+      "category": "apple"
+    },
+    {
+      "title": "Samsung’s biggest Galaxy Z Fold 8 discounts yet are live, up to $900 for some",
+      "url": "https://9to5google.com/2026/11/27/samsung-galaxy-z-fold-8-black-friday-deal/",
+      "source": "9to5Google",
+      "published": "2026-11-27T13:45:00+00:00",
+      "summary": "Samsung’s hit Galaxy Z Fold 8 saved its best deal for Black Friday, with a new low price on Amazon and a targeted Samsung.com offer that drops the price by up to $900 – here’s what you should know. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Bark and Garmin have Black Friday kids’ smartwatch deals you won’t want to refuse",
+      "url": "https://9to5google.com/2026/11/27/garmin-bark-watch-black-friday-deals-2026/",
+      "source": "9to5Google",
+      "published": "2026-11-27T13:30:01+00:00",
+      "summary": "Garmin and Bark are competing for your money this year, and these sales make it easy to get something fun that’ll keep your kids safe and in touch. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/bark-watch-garmin-bounce-2-on-wrist-02-1.jpg?quality=82&strip=all&w=1600",
+      "category": "google"
+    },
+    {
+      "title": "Apple Black Friday, Siri AI usage limits, more on HomeView",
+      "url": "https://9to5mac.com/2026/11/27/happy-hour-618/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T13:26:05+00:00",
+      "summary": "Happy Thanksgiving! Benjamin and Chance talk about Apple’s typically underwhelming Black Friday shopping event, the apparent return of PRODUCT(RED), and Apple’s confusing ambitions for the future of the HomeView. Also, Apple starts enforcing limits on Siri AI ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The Best Black Friday AirPods Deals Still Available",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airpods-deals-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-27T13:15:00+00:00",
+      "summary": "Black Friday season is always the best time of year to shop for AirPods , and this year Amazon has great discounts on AirPods Pro 3 and AirPods Max 2. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receiv",
+      "image": "https://images.macrumors.com/article-new/2026/11/airpods-snow.jpeg",
+      "category": "apple"
+    },
     {
       "title": "The Best Black Friday Deals on Apple Home Products",
       "url": "https://www.macrumors.com/2026/11/27/the-best-black-friday-deals-on-apple-home-products/",
       "source": "MacRumors",
-      "published": "2026-11-27T13:11:27+00:00",
+      "published": "2026-11-27T13:11:23+00:00",
       "summary": "Black Friday deals started in October, but now that it's actually Black Friday, there are some deeper discounts on smart home products worth checking out. We've rounded up some of the best smart home deals we could find, many of which come from Amazon. Note: M",
       "image": "https://images.macrumors.com/article-new/2026/11/The-Best-Black-Friday-Deals-on-Apple-Home-Products-Feature.jpg",
       "category": "apple"
@@ -29,6 +650,15 @@
       "category": "apple"
     },
     {
+      "title": "The Best Black Friday iPhone Deals Still Available",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-27T12:58:22+00:00",
+      "summary": "Cellular carriers have always offered big savings on the newest iPhone models during the holidays, and Black Friday 2026 is no different, with major discounts at AT&T and T-Mobile , as well as Best Buy . Right now we're tracking notable offers on the iPhone 18",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-18-snow.jpeg",
+      "category": "apple"
+    },
+    {
       "title": "These $297 Meta Quest 3S Black Friday deals come with a $50 gift card",
       "url": "https://9to5google.com/2026/11/27/meta-quest-3s-black-friday-week-2026-deal/",
       "source": "9to5Google",
@@ -47,12 +677,39 @@
       "category": "apple"
     },
     {
+      "title": "The Best Black Friday iPad Deals Still Available",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-ipad-deals-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-27T12:54:10+00:00",
+      "summary": "iPad deals are in abundance this Black Friday season, with major discounts on the M4 iPad Air and iPad mini 7 happening today. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small",
+      "image": "https://images.macrumors.com/article-new/2026/11/ipad-snowflakes.jpeg",
+      "category": "apple"
+    },
+    {
       "title": "The Best Black Friday Apple Watch Deals",
       "url": "https://www.macrumors.com/2026/11/27/best-black-friday-apple-watch-deals-2026/",
       "source": "MacRumors",
       "published": "2026-11-27T12:48:33+00:00",
       "summary": "Major Apple Watch discounts have arrived for Black Friday , including the year's best prices on Apple Watch Series 12, Apple Watch SE 3, Apple Watch Ultra 4, and Apple Watch Ultra 3. Note: MacRumors is an affiliate partner with some of these vendors. When you ",
       "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-lights-blue.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "The Best Black Friday Apple Watch Deals Still Available",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-apple-watch-deals-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-27T12:48:29+00:00",
+      "summary": "Major Apple Watch discounts have arrived for Black Friday , including the year's best prices on Apple Watch Series 12, Apple Watch SE 3, Apple Watch Ultra 4, and Apple Watch Ultra 3. Note: MacRumors is an affiliate partner with some of these vendors. When you ",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-lights-blue.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "The Best Black Friday AirTag Deals Still Available",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airtag-deals-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-27T12:43:55+00:00",
+      "summary": "One of the cheapest Black Friday deals this year is Apple's AirTag 2 for $18.00 at Amazon and Best Buy , down from $29.00. This deal is on the 1-Pack of the AirTag 2, and it's a new record low price for the accessory. Note: MacRumors is an affiliate partner wi",
+      "image": "https://images.macrumors.com/article-new/2026/11/airtag-2-lights.jpeg",
       "category": "apple"
     },
     {
@@ -69,6 +726,15 @@
       "url": "https://www.macrumors.com/2026/11/27/best-black-friday-mac-deals-2026/",
       "source": "MacRumors",
       "published": "2026-11-27T12:39:36+00:00",
+      "summary": "Black Friday is here, and we're tracking some of the year's best prices on Apple's Mac lineup today. This includes the new M6 MacBook Pro, MacBook Pro with PROLED XDR, MacBook Neo, MacBook Air, and more. Note: MacRumors is an affiliate partner with some of the",
+      "image": "https://images.macrumors.com/article-new/2026/11/mac-candy.jpeg",
+      "category": "apple"
+    },
+    {
+      "title": "The Best Black Friday Mac Deals Still Available",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-mac-deals-2026/",
+      "source": "MacRumors",
+      "published": "2026-11-27T12:39:32+00:00",
       "summary": "Black Friday is here, and we're tracking some of the year's best prices on Apple's Mac lineup today. This includes the new M6 MacBook Pro, MacBook Pro with PROLED XDR, MacBook Neo, MacBook Air, and more. Note: MacRumors is an affiliate partner with some of the",
       "image": "https://images.macrumors.com/article-new/2026/11/mac-candy.jpeg",
       "category": "apple"
@@ -110,15 +776,6 @@
       "category": "apple"
     },
     {
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-      "source": "The Verge",
-      "published": "2026-11-27T11:52:34+00:00",
-      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
       "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
       "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
       "source": "Ars Technica",
@@ -155,12 +812,30 @@
       "category": "apple"
     },
     {
+      "title": "Apple launches Black Friday Shopping Event: Here’s how much you can save",
+      "url": "https://9to5mac.com/2026/11/27/apple-black-friday-shopping-event-deals/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T08:10:50+00:00",
+      "summary": "Apple has officially kicked off its Black Friday Shopping Event in the United States and other countries. You can score an Apple gift card of up to $300 with an eligible product. Apple’s offer comes as Black Friday deals at Amazon continue, with more lucrative",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-gifts.webp?w=1500",
+      "category": "apple"
+    },
+    {
       "title": "Apple launches Black Friday Shopping Event: Is it worth it?",
       "url": "https://9to5mac.com/2026/11/27/apple-black-friday-shopping-event-deals/",
       "source": "9to5Mac",
       "published": "2026-11-27T08:10:50+00:00",
       "summary": "Apple has officially kicked off its Black Friday Shopping Event in the United States and other countries. You can score an Apple gift card of up to $300 with an eligible product. Apple’s offer comes as Black Friday deals at Amazon continue, with more lucrative",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-gifts.webp?w=1500",
+      "category": "apple"
+    },
+    {
+      "title": "Best Apple Black Friday deals: AirPods, MacBook, Apple Watch, AirTag 2, more [Updated]",
+      "url": "https://9to5mac.com/2026/11/27/best-apple-black-friday-thanksgiving-deals/",
+      "source": "9to5Mac",
+      "published": "2026-11-27T08:05:00+00:00",
+      "summary": "Amazon has now launched its massive Thanksgiving Black Friday sale and the deals are seriously wild on Apple gear. Not only do we have AirPods Pro 3 at $100 off the list price, but you can now score M5 MacBook Air is at a insane $400 off the list price, MacBoo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-Black-Friday-Apple-deals-2026.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
     },
     {
@@ -182,12 +857,30 @@
       "category": "other"
     },
     {
+      "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads [U]",
+      "url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+      "source": "9to5Mac",
+      "published": "2026-11-26T22:56:12+00:00",
+      "summary": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-intelligence-iphone-16.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
       "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
       "url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
       "source": "9to5Mac",
       "published": "2026-11-26T22:56:12+00:00",
       "summary": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-intelligence-iphone-16.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
+    {
+      "title": "The 50+ Best Apple Black Friday Deals Still Available on AirPods, iPads, and More",
+      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "source": "MacRumors",
+      "published": "2026-11-26T21:19:53+00:00",
+      "summary": "Black Friday is winding down, but there are still plenty of great discounts to grab right now. This year we're tracking big sales on popular Apple products like AirPods, iPad, Apple Watch, and much more. Note: MacRumors is an affiliate partner with some of the",
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-1.jpg",
       "category": "apple"
     },
     {
@@ -497,15 +1190,6 @@
       "category": "google"
     },
     {
-      "title": "Best Apple Black Friday deals: AirPods, MacBook, Apple Watch, AirTag 2, more [Updated]",
-      "url": "https://9to5mac.com/2026/11/26/best-apple-black-friday-thanksgiving-deals/",
-      "source": "9to5Mac",
-      "published": "2026-11-26T14:05:19+00:00",
-      "summary": "Amazon has now launched its massive Thanksgiving Black Friday sale and the deals are seriously wild on Apple gear. Not only do we have AirPods Pro 3 at $100 off the list price, but you can now score M5 MacBook Air is at a insane $400 off the list price, MacBoo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-Black-Friday-Apple-deals-2026.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
       "title": "Best Apple Black Friday Thanksgiving deals: AirPods, MacBook, Apple Watch, AirTag 2, more",
       "url": "https://9to5mac.com/2026/11/26/best-apple-black-friday-thanksgiving-deals/",
       "source": "9to5Mac",
@@ -756,690 +1440,6 @@
       "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
-    },
-    {
-      "title": "Google’s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors",
-      "url": "https://9to5google.com/2026/11/25/googles-pixelsnap-ring-stand-gets-first-sale-that-includes-new-pixel-11-colors/",
-      "source": "9to5Google",
-      "published": "2026-11-25T23:35:00+00:00",
-      "summary": "Google’s Pixelsnap Ring Stand is a simple add-on for Pixel 10 and Pixel 11 phones and, for Black Friday, it’s got its first sale since adding new colors alongside the Pixel 11 series. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixelsnap-ring-stand-canyon-2.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028",
-      "url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/",
-      "source": "MacRumors",
-      "published": "2026-11-25T23:30:14+00:00",
-      "summary": "A MacBook Air with a new look could launch in late 2027 or 2028, Bloomberg 's Mark Gurman said in the latest episode of his Power On podcast. Apple plans to refresh the ‌MacBook Air‌ with M6 chips in early 2027 alongside the MacBook Neo 2, but that update won'",
-      "image": "https://images.macrumors.com/article-new/2026/11/m5-macbook-air-pink.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "1Password confirms security incident, here’s what you need to know",
-      "url": "https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T23:30:05+00:00",
-      "summary": "Password management platform 1Password today disclosed a security incident in which an attacker gained access to internal systems and stole select customer account information. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T22:44:32+00:00",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T22:36:45+00:00",
-      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Major developers, legal experts, and 32 states back Epic in Apple’s SCOTUS appeal",
-      "url": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T22:16:14+00:00",
-      "summary": "In a significant development in Apple’s Supreme Court appeal of a civil contempt ruling, Epic Games has received backing from 32 states and the District of Columbia, along with major developers, legal experts, former federal judges, and more. Here are the deta",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Motorola Signature 27 hands-on: Pure elegance on display",
-      "url": "https://9to5google.com/2026/11/25/motorola-signature-27-hands-on/",
-      "source": "9to5Google",
-      "published": "2026-11-25T22:12:17+00:00",
-      "summary": "It’s hard to believe we finally got a proper premium phone from Motorola again, and it feels a bit like the return of the Moto X. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-back-green-hands-on.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Screens can now turn iPhone Duo into a tiny MacBook",
-      "url": "https://9to5mac.com/2026/11/25/screens-can-now-turn-iphone-duo-into-a-tiny-macbook/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T22:10:00+00:00",
-      "summary": "Screens 5.10 delivered two highly-requested desktop features to users earlier this month. Now the app is back with a fun update for iPhone Duo users: tiny laptop mode. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/screens-iphone-duo.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "source": "The Verge",
-      "published": "2026-11-25T21:51:26+00:00",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortuna",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
-      "category": "google"
-    },
-    {
-      "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features",
-      "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
-      "source": "9to5Google",
-      "published": "2026-11-25T21:50:00+00:00",
-      "summary": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600",
-      "category": "ai"
-    },
-    {
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "source": "The Verge",
-      "published": "2026-11-25T21:48:00+00:00",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "AirPods Pro 3 for $149 is One of The Best Black Friday Deals This Year",
-      "url": "https://www.macrumors.com/2026/11/25/amazon-airpods-pro-3-deal-back/",
-      "source": "MacRumors",
-      "published": "2026-11-25T21:25:00+00:00",
-      "summary": "Apple's AirPods Pro 3 have dropped to the record low price of $149.00 on Amazon, down from $249.00. This remains one of the best deals this Black Friday season. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we ",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-gold.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "1Password Security Breach: What Was Accessed and What Wasn't",
-      "url": "https://www.macrumors.com/2026/11/25/1password-security-breach/",
-      "source": "MacRumors",
-      "published": "2026-11-25T21:09:16+00:00",
-      "summary": "Popular password management app 1Password today said it experienced a security breach earlier this month. 1Password says some customer names and email addresses were accessed, but no customer vault contents were compromised. On November 19, 1Password saw indic",
-      "image": "https://images.macrumors.com/article-new/2022/05/1password-deal-blue.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Apple TV just won prestigious award for hit drama series",
-      "url": "https://9to5mac.com/2026/11/25/apple-tv-just-won-prestigious-award-for-hit-drama-series/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T21:04:00+00:00",
-      "summary": "Apple TV ( now $6.99/month for Black Friday ) won big at this year’s Emmy Awards thanks to Widow’s Bay , and this week at the International Emmys, the streamer triumphed again as Carême won the top Drama Series prize. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/careme-benjamin-voisin-1.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Google search alternative Kagi launches Gmail rival",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T20:57:09+00:00",
-      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
-      "category": "google"
-    },
-    {
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T20:56:44+00:00",
-      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "WhatsApp Finally Adds Scheduled Messages",
-      "url": "https://www.macrumors.com/2026/11/25/whatsapp-finally-adds-scheduled-messages/",
-      "source": "MacRumors",
-      "published": "2026-11-25T20:38:44+00:00",
-      "summary": "Popular messaging app WhatsApp was today updated with an option to schedule messages, which the company says was one of its most requested features. WhatsApp users can create a message and schedule it to arrive from 10 minutes to 14 days later in one-to-one ch",
-      "image": "https://images.macrumors.com/article-new/2026/11/whatsapp-scheduled-messages.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-      "source": "The Verge",
-      "published": "2026-11-25T20:31:48+00:00",
-      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "9to5Google’s Best of 2026",
-      "url": "https://9to5google.com/2026/11/25/9to5googles-best-of-2026/",
-      "source": "9to5Google",
-      "published": "2026-11-25T20:29:37+00:00",
-      "summary": "We reviewed dozens of products in 2026 , and the one through line across all of them was cost. Because of RAMageddon, everything was more expensive, and it became somewhat easier to separate the products that were good because they were cheap from the ones tha",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5google-best-of-2026-feature-composite.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Report: Apple gains ground as Latin American smartphone shipments plunge 24% in Q3",
-      "url": "https://9to5mac.com/2026/11/25/report-apple-gains-ground-as-latin-american-smartphone-shipments-plunge-24-in-q3/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T20:22:28+00:00",
-      "summary": "According to a new Counterpoint Research report, Apple increased its share of Latin America’s smartphone shipments in Q3 2026, recording the smallest decline among the region’s top five brands. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18-pro-glacier-angled.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Get Apple's Cheapest iPad for $379 During Amazon's Black Friday Sale",
-      "url": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
-      "source": "MacRumors",
-      "published": "2026-11-25T20:22:01+00:00",
-      "summary": "Apple's entry-level iPad has hit its lowest post-hike price on Amazon for Black Friday, starting at $379.00 for the 128GB Wi-Fi iPad, down from $449.00. This is the 11-inch iPad with Apple's A16 chip and Touch ID. Note: MacRumors is an affiliate partner with s",
-      "image": "https://images.macrumors.com/article-new/2026/11/ipad-better-gold.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T20:03:27+00:00",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "image": "",
-      "category": "ai"
-    },
-    {
-      "title": "Rumor: iOS 28 to Revamp Notifications",
-      "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
-      "source": "MacRumors",
-      "published": "2026-11-25T19:58:06+00:00",
-      "summary": "Earlier today, we resurfaced a longstanding issue with Apple not consistently enforcing its rules related to iPhone apps advertising through notifications . It is a good time to share that we heard from multiple sources that Apple is planning to revamp the iPh",
-      "image": "https://images.macrumors.com/article-new/2026/06/ios-26-iphone-16-pro-lock-screen-notifications-feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:54:57+00:00",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:54:32+00:00",
-      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
-      "source": "The Verge",
-      "published": "2026-11-25T19:45:51+00:00",
-      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T19:44:24+00:00",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "iOS 27.3 release date: Here’s when new iPhone features are coming",
-      "url": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T19:38:33+00:00",
-      "summary": "iOS 27.3 is coming soon, packed with new features for iPhone users. Here’s when to expect the next big iPhone software update. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "‘Old’ Galaxy phones are a better deal; here’s what you should buy",
-      "url": "https://9to5google.com/2026/11/25/old-galaxy-phones-are-a-better-deal-heres-what-you-should-buy/",
-      "source": "9to5Google",
-      "published": "2026-11-25T19:15:00+00:00",
-      "summary": "Old is a label, and saying last year’s Galaxy flagships from Samsung are dated or worthless is disingenuous. You can get a killer deal on a phone a generation or two old. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S23-and-S25-Ultra-cameras.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "1Password breach leaked customer names and emails, but not passwords",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "source": "The Verge",
-      "published": "2026-11-25T19:10:15+00:00",
-      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a po",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "‘Enough Phone’ is stuffing a bigger battery, more RAM & storage into its small Android phone at no extra cost",
-      "url": "https://9to5google.com/2026/11/25/enough-phone-ram-storage-battery-upgrades/",
-      "source": "9to5Google",
-      "published": "2026-11-25T19:10:00+00:00",
-      "summary": "The “Enough Phone” is trying to fulfill the small Android phone dream and, now, it’s getting some spec upgrades to the battery, RAM, and storage, all with no added cost. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/enough-phone-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T18:49:52+00:00",
-      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Hello Weather is the best Apple Weather app on Android",
-      "url": "https://9to5google.com/2026/11/25/hello-weather-android-apple/",
-      "source": "9to5Google",
-      "published": "2026-11-25T18:44:03+00:00",
-      "summary": "While Pixel Weather serves my needs quite well, I’ve been looking for a way to check Apple Weather (previously Dark Sky) forecast data on Android, and I’ve finally found it with Hello Weather by Electric Dream Machine . more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Hello-Weather-cover.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Backblaze explains why it's sharing customer information with advertisers",
-      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T18:38:29+00:00",
-      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Mid-week Android app deals and freebies: Stardew Valley, The Past Within, Almost Out of Mana, more",
-      "url": "https://9to5toys.com/2026/11/25/today-google-play-deals-app-deals-stardew-valley/",
-      "source": "9to5Google",
-      "published": "2026-11-25T18:34:08+00:00",
-      "summary": "Day 7 of the massive Amazon Black Friday sale is rolling alongside the Best Buy Black Friday Week 4 deals and the official Walmart 2026 Black Friday sale , however we also have a fresh batch of mid-week Android game and app deals to scope out as well. Highligh",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-7925fc.webp?w=1600",
-      "category": "google"
-    },
-    {
-      "title": "WhatsApp launches highly requested new feature for sending messages later",
-      "url": "https://9to5mac.com/2026/11/25/whatsapp-launches-highly-requested-new-feature-for-sending-messages-later/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T18:32:29+00:00",
-      "summary": "WhatsApp just announced that it is rolling out scheduled messages, which it says is one of users’ most requested features. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T18:22:38+00:00",
-      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
-      "category": "other"
-    },
-    {
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T18:11:46+00:00",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Apple touts ‘longest battery life ever in an iPhone’ in playful new 18 Pro Max ad",
-      "url": "https://9to5mac.com/2026/11/25/apple-touts-longest-battery-life-ever-in-an-iphone-in-playful-new-18-pro-max-ad/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T18:11:34+00:00",
-      "summary": "Apple just dropped a playful new iPhone 18 Pro Max ad that touts the model’s “longest battery life ever in an iPhone.” more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18pro.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published": "2026-11-25T18:00:00+00:00",
-      "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "The loneliest peptide party in New York",
-      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-      "source": "The Verge",
-      "published": "2026-11-25T18:00:00+00:00",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns next week",
-      "url": "https://9to5mac.com/2026/11/25/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-next-week/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T17:45:52+00:00",
-      "summary": "Apple TV ( now $6.99/month for Black Friday ) has a new season of hit comedy Bad Monkey coming next week from Bill Lawrence, co-creator of Ted Lasso and Shrinking. Here’s what Lawrence says to expect from Bad Monkey season 2. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/bad-monkey-s1-couple-beach.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source": "The Verge",
-      "published": "2026-11-25T17:44:51+00:00",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in sp",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Save serious money with RedPocket Mobile’s $5 Black Friday plans",
-      "url": "https://9to5google.com/2026/11/25/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
-      "source": "9to5Google",
-      "published": "2026-11-25T17:41:47+00:00",
-      "summary": "You’re not going to believe this, but there’s one part of your life that’s not actually getting more expensive. If you switch to RedPocket Mobile during its Black Friday sale, you can ditch your costly carrier and get a plan that starts at $5 per month. It’s n",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/00947cc8ee4c3fe022e46888fd9a63f8_abt-us-mob.webp?w=1536",
-      "category": "google"
-    },
-    {
-      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T17:36:51+00:00",
-      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T17:35:58+00:00",
-      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T17:33:30+00:00",
-      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
-      "category": "other"
-    },
-    {
-      "title": "Festivitas brings holiday cheer to your Mac with snow you can shovel",
-      "url": "https://9to5mac.com/2026/11/25/festivitas-brings-holiday-cheer-to-your-mac-with-snow-you-can-shovel/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T17:31:29+00:00",
-      "summary": "Back in 2024, developer Simon Støvring launched Festivitas , an app that brings a ton of holiday cheer to your Mac. This year, the app is getting even more whimsical and delightful with new snowfall features. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Festivitas-mac-iphone.webp?w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "WhatsApp officially adds scheduled messages, and the rollout is scheduled too",
-      "url": "https://9to5google.com/2026/11/25/whatsapp-officially-adds-scheduled-messages-and-the-rollout-is-scheduled-too/",
-      "source": "9to5Google",
-      "published": "2026-11-25T17:30:00+00:00",
-      "summary": "It’s about time . WhatsApp announced today that it is finally adding support for scheduled messages in its app. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/WhatsApp-logo-3.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "X’s latest update for creators focuses on vertical video",
-      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T17:28:29+00:00",
-      "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Android Auto update improves support for wide displays, but not everyone will see it [Gallery]",
-      "url": "https://9to5google.com/2026/11/25/android-auto-wide-display-update/",
-      "source": "9to5Google",
-      "published": "2026-11-25T17:20:00+00:00",
-      "summary": "Google has rolled out a new update for Android Auto that improves support for wider display formats, but there’s a good chance you won’t be able to see it. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/YouTube-Music-sidebar-widget-on-Android-Auto.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "iPhone 18 Pro Max Battery Exhausts a Toy Cyclops in New Apple Ad",
-      "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
-      "source": "MacRumors",
-      "published": "2026-11-25T17:16:43+00:00",
-      "summary": "Apple today shared a fun ad highlighting the iPhone 18 Pro Max's battery, which offers the longest battery life ever in an iPhone. In the spot, a cyclops toy comes to life and becomes enamored with the ‌iPhone 18 Pro‌ Max. The toy takes photos, plays games, us",
-      "image": "",
-      "category": "apple"
-    },
-    {
-      "title": "Etsy clarifies AI terms after seller backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T17:12:57+00:00",
-      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "$799 Smart Glasses Promise Vision Pro-Style Controls in a 45g Frame",
-      "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
-      "source": "MacRumors",
-      "published": "2026-11-25T17:09:11+00:00",
-      "summary": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams. The company describes the glasses as offering \"Vision Pro",
-      "image": "https://images.macrumors.com/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Peak Design makes some of our favorite tech bags and EDC gear, and they’re up to 40% off",
-      "url": "https://9to5google.com/2026/11/25/our-favorite-peak-design-bags-and-edc-on-sale/",
-      "source": "9to5Google",
-      "published": "2026-11-25T17:04:42+00:00",
-      "summary": "I’ll admit it – I write about Peak Design quite a bit. It’s solid gear, and it doesn’t go on sale often. The entire Peak Design website is running a 40% off Black Friday sale, and these are some of our top recommendations. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Peak-Design-Travel-Sling-3.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "The Verge’s guide to the best gifts under $100",
-      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "source": "The Verge",
-      "published": "2026-11-25T17:00:00+00:00",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "WhatsApp now lets you schedule messages in group and individual chats",
-      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T16:57:51+00:00",
-      "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "Black Friday deals: Galaxy S series phones from $500, A series $230, Legion Go S $710 off, Google Find Hub trackers $16 each, more",
-      "url": "https://9to5google.com/2026/11/25/black-friday-galaxy-phones-legion-go-s-find-hub-tracker/",
-      "source": "9to5Google",
-      "published": "2026-11-25T16:53:07+00:00",
-      "summary": "Update: Latest official Google Pixelsnap Ring Stands just hit the $24 Black Friday Amazon all-time low . We are moving into Day 7 of the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel Watch 5 and now join a giant $710 price drop on Lenovo’s Legion Go S Ste",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-25.webp?w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T16:47:14+00:00",
-      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Major MacBook Air ‘overhaul’ could launch next year, per Gurman",
-      "url": "https://9to5mac.com/2026/11/25/major-macbook-air-overhaul-could-launch-next-year-per-gurman/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T16:34:01+00:00",
-      "summary": "Apple has a new MacBook Air with M6 chip coming early next year , but per Mark Gurman on his latest podcast episode , a “big MacBook Air overhaul” could launch as early as 2027 too. Here’s what he said. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/15-macbook-air-vs-13-air.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T16:33:45+00:00",
-      "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "Black Friday deals: PROLED touch MacBook $290 off, AirPods Pro 3 $100 off, OLED iPad mini $100 off, Watch, much more",
-      "url": "https://9to5mac.com/2026/11/25/black-friday-deals-proled-macbook-airpods-ipad-mini/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T16:29:00+00:00",
-      "summary": "We are pushing forward into Day 7 of the massive Amazon Black Friday sale with AirPods Pro 3 live at an insane $100 off the list price , the $300 price drops on M5 MacBook Air , MacBook Neo from $649 , and Apple Watch Series 12 at $100 off . But today we also ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals-PROLED-MacBook-AirPods-OLED.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "How To Get an iPhone Duo or iPhone 18 Pro at No Cost Through T-Mobile for Black Friday",
-      "url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
-      "source": "MacRumors",
-      "published": "2026-11-25T16:21:38+00:00",
-      "summary": "T-Mobile has quite a few notable offers live for Black Friday , including discounts for the new iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo. These offers come under T-Mobile's newly revamped \"T-Mix\" unlimited plans . Note: MacRumors is an affiliate partne",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-gold.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "Nearly every major smartphone brand is slashing targets for 2027",
-      "url": "https://9to5google.com/2026/11/25/nearly-every-major-smartphone-brand-is-slashing-targets-for-2027/",
-      "source": "9to5Google",
-      "published": "2026-11-25T16:15:00+00:00",
-      "summary": "According to a new report out of China, nearly every major smartphone brand is rethinking its shipment targets for 2027 and slashing its numbers, some by nearly 30%. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-S26-and-Z-Fold-8-family.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Apple Has an iPhone Notifications Problem",
-      "url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/",
-      "source": "MacRumors",
-      "published": "2026-11-25T16:14:55+00:00",
-      "summary": "Apple has rules in place that are supposed to protect iPhone users from unwanted advertising in push notifications and Live Activities, but some apps appear to be flouting these rules, and Apple does not appear to be consistently enforcing them. Apple's App St",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Has-an-iPhone-Notification-Problem-Feature.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "source": "The Verge",
-      "published": "2026-11-25T16:00:59+00:00",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "My favorite accessories every iPhone Duo owner needs to try [Video]",
-      "url": "https://9to5mac.com/2026/11/25/my-favorite-accessories-every-iphone-duo-owner-needs-to-try-video/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T16:00:00+00:00",
-      "summary": "I have been using the iPhone Duo for a bit over a month, and it has easily become my favorite tech product of 2026. Every time I use it, I feel an excitement that only comes from a product category this new. But because it’s so new and the form factor is somet",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/fernando.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Here’s everything Apple still has left to launch in 2026",
-      "url": "https://9to5mac.com/2026/11/25/heres-everything-apple-still-has-left-to-launch-in-2026/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T15:45:39+00:00",
-      "summary": "The last few months have been a wildly busy time for Apple. The company has launched new products like the iPhone Duo , MacBook Pro with PROLED , HomeView , HomePod mini 2 , and much more. As the year comes to a close, however, Apple still has a few more thing",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02639.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "source": "Ars Technica",
-      "published": "2026-11-25T15:35:17+00:00",
-      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
-      "category": "other"
-    },
-    {
-      "title": "iOS 27.3 introduces design changes for these Apple apps",
-      "url": "https://9to5mac.com/2026/11/25/ios-27-3-introduces-design-changes-for-these-apple-apps/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T15:32:08+00:00",
-      "summary": "iOS 27.3 includes many new features for Apple’s built-in apps, but it also introduces design changes on the iPhone across Calendar, Safari, Music, and more. Here’s what’s new. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ios-27-3-home-screen-apps.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 9 lineup looks like it’ll include a new TriFold, leak suggests",
-      "url": "https://9to5google.com/2026/11/25/samsung-galaxy-z-trifold-2-fold-9-leak/",
-      "source": "9to5Google",
-      "published": "2026-11-25T15:30:00+00:00",
-      "summary": "Following its short-lived Galaxy Z TriFold, Samsung appears to have a sequel on the way that’s set to arrive in the Galaxy Z Fold 9 lineup. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/Galaxy-Z-TriFold-CES-2026-hands-on-8.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Amazon Sweetens Black Friday Deals on PROLED MacBook Pro",
-      "url": "https://www.macrumors.com/2026/11/25/amazon-black-friday-proled-macbook-pro/",
-      "source": "MacRumors",
-      "published": "2026-11-25T15:26:13+00:00",
-      "summary": "Amazon today has sweetened the deals on Apple's 16-inch MacBook Pro with PROLED XDR Display, with up to $327 off these computers for Black Friday. You'll find discounts on every 16-inch model below, but we aren't tracking any sales on the 14-inch models yet. N",
-      "image": "https://images.macrumors.com/article-new/2026/11/macbook-proled-gold.jpeg",
-      "category": "apple"
-    },
-    {
-      "title": "The Galaxy A56 is a decent starter phone at just $299 right now",
-      "url": "https://9to5google.com/2026/11/25/the-galaxy-a56-is-a-decent-starter-phone-at-just-299-right-now/",
-      "source": "9to5Google",
-      "published": "2026-11-25T15:16:08+00:00",
-      "summary": "If you are looking for a reliable, everyday handset without spending flagship money, Samsung’s mid-range lineup is usually a safe bet. Right now, the Samsung Galaxy A56 has dropped to just $299 on Amazon, which makes a sizable $200 dent in its original $499 re",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-a56-1.jpg?quality=82&strip=all&w=1600",
-      "category": "google"
-    },
-    {
-      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
-      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T15:08:37+00:00",
-      "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-      "image": "",
-      "category": "other"
-    },
-    {
-      "title": "The Verge’s guide to affordable holiday gifts under $25",
-      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-      "source": "The Verge",
-      "published": "2026-11-25T15:00:00+00:00",
-      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we'",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
-      "url": "https://9to5google.com/2026/11/25/nothing-ear-note-ai-recorder-teaser/",
-      "source": "9to5Google",
-      "published": "2026-11-25T14:58:44+00:00",
-      "summary": "Set to launch on December 8, Nothing has confirmed its mysterious AI product will be called “Ear (note),” and it’s an AI recorder with earbuds inside. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nothing-ear-note-1.png?w=1600",
-      "category": "google"
     }
   ]
 }
