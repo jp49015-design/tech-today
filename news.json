@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-26T21:47:22.145655+00:00",
+  "updated_at": "2026-11-27T03:49:57.844609+00:00",
   "articles": [
+    {
+      "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+      "url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+      "source": "9to5Mac",
+      "published": "2026-11-26T22:56:12+00:00",
+      "summary": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-intelligence-iphone-16.jpg?quality=82&strip=all&w=1600",
+      "category": "apple"
+    },
     {
       "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More",
       "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
@@ -18,6 +27,15 @@
       "summary": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company being the only major smartphone maker to buck the broader trend of declining shipments. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
       "category": "apple"
+    },
+    {
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "The Verge",
+      "published": "2026-11-26T21:00:00+00:00",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, an",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "category": "other"
     },
     {
       "title": "Readdle’s Documents app adds voice recording with transcripts, summaries, more",
@@ -81,6 +99,15 @@
       "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a fe",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "other"
+    },
+    {
+      "title": "Thanksgiving Android app deals and freebies: Bioweaver, Deus Ex GO, Seoul Exorcist 1111, Hitman GO, more",
+      "url": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free/",
+      "source": "9to5Google",
+      "published": "2026-11-26T18:18:40+00:00",
+      "summary": "The giant Amazon Thanksgiving sale is now live as part of its ongoing Black Friday event, alongside the 1-day Best Buy Thanksgiving Flash Sale , but it is time to take a look at today’s Android game and app deals. We have titles like Sands of Salzaar, Radiant:",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-f806db.webp?w=1600",
+      "category": "google"
     },
     {
       "title": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
@@ -1413,33 +1440,6 @@
       "summary": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows. Artifacts are documents, designs, dashboards, and interactive tools that Claude creates in a panel alongside your chat, where you can v",
       "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
       "category": "apple"
-    },
-    {
-      "title": "PrismML’s Bonsai 2.5 brings better coding and tool use to on-device AI",
-      "url": "https://9to5mac.com/2026/11/24/prismmls-bonsai-2-5-brings-better-coding-and-tool-use-to-on-device-ai/",
-      "source": "9to5Mac",
-      "published": "2026-11-25T01:08:37+00:00",
-      "summary": "Back in July, PrismML claimed its roughly 4 GB, 1-bit Bonsai 27B was the first AI model of its size to run on an iPhone. Now PrismML has released Ternary Bonsai 2.5 27B, an update to the model it introduced in September. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/PrismML.png?w=1508",
-      "category": "apple"
-    },
-    {
-      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "source": "The Verge",
-      "published": "2026-11-25T01:00:00+00:00",
-      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "category": "other"
-    },
-    {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "source": "TechCrunch",
-      "published": "2026-11-25T00:12:02+00:00",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits",
-      "image": "",
-      "category": "other"
     }
   ]
 }
