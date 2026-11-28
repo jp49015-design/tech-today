@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-28T03:49:44.047551+00:00",
+  "updated_at": "2026-11-28T12:28:40.654765+00:00",
   "articles": [
+    {
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "source": "Ars Technica",
+      "published": "2026-11-28T12:00:20+00:00",
+      "summary": "Kindles are getting costlier faster than they're getting better.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9931-1152x648-1795408102.jpeg",
+      "category": "other"
+    },
+    {
+      "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
+      "url": "https://www.macrumors.com/2026/11/27/red-homepod-mini-2-seemingly-spotted/",
+      "source": "MacRumors",
+      "published": "2026-11-28T03:50:47+00:00",
+      "summary": "The rumored (PRODUCT)RED version of the HomePod mini 2 has seemingly been spotted on display at a few stores before it is announced. The speaker is expected to be released by Tuesday, December 1, which is World AIDS Day. The photo on the left was initially sha",
+      "image": "https://images.macrumors.com/article-new/2026/11/HomePod-Mini-2-RED-Photos.jpg",
+      "category": "apple"
+    },
     {
       "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
       "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
@@ -428,7 +446,7 @@
       "title": "The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming",
       "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
       "source": "MacRumors",
-      "published": "2026-11-27T17:21:07+00:00",
+      "published": "2026-11-27T17:20:55+00:00",
       "summary": "On this week's episode of The MacRumors Show , we take a look at Apple's upcoming iPhone 18 , iPhone 18e, and iPhone Air 2, which are expected to launch in early 2027. Subscribe to The MacRumors Show YouTube channel for more videos Apple is expected to introdu",
       "image": "",
       "category": "apple"
@@ -1421,24 +1439,6 @@
       "published": "2026-11-26T12:24:29+00:00",
       "summary": "Apple could offer a limited-edition iPhone 20 Pro model that incorporates ceramic, according to the Chinese leaker known as Fixed Focus Digital. In a post on Weibo , the leaker claimed to have gotten their hands on ceramic components for the 20th-anniversary i",
       "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "category": "apple"
-    },
-    {
-      "title": "Best Mac Black Friday deals: $400 off MacBook Air, Neo $100 off, $220 off M6, PROLED, more",
-      "url": "https://9to5mac.com/2026/11/26/best-mac-black-friday-deals/",
-      "source": "9to5Mac",
-      "published": "2026-11-26T12:22:23+00:00",
-      "summary": "We are moving into Day 6 of the massive Amazon Black Friday sale with many of the best Apple deals of the year. Alongside the wild $100 price drop on AirPods Pro 3 and the new OLED iPad mini at $100 off , we are also catching some even lower MacBook deals head",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-09.jpg?quality=82&strip=all&w=1600",
-      "category": "apple"
-    },
-    {
-      "title": "X finally gets six parental controls for teen accounts, but kids must consent",
-      "url": "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/",
-      "source": "9to5Mac",
-      "published": "2026-11-26T12:19:54+00:00",
-      "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds. X has finally joined the party. A parent or guardian now has control over six dif",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/X-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent.jpg?quality=82&strip=all&w=1400",
       "category": "apple"
     }
   ]
